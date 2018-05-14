@@ -1,0 +1,847 @@
+website,location,type,max_temp,min_temp,avg_temp,wind_speed,wind_direction,humidity_percentage,pop,precipitation_amount,prediction_type,date
+bbc.com,los angeles,sunny,23,9,,8,NE,23.0,,,week,06-12-2017
+bbc.com,yuma,sunny,21,10,,19,N,17.0,,,week,06-12-2017
+bbc.com,los angeles,sunny intervals,21,11,15.625,5,WNW,67.375,,,day,30-11-2017
+bbc.com,yuma,light cloud,24,14,18.375,10,NNW,35.0,,,day,30-11-2017
+bbc.com,tucson international airport,light cloud,26,15,19.25,8,E,44.875,,,day,30-11-2017
+bbc.com,tucson international airport,sunny,20,5,,13,ENE,27.0,,,week,06-12-2017
+bbc.com,san antonio,sunny,24,12,18.0,6,ESE,58.5,,,day,30-11-2017
+bbc.com,san antonio,light cloud,18,6,,16,NNE,35.0,,,week,06-12-2017
+bbc.com,beaumont,sunny intervals,17,8,,16,ESE,49.0,,,week,06-12-2017
+bbc.com,houma,light rain shower,23,14,19.25,10,NW,89.625,,,day,30-11-2017
+bbc.com,beaumont,sunny,21,12,16.0,11,N,72.5,,,day,30-11-2017
+bbc.com,pensacola,sunny,18,8,,18,WNW,53.0,,,week,06-12-2017
+bbc.com,houma,sunny,18,9,,18,NE,49.0,,,week,06-12-2017
+bbc.com,pensacola,sunny intervals,22,17,19.25,11,SE,90.5,,,day,30-11-2017
+bbc.com,valdosta regional airport,sunny intervals,19,8,,16,W,54.0,,,week,06-12-2017
+bbc.com,valdosta regional airport,sunny,24,14,18.0,5,E,79.125,,,day,30-11-2017
+bbc.com,miami,light rain shower,26,22,24.0,26,NE,77.375,,,day,30-11-2017
+bbc.com,miami,sunny intervals,25,18,,16,S,69.0,,,week,06-12-2017
+bbc.com,columbia metropolitan airport,sunny intervals,19,13,14.5,3,E,79.0,,,day,30-11-2017
+bbc.com,columbia metropolitan airport,sunny,17,6,,18,W,56.0,,,week,06-12-2017
+bbc.com,atlanta,sunny,15,4,,21,W,61.0,,,week,06-12-2017
+bbc.com,atlanta,light rain shower,19,12,15.375,8,S,92.75,,,day,30-11-2017
+bbc.com,tuscaloosa municipal airport,sunny,14,4,,14,WNW,51.0,,,week,06-12-2017
+bbc.com,tuscaloosa municipal airport,light rain shower,19,13,15.75,8,SW,93.625,,,day,30-11-2017
+bbc.com,oklahoma city,sunny,10,2,,18,NW,38.0,,,week,06-12-2017
+bbc.com,amarillo,light cloud,12,3,6.875,18,ENE,50.0,,,day,30-11-2017
+bbc.com,little rock,sunny,12,3,,14,NW,44.0,,,week,06-12-2017
+bbc.com,oklahoma city,sunny intervals,13,5,8.75,13,NNE,74.375,,,day,30-11-2017
+bbc.com,little rock,light cloud,17,6,12.75,11,NNW,79.375,,,day,30-11-2017
+bbc.com,amarillo,sunny,9,-3,,26,N,36.0,,,week,06-12-2017
+bbc.com,albuquerque,light cloud,14,7,10.375,6,SE,55.625,,,day,30-11-2017
+bbc.com,albuquerque,sunny,10,-2,,10,NNW,35.0,,,week,06-12-2017
+bbc.com,las vegas,sunny,15,6,,6,NE,21.0,,,week,06-12-2017
+bbc.com,flagstaff,sunny,6,-3,,19,E,30.0,,,week,06-12-2017
+bbc.com,flagstaff,light cloud,12,5,8.5,6,SE,62.5,,,day,30-11-2017
+bbc.com,las vegas,light cloud,16,6,11.375,3,ENE,52.5,,,day,30-11-2017
+bbc.com,fresno,light cloud,14,7,9.75,5,W,88.875,,,day,30-11-2017
+bbc.com,fresno,sunny,16,2,,3,NE,56.0,,,week,06-12-2017
+bbc.com,sacramento,sunny,15,5,9.75,3,N,83.375,,,day,30-11-2017
+bbc.com,sacramento,sunny,15,2,,6,N,61.0,,,week,06-12-2017
+bbc.com,grand junction regional airport,sunny,7,-5,,6,ESE,27.0,,,week,06-12-2017
+bbc.com,denver,sunny,12,-1,4.375,11,W,62.25,,,day,30-11-2017
+bbc.com,denver,sunny,5,-7,,14,NNE,38.0,,,week,06-12-2017
+bbc.com,salt lake city,sunny,6,-3,,8,ENE,71.0,,,week,06-12-2017
+bbc.com,grand junction regional airport,sunny intervals,11,1,4.875,3,NW,70.0,,,day,30-11-2017
+bbc.com,salt lake city,sunny,8,1,3.25,8,W,86.125,,,day,30-11-2017
+bbc.com,kansas city,sunny,6,-2,,18,WNW,48.0,,,week,06-12-2017
+bbc.com,kansas city,sunny,11,2,6.625,13,NNW,66.125,,,day,30-11-2017
+bbc.com,nashville,sunny,9,0,,16,WNW,52.0,,,week,06-12-2017
+bbc.com,st louis,sunny,6,-2,,19,WNW,49.0,,,week,06-12-2017
+bbc.com,louisville,sunny,8,0,,21,W,58.0,,,week,06-12-2017
+bbc.com,st louis,sunny,12,2,7.875,14,NNW,72.5,,,day,30-11-2017
+bbc.com,nashville,light rain shower,16,6,11.875,10,WSW,88.0,,,day,30-11-2017
+bbc.com,louisville,light rain,14,2,9.25,10,WSW,90.0,,,day,30-11-2017
+bbc.com,knoxville,light cloud,14,9,10.625,3,WSW,91.75,,,day,30-11-2017
+bbc.com,knoxville,sunny,10,1,,14,W,63.0,,,week,06-12-2017
+bbc.com,rochester,light cloud,9,4,5.25,16,SSW,80.125,,,day,30-11-2017
+bbc.com,cleveland,light cloud,6,-2,,23,WSW,66.0,,,week,06-12-2017
+bbc.com,washington dulles international airport,sunny,11,0,,19,W,62.0,,,week,06-12-2017
+bbc.com,cleveland,light cloud,12,3,7.375,19,SW,80.375,,,day,30-11-2017
+bbc.com,raleigh east airport,sunny,15,4,,16,W,61.0,,,week,06-12-2017
+bbc.com,raleigh east airport,sunny,15,8,10.375,5,ESE,79.75,,,day,30-11-2017
+bbc.com,washington dulles international airport,sunny intervals,11,4,7.125,11,SSE,80.25,,,day,30-11-2017
+bbc.com,sioux falls,sunny,9,-1,3.625,21,WNW,66.75,,,day,30-11-2017
+bbc.com,rochester,light cloud,5,-1,,19,WSW,67.0,,,week,06-12-2017
+bbc.com,bangor,sunny intervals,5,3,3.625,11,S,79.375,,,day,30-11-2017
+bbc.com,chicago,light cloud,2,-5,,23,WNW,56.0,,,week,06-12-2017
+bbc.com,bangor,heavy rain,7,-1,,14,SSE,79.0,,,week,06-12-2017
+bbc.com,minneapolis,light cloud,-2,-9,,18,SSE,49.0,,,week,06-12-2017
+bbc.com,chicago,sunny,9,0,5.25,19,WNW,70.25,,,day,30-11-2017
+bbc.com,minneapolis,sunny intervals,6,0,2.75,18,WNW,75.125,,,day,30-11-2017
+bbc.com,boise,sunny,4,-5,,5,WNW,57.0,,,week,06-12-2017
+bbc.com,sioux falls,sunny intervals,2,-8,,26,NW,47.0,,,week,06-12-2017
+bbc.com,rapid city,sunny intervals,4,-6,,39,NNW,46.0,,,week,06-12-2017
+bbc.com,rapid city,sunny,10,-4,1.625,19,S,52.875,,,day,30-11-2017
+bbc.com,portland,heavy rain,8,5,6.125,6,S,94.375,,,day,30-11-2017
+bbc.com,boise,light cloud,5,0,2.0,8,SSE,80.375,,,day,30-11-2017
+bbc.com,rock springs,sunny,4,-2,-0.625,5,SSW,76.125,,,day,30-11-2017
+bbc.com,rock springs,sunny,1,-9,,11,WNW,50.0,,,week,06-12-2017
+bbc.com,new york,light cloud,7,5,5.25,6,E,80.875,,,day,30-11-2017
+bbc.com,portland,sunny,10,1,,11,NNE,65.0,,,week,06-12-2017
+bbc.com,new york,sunny,11,2,,19,SSW,69.0,,,week,06-12-2017
+bbc.com,spokane international airport,sunny,1,-7,,8,NE,85.0,,,week,06-12-2017
+bbc.com,bismarck,sunny intervals,8,-4,1.875,16,W,62.125,,,day,30-11-2017
+bbc.com,bismarck,light cloud,1,-9,,23,NW,52.0,,,week,06-12-2017
+bbc.com,spokane international airport,light cloud,4,1,1.625,10,ESE,89.25,,,day,30-11-2017
+bbc.com,leeuwarden,light rain,5,-1,1.75,10,NW,95.0,,,day,30-11-2017
+bbc.com,leeuwarden,sunny intervals,8,3,,24,WNW,74.0,,,week,06-12-2017
+bbc.com,amsterdam airport schiphol,sunny intervals,8,3,,26,W,77.0,,,week,06-12-2017
+bbc.com,maastricht aachen airport,light rain shower,3,0,1.625,14,WSW,96.25,,,day,30-11-2017
+bbc.com,de bilt,sunny intervals,7,2,,18,W,81.0,,,week,06-12-2017
+bbc.com,maastricht aachen airport,light cloud,6,2,,18,W,85.0,,,week,06-12-2017
+bbc.com,amsterdam airport schiphol,light cloud,6,-1,2.5,13,ENE,92.625,,,day,30-11-2017
+bbc.com,de bilt,light cloud,6,-1,2.0,11,W,94.375,,,day,30-11-2017
+bbc.com,vlissingen,sunny intervals,7,4,,24,W,78.0,,,week,06-12-2017
+bbc.com,rotterdam,sunny intervals,7,4,,23,W,78.0,,,week,06-12-2017
+bbc.com,rotterdam,light cloud,5,1,2.75,11,WNW,89.125,,,day,30-11-2017
+bbc.com,vlissingen,heavy rain shower,5,1,3.625,19,NW,89.5,,,day,30-11-2017
+bbc.com,eindhoven,light cloud,7,2,,19,W,82.0,,,week,06-12-2017
+bbc.com,eindhoven,light rain,6,-2,2.0,14,WSW,94.5,,,day,30-11-2017
+timeanddate.com,los angeles,Haze.,24,12,,9,ENE,31,6,,day,30-11-2017
+timeanddate.com,los angeles,Sunny.,22,13,,6,WNW,14,3,,week,06-12-2017
+timeanddate.com,yuma marine corps air station,Partly sunny.,25,15,,12,NNW,20,1,,day,30-11-2017
+timeanddate.com,yuma marine corps air station,Morning clouds.,23,13,,22,N,15,3,,week,06-12-2017
+timeanddate.com,davis-monthan air force base,Increasing cloudiness.,25,14,,9,E,22,4,,day,30-11-2017
+timeanddate.com,davis-monthan air force base,Decreasing cloudiness.,21,9,,7,NNW,21,4,,week,06-12-2017
+timeanddate.com,el paso international airport,High level clouds.,21,7,,13,E,24,0,,day,30-11-2017
+timeanddate.com,pensacola regional airport,Sprinkles late. Cloudy.,24,16,,12,SE,75,38,0.0,day,30-11-2017
+timeanddate.com,valdosta regional,Early fog followed by sunny skies.,24,10,,8,ENE,57,10,,day,30-11-2017
+timeanddate.com,el paso international airport,Overcast.,14,6,,21,E,33,6,,week,06-12-2017
+timeanddate.com,midland - midland airpark,Mostly sunny.,19,5,,15,ENE,29,1,,day,30-11-2017
+timeanddate.com,pensacola regional airport,Light rain early. Cloudy.,20,9,,23,NNW,35,57,4.2,week,06-12-2017
+timeanddate.com,valdosta regional,Light rain. Mostly cloudy.,23,12,,19,NW,61,56,3.3,week,06-12-2017
+timeanddate.com,miami international airport,Afternoon clouds.,26,23,,22,NE,69,11,,day,30-11-2017
+timeanddate.com,miami international airport,A few showers. Broken clouds.,27,24,,10,S,57,35,1.1,week,06-12-2017
+timeanddate.com,midland - midland airpark,Sprinkles early. Decreasing cloudiness.,11,4,,10,E,34,43,0.9,week,06-12-2017
+timeanddate.com,san antonio international airport,Morning clouds.,24,11,,10,ENE,38,2,,day,30-11-2017
+timeanddate.com,columbia owens downtown airport,Clearing skies.,21,7,,6,WNW,61,14,,day,30-11-2017
+timeanddate.com,san antonio international airport,Drizzle. Overcast.,15,9,,19,NNE,40,37,1.4,week,06-12-2017
+timeanddate.com,jefferson county airport,Sunny.,23,11,,12,NNW,48,5,,day,30-11-2017
+timeanddate.com,fulton county airport-brown field,Light showers. Morning clouds.,20,10,,9,S,73,49,4.4,day,30-11-2017
+timeanddate.com,columbia owens downtown airport,Rain. Cloudy.,22,10,,19,W,53,50,8.1,week,06-12-2017
+timeanddate.com,jefferson county airport,Sprinkles early. Cloudy.,16,7,,16,N,33,27,0.3,week,06-12-2017
+timeanddate.com,fulton county airport-brown field,Rain early. Overcast.,18,6,,25,WNW,29,50,7.3,week,06-12-2017
+timeanddate.com,lakefront airport,Sprinkles. Cloudy.,23,17,,8,ESE,83,35,4.8,day,30-11-2017
+timeanddate.com,tuscaloosa municipal airport,Light showers. Cloudy.,21,12,,9,SW,78,48,7.2,day,30-11-2017
+timeanddate.com,vicksburg municipal,Clearing skies.,21,13,,12,W,65,16,,day,30-11-2017
+timeanddate.com,lakefront airport,Sprinkles early. Overcast.,19,8,,30,N,37,43,1.3,week,06-12-2017
+timeanddate.com,tuscaloosa municipal airport,Rain early. Overcast.,15,6,,16,NW,36,40,13.1,week,06-12-2017
+timeanddate.com,adams field,Broken clouds.,18,10,,13,NNW,61,8,,day,30-11-2017
+timeanddate.com,vicksburg municipal,Sprinkles early. Overcast.,14,5,,14,NNW,34,39,0.3,week,06-12-2017
+timeanddate.com,adams field,Clearing skies.,12,1,,19,WNW,32,4,,week,06-12-2017
+timeanddate.com,amarillo international airport,High level clouds.,12,1,,16,E,32,1,,day,30-11-2017
+timeanddate.com,amarillo international airport,Clearing skies.,10,-2,,15,WNW,31,5,,week,06-12-2017
+timeanddate.com,albuquerque international airport,High level clouds.,14,5,,12,SE,31,8,,day,30-11-2017
+timeanddate.com,albuquerque international airport,Sunny.,8,0,,7,NNW,15,2,,week,06-12-2017
+timeanddate.com,flagstaff pulliam airport,High level clouds.,12,1,,13,SW,40,7,,day,30-11-2017
+timeanddate.com,flagstaff pulliam airport,Sunny.,6,-7,,13,NE,19,3,,week,06-12-2017
+timeanddate.com,las vegas  mccarran international airport,Mostly sunny.,19,9,,7,NNW,24,1,,day,30-11-2017
+timeanddate.com,fresno air terminal,Haze.,16,5,,11,WNW,60,1,,day,30-11-2017
+timeanddate.com,fresno air terminal,Scattered clouds.,17,7,,7,NW,27,5,,week,06-12-2017
+timeanddate.com,las vegas  mccarran international airport,Sunny.,17,7,,13,NE,11,3,,week,06-12-2017
+timeanddate.com,sacramento executive airport,Haze.,17,5,,10,NNW,54,1,,day,30-11-2017
+timeanddate.com,sacramento executive airport,Morning clouds.,16,7,,3,W,29,5,,week,06-12-2017
+timeanddate.com,elko municipal-harris field,Partly sunny.,7,-5,,10,SW,57,5,,day,30-11-2017
+timeanddate.com,elko municipal-harris field,Clearing skies.,8,-9,,13,NE,30,2,,week,06-12-2017
+timeanddate.com,salt lake city international airport,Afternoon clouds.,9,-1,,9,SE,50,4,,day,30-11-2017
+timeanddate.com,salt lake city international airport,Sunny.,4,-3,,5,NNW,33,2,,week,06-12-2017
+timeanddate.com,walker field,Mostly sunny.,13,-1,,10,ESE,34,0,,day,30-11-2017
+timeanddate.com,walker field,Increasing cloudiness.,3,-8,,6,NNE,19,2,,week,06-12-2017
+timeanddate.com,buckley air force base,Mostly sunny.,11,-2,,13,SE,33,0,,day,30-11-2017
+timeanddate.com,hays municipal,Sunny.,12,-1,,10,NNW,30,2,,day,30-11-2017
+timeanddate.com,hays municipal,Increasing cloudiness.,3,-7,,37,NNW,31,6,,week,06-12-2017
+timeanddate.com,buckley air force base,Mostly cloudy.,5,-4,,9,NE,26,4,,week,06-12-2017
+timeanddate.com,kansas city downtown airport,Sunny.,13,4,,13,NNW,37,4,,day,30-11-2017
+timeanddate.com,lambert-st louis international airport,Morning clouds.,14,4,,16,NNW,42,9,,day,30-11-2017
+timeanddate.com,kansas city downtown airport,Morning clouds.,4,-3,,25,NW,24,4,,week,06-12-2017
+timeanddate.com,lambert-st louis international airport,Morning clouds.,8,-3,,28,WNW,24,4,,week,06-12-2017
+timeanddate.com,standiford field,Light showers. Broken clouds.,13,7,,12,SW,76,63,2.5,day,30-11-2017
+timeanddate.com,nashville international airport,Light showers. Overcast.,18,10,,12,SW,68,56,0.0,day,30-11-2017
+timeanddate.com,standiford field,Rain early. Cloudy.,11,0,,22,W,38,30,2.9,week,06-12-2017
+timeanddate.com,nashville international airport,Heavy rain early. Cloudy.,12,2,,21,WNW,26,31,5.4,week,06-12-2017
+timeanddate.com,mcghee tyson airport,Light showers. Cloudy.,16,5,,8,SW,74,48,0.0,day,30-11-2017
+timeanddate.com,raleigh-durham international airport,Mostly sunny.,18,4,,10,SSE,47,41,0.0,day,30-11-2017
+timeanddate.com,mcghee tyson airport,Rain early. Overcast.,15,1,,19,W,38,47,5.5,week,06-12-2017
+timeanddate.com,raleigh-durham international airport,Rain. Overcast.,20,11,,16,NW,60,57,10.6,week,06-12-2017
+timeanddate.com,reagan national airport,Partly sunny.,13,4,,11,SSE,54,49,0.0,day,30-11-2017
+timeanddate.com,reagan national airport,Light rain early. Overcast.,17,8,,15,WNW,49,46,2.7,week,06-12-2017
+timeanddate.com,cleveland-hopkins international airport,Light rain. Breaks of sun late.,10,3,,19,SW,67,52,0.0,day,30-11-2017
+timeanddate.com,cleveland-hopkins international airport,Rain changing to snow. Overcast.,10,0,,33,WSW,59,50,7.5,week,06-12-2017
+timeanddate.com,greater rochester international airport,Light rain. Cloudy.,9,0,,19,S,61,57,0.0,day,30-11-2017
+timeanddate.com,greater rochester international airport,Light rain. Cloudy.,10,2,,15,W,59,32,1.8,week,06-12-2017
+timeanddate.com,bangor international airport,Mostly sunny.,4,-6,,15,S,55,92,0.0,day,30-11-2017
+timeanddate.com,bangor international airport,Snow changing to rain. Overcast.,4,0,,11,NNE,89,43,8.7,week,06-12-2017
+timeanddate.com,chicago midway airport,Morning clouds.,10,5,,22,WNW,55,5,0.0,day,30-11-2017
+timeanddate.com,st paul international airport,Mostly sunny.,6,-1,,18,WNW,60,2,,day,30-11-2017
+timeanddate.com,chicago midway airport,Rain changing to snow. Cloudy.,4,-3,,34,WNW,53,40,7.4,week,06-12-2017
+timeanddate.com,st paul international airport,Light snow early. Decreasing cloudiness.,-4,-7,,21,NW,52,46,12.9,week,06-12-2017
+timeanddate.com,foss field,Sunny.,8,-1,,18,WNW,47,2,,day,30-11-2017
+timeanddate.com,ellsworth air force base,Mostly sunny.,10,-3,,17,SW,30,1,,day,30-11-2017
+timeanddate.com,ellsworth air force base,Light snow. Cloudy.,1,-6,,20,NNW,62,45,25.0,week,06-12-2017
+timeanddate.com,foss field,Mostly sunny.,-5,-10,,26,NW,43,6,,week,06-12-2017
+timeanddate.com,rock springs weather reporting station,Mostly sunny.,5,-7,,11,WSW,38,0,,day,30-11-2017
+timeanddate.com,boise air terminal,Partly sunny.,6,-2,,11,ESE,51,25,0.0,day,30-11-2017
+timeanddate.com,boise air terminal,Sunny.,5,-3,,4,SSE,41,3,,week,06-12-2017
+timeanddate.com,rock springs weather reporting station,Scattered clouds.,1,-7,,6,WNW,36,4,,week,06-12-2017
+timeanddate.com,boise air terminal,Light icy mix early. Decreasing cloudiness.,6,-2,,15,WNW,58,44,2.1,day,30-11-2017
+timeanddate.com,boise air terminal,Morning clouds.,5,0,,10,W,49,5,,week,06-12-2017
+timeanddate.com,portland international airport,Light rain. Increasing cloudiness.,8,3,,12,SSE,84,94,7.4,day,30-11-2017
+timeanddate.com,portland international airport,Mostly cloudy.,10,8,,7,ENE,45,2,,week,06-12-2017
+timeanddate.com,felts field,Light snow late. Cloudy.,4,-1,,11,SSE,76,58,0.0,day,30-11-2017
+timeanddate.com,felts field,Cloudy.,5,1,,5,NNE,82,4,,week,06-12-2017
+timeanddate.com,great falls international airport,High level clouds.,8,0,,37,SW,30,7,,day,30-11-2017
+timeanddate.com,great falls international airport,Light snow early. Cloudy.,6,0,,10,SW,44,36,6.1,week,06-12-2017
+timeanddate.com,sidney-richland,Mostly sunny.,6,-4,,16,SW,49,1,,day,30-11-2017
+timeanddate.com,bismarck municipal airport,Sunny.,9,-1,,15,W,41,1,,day,30-11-2017
+timeanddate.com,sidney-richland,Cloudy.,-3,-15,,8,W,65,6,,week,06-12-2017
+timeanddate.com,bismarck municipal airport,Sunny.,-5,-15,,14,NW,49,6,,week,06-12-2017
+timeanddate.com,bemidji-beltrami county airport,Afternoon clouds.,0,-4,,17,WNW,82,6,,day,30-11-2017
+timeanddate.com,bemidji-beltrami county airport,Light snow. Overcast.,-10,-15,,25,NW,72,40,31.1,week,06-12-2017
+timeanddate.com,new york city - central park,Partly sunny.,10,2,,9,SE,59,63,0.0,day,30-11-2017
+timeanddate.com,leeuwarden airport,Light rain. Mostly cloudy.,8,5,,15,WNW,95,64,5.1,day,30-11-2017
+timeanddate.com,new york city - central park,Sprinkles. Cloudy.,15,9,,11,WNW,65,47,3.6,week,06-12-2017
+timeanddate.com,leeuwarden airport,Light snow. Morning clouds.,2,-2,,12,NE,84,44,12.2,week,06-12-2017
+timeanddate.com,amsterdam schiphol airport,Light rain. Mostly cloudy.,7,2,,11,SW,96,62,5.2,day,30-11-2017
+timeanddate.com,maastricht airport zuid limburg,Light rain late. Afternoon clouds.,4,0,,14,SSW,99,54,5.0,day,30-11-2017
+timeanddate.com,maastricht airport zuid limburg,Light snow. Cloudy.,1,-2,,22,WNW,94,42,80.9,week,06-12-2017
+timeanddate.com,amsterdam schiphol airport,Light snow. Broken clouds.,2,-1,,15,N,89,41,33.4,week,06-12-2017
+timeanddate.com,amsterdam schiphol airport,Light rain. Mostly cloudy.,8,3,,17,W,92,62,5.0,day,30-11-2017
+timeanddate.com,amsterdam schiphol airport,Light snow. Clearing skies.,3,-2,,14,N,85,42,27.2,week,06-12-2017
+timeanddate.com,cadzand wp,Sprinkles late. Mostly cloudy.,9,5,,19,NW,92,64,4.7,day,30-11-2017
+timeanddate.com,cadzand wp,Light snow. Broken clouds.,5,0,,13,NW,88,44,15.5,week,06-12-2017
+timeanddate.com,eindhoven airport,Light rain. Mostly cloudy.,5,1,,12,SW,99,63,4.9,day,30-11-2017
+timeanddate.com,eindhoven airport,Light snow. Mostly cloudy.,2,-2,,19,NW,93,43,48.8,week,06-12-2017
+timeanddate.com,rotterdam zestienhoven airport,Light rain. Mostly cloudy.,8,3,,12,WNW,97,64,4.8,day,30-11-2017
+timeanddate.com,rotterdam zestienhoven airport,Light snow. Broken clouds.,3,-1,,14,NNW,87,42,19.4,week,06-12-2017
+weatheronline.co.uk,Los Angeles,sunny ,23,13,18.0,15.5,W,,5,,day,30-11-2017
+weatheronline.co.uk,Los Angeles,sunny ,25,12,18.5,15.5,W,,15,,week,06-12-2017
+weatheronline.co.uk,Yuma,various clouds ,26,15,20.5,12.0,NW,,5,,day,30-11-2017
+weatheronline.co.uk,New York,various clouds ,11,2,6.5,8.5,S,,20,,day,30-11-2017
+weatheronline.co.uk,Tucson,various clouds ,27,14,20.5,8.5,E,,20,,day,30-11-2017
+weatheronline.co.uk,Yuma,sunny ,25,11,18.0,19.75,N,,5,,week,06-12-2017
+weatheronline.co.uk,New York,various clouds ,7,6,6.5,12.0,NW,,60,,week,06-12-2017
+weatheronline.co.uk,Tucson,mostly sunny ,21,7,14.0,15.5,N,,25,,week,06-12-2017
+weatheronline.co.uk,El Paso,mostly sunny ,23,6,14.5,12.0,E,,5,,day,30-11-2017
+weatheronline.co.uk,Houma,various clouds ,25,17,21.0,8.5,N,,45,,day,30-11-2017
+weatheronline.co.uk,El Paso,mostly sunny ,13,9,11.0,15.5,E,,45,,week,06-12-2017
+weatheronline.co.uk,Houma,mostly sunny ,21,16,18.5,15.5,W,,30,,week,06-12-2017
+weatheronline.co.uk,Valdosta,mostly sunny ,25,11,18.0,3,E,,5,,day,30-11-2017
+weatheronline.co.uk,Pensacola,various clouds  rain,23,16,19.5,12.0,SE,,60,,day,30-11-2017
+weatheronline.co.uk,San Antonio,mostly sunny ,27,13,20.0,5.75,E,,15,,day,30-11-2017
+weatheronline.co.uk,Beaumont,sunny ,24,12,18.0,12.0,NW,,30,,day,30-11-2017
+weatheronline.co.uk,Valdosta,various clouds ,23,13,18.0,8.5,W,,45,,week,06-12-2017
+weatheronline.co.uk,Pensacola,various clouds ,21,17,19.0,15.5,W,,45,,week,06-12-2017
+weatheronline.co.uk,San Antonio,cloudy ,21,17,19.0,15.5,N,,45,,week,06-12-2017
+weatheronline.co.uk,Beaumont,various clouds  light rain,21,15,18.0,19.75,N,,55,,week,06-12-2017
+weatheronline.co.uk,Miami,mostly sunny ,28,23,25.5,19.75,NE,,10,,day,30-11-2017
+weatheronline.co.uk,Atlanta,various clouds  light rain,21,11,16.0,8.5,SW,,55,,day,30-11-2017
+weatheronline.co.uk,Miami,mostly sunny ,28,21,24.5,12.0,S,,10,,week,06-12-2017
+weatheronline.co.uk,Columbia,various clouds ,20,10,15.0,5.75,W,,35,,day,30-11-2017
+weatheronline.co.uk,Atlanta,various clouds ,15,12,13.5,24.0,NW,,40,,week,06-12-2017
+weatheronline.co.uk,Tuscaloosa,various clouds  rain,22,12,17.0,8.5,SW,,60,,day,30-11-2017
+weatheronline.co.uk,Columbia,various clouds ,20,14,17.0,15.5,W,,55,,week,06-12-2017
+weatheronline.co.uk,Tuscaloosa,various clouds ,16,11,13.5,15.5,NW,,40,,week,06-12-2017
+weatheronline.co.uk,Amarillo,mostly sunny ,13,1,7.0,15.5,E,,20,,day,30-11-2017
+weatheronline.co.uk,Amarillo,various clouds ,6,-2,2.0,24.0,NW,,40,,week,06-12-2017
+weatheronline.co.uk,Flagstaff,various clouds  light rain,12,1,6.5,12.0,SW,,55,,day,30-11-2017
+weatheronline.co.uk,Flagstaff,mostly sunny ,5,-5,0.0,19.75,NE,,30,,week,06-12-2017
+weatheronline.co.uk,Fresno,mostly sunny ,20,6,13.0,8.5,NW,,5,,day,30-11-2017
+weatheronline.co.uk,Little Rock,various clouds ,19,10,14.5,15.5,N,,5,,day,30-11-2017
+weatheronline.co.uk,Fresno,mostly sunny ,18,3,10.5,3,NW,,5,,week,06-12-2017
+weatheronline.co.uk,Little Rock,various clouds ,11,7,9.0,19.75,N,,35,,week,06-12-2017
+weatheronline.co.uk,Winnemucca,mostly sunny ,12,-7,2.5,8.5,W,,15,,day,30-11-2017
+weatheronline.co.uk,Albuquerque,cloudy ,15,5,10.0,12.0,S,,45,,day,30-11-2017
+weatheronline.co.uk,Salt Lake City,various clouds ,9,-3,3.0,8.5,NW,,5,,day,30-11-2017
+weatheronline.co.uk,Winnemucca,sunny ,8,-12,-2.0,5.75,N,,10,,week,06-12-2017
+weatheronline.co.uk,Albuquerque,various clouds ,8,1,4.5,24.0,N,,35,,week,06-12-2017
+weatheronline.co.uk,Salt Lake City,mostly sunny ,6,-4,1.0,12.0,NW,,5,,week,06-12-2017
+weatheronline.co.uk,Grand Junction,sunny ,12,-1,5.5,8.5,W,,5,,day,30-11-2017
+weatheronline.co.uk,Portland,overcast  rain,8,3,5.5,15.5,S,,80,,day,30-11-2017
+weatheronline.co.uk,Oklahoma City,various clouds ,16,5,10.5,19.75,N,,15,,day,30-11-2017
+weatheronline.co.uk,Denver,various clouds ,12,-4,4.0,15.5,E,,5,,day,30-11-2017
+weatheronline.co.uk,Las Vegas,mostly sunny ,9,-1,4.0,19.75,S,,40,,day,30-11-2017
+weatheronline.co.uk,Grand Junction,sunny ,5,-7,-1.0,12.0,N,,10,,week,06-12-2017
+weatheronline.co.uk,Portland,mostly sunny ,9,3,6.0,15.5,SE,,5,,week,06-12-2017
+weatheronline.co.uk,Oklahoma City,various clouds ,8,1,4.5,28.75,N,,40,,week,06-12-2017
+weatheronline.co.uk,Denver,mostly sunny ,4,-8,-2.0,15.5,NE,,10,,week,06-12-2017
+weatheronline.co.uk,Las Vegas,mostly sunny ,3,-7,-2.0,19.75,E,,35,,week,06-12-2017
+weatheronline.co.uk,Sacramento,sunny ,21,6,13.5,5.75,NW,,15,,day,30-11-2017
+weatheronline.co.uk,Hays,sunny ,13,-1,6.0,5.75,NE,,5,,day,30-11-2017
+weatheronline.co.uk,Sacramento,sunny ,17,4,10.5,5.75,N,,10,,week,06-12-2017
+weatheronline.co.uk,Hays,mostly sunny ,7,-4,1.5,24.0,NW,,10,,week,06-12-2017
+weatheronline.co.uk,St. Louis,mostly sunny ,15,8,11.5,19.75,NW,,10,,day,30-11-2017
+weatheronline.co.uk,Louisville,various clouds  light rain,14,8,11.0,12.0,NW,,65,,day,30-11-2017
+weatheronline.co.uk,Kansas City,sunny ,15,6,10.5,12.0,N,,5,,day,30-11-2017
+weatheronline.co.uk,St. Louis,various clouds ,5,-1,2.0,24.0,W,,5,,week,06-12-2017
+weatheronline.co.uk,Louisville,various clouds ,5,3,4.0,24.0,NW,,15,,week,06-12-2017
+weatheronline.co.uk,Kansas City,mostly sunny ,6,-2,2.0,15.5,NW,,5,,week,06-12-2017
+weatheronline.co.uk,Nashville,overcast ,18,11,14.5,8.5,NW,,55,,day,30-11-2017
+weatheronline.co.uk,Nashville,various clouds ,9,7,8.0,19.75,NW,,25,,week,06-12-2017
+weatheronline.co.uk,Knoxville,sunny ,11,3,7.0,19.75,NW,,5,,day,30-11-2017
+weatheronline.co.uk,Knoxville,various clouds ,2,-5,-1.5,28.75,NW,,5,,week,06-12-2017
+weatheronline.co.uk,Reston,various clouds ,12,1,6.5,8.5,S,,35,,day,30-11-2017
+weatheronline.co.uk,Cleveland,mostly sunny ,20,13,16.5,15.5,NW,,20,,day,30-11-2017
+weatheronline.co.uk,Raleigh,various clouds ,17,4,10.5,5.75,SW,,15,,day,30-11-2017
+weatheronline.co.uk,Reston,various clouds ,10,7,8.5,15.5,NW,,45,,week,06-12-2017
+weatheronline.co.uk,Cleveland,various clouds ,12,8,10.0,24.0,N,,45,,week,06-12-2017
+weatheronline.co.uk,Raleigh,various clouds ,17,12,14.5,15.5,W,,60,,week,06-12-2017
+weatheronline.co.uk,Chicago,mostly sunny ,11,5,8.0,19.75,W,,5,,day,30-11-2017
+weatheronline.co.uk,Chicago,various clouds ,0,-4,-2.0,24.0,W,,25,,week,06-12-2017
+weatheronline.co.uk,Sioux Falls,sunny ,11,1,6.0,19.75,NW,,5,,day,30-11-2017
+weatheronline.co.uk,Minneapolis,mostly sunny ,7,3,5.0,19.75,NW,,5,,day,30-11-2017
+weatheronline.co.uk,Sioux Falls,mostly sunny ,1,-7,-3.0,28.75,NW,,5,,week,06-12-2017
+weatheronline.co.uk,Minneapolis,various clouds ,-1,-7,-4.0,28.75,NW,,15,,week,06-12-2017
+weatheronline.co.uk,Boise,mostly sunny ,8,-3,2.5,15.5,SE,,5,,day,30-11-2017
+weatheronline.co.uk,Boise,sunny ,5,-5,0.0,8.5,W,,5,,week,06-12-2017
+weatheronline.co.uk,Spokane,cloudy  light rain,5,-1,2.0,8.5,SE,,55,,day,30-11-2017
+weatheronline.co.uk,Sidney,sunny ,8,-5,1.5,15.5,SW,,5,,day,30-11-2017
+weatheronline.co.uk,Spokane,mostly sunny ,3,-5,-1.0,8.5,N,,5,,week,06-12-2017
+weatheronline.co.uk,Sidney,mostly sunny ,3,-10,-3.5,19.75,W,,15,,week,06-12-2017
+weatheronline.co.uk,Bismarck,sunny ,11,-2,4.5,15.5,SW,,5,,day,30-11-2017
+weatheronline.co.uk,Bemidji,various clouds ,2,0,1.0,19.75,W,,15,,day,30-11-2017
+weatheronline.co.uk,Bismarck,mostly sunny ,1,-9,-4.0,24.0,NW,,15,,week,06-12-2017
+weatheronline.co.uk,Bemidji,various clouds ,-6,-12,-9.0,24.0,NW,,40,,week,06-12-2017
+weatheronline.co.uk,Leeuwarden,various clouds  isolated showers,5,1,3.0,12.0,N,,70,,day,30-11-2017
+weatheronline.co.uk,Leeuwarden,cloudy  showers,6,4,5.0,15.5,NW,,85,,week,06-12-2017
+weatheronline.co.uk,Utrecht,various clouds  isolated showers and thunderstorms,6,2,4.0,8.5,NW,,70,,day,30-11-2017
+weatheronline.co.uk,Maastricht,cloudy  isolated showers,5,1,3.0,8.5,SW,,70,,day,30-11-2017
+weatheronline.co.uk,Utrecht,cloudy  showers,8,7,7.5,15.5,NW,,95,,week,06-12-2017
+weatheronline.co.uk,Maastricht,cloudy  showers,7,6,6.5,24.0,W,,80,,week,06-12-2017
+weatheronline.co.uk,Amsterdam,various clouds  isolated showers and thunderstorms,6,2,4.0,15.5,N,,85,,day,30-11-2017
+weatheronline.co.uk,Bangor,cloudy ,5,-7,-1.0,15.5,S,,5,,day,30-11-2017
+weatheronline.co.uk,Amsterdam,cloudy  showers,8,6,7.0,24.0,NW,,95,,week,06-12-2017
+weatheronline.co.uk,Bangor,overcast  snow,2,-1,0.5,15.5,N,,65,,week,06-12-2017
+weatheronline.co.uk,Eindhoven,cloudy  isolated showers,6,1,3.5,8.5,W,,65,,day,30-11-2017
+weatheronline.co.uk,Vlissingen,cloudy  showers and thunderstorms,7,5,6.0,24.0,N,,80,,day,30-11-2017
+weatheronline.co.uk,Rotterdam,various clouds  showers and thunderstorms,6,2,4.0,15.5,N,,90,,day,30-11-2017
+weatheronline.co.uk,Rochester,cloudy  light rain,10,-3,3.5,15.5,SW,,55,,day,30-11-2017
+weatheronline.co.uk,Rapid City,sunny ,10,-5,2.5,19.75,S,,5,,day,30-11-2017
+weatheronline.co.uk,Eindhoven,cloudy  showers,8,7,7.5,24.0,W,,85,,week,06-12-2017
+weatheronline.co.uk,Vlissingen,cloudy  showers,10,8,9.0,43.5,W,,85,,week,06-12-2017
+weatheronline.co.uk,Rotterdam,cloudy  showers,9,8,8.5,24.0,NW,,95,,week,06-12-2017
+weatheronline.co.uk,Rochester,various clouds ,3,1,2.0,19.75,W,,45,,week,06-12-2017
+weatheronline.co.uk,Rapid City,mostly sunny ,5,-8,-1.5,33.5,N,,35,,week,06-12-2017
+weatheronline.co.uk,Charleston,various clouds ,23,10,16.5,5.75,S,,10,,day,30-11-2017
+weatheronline.co.uk,Charleston,various clouds ,22,14,18.0,19.75,W,,55,,week,06-12-2017
+weatheronline.co.uk,Rock Springs,mostly sunny ,6,-6,0.0,12.0,W,,5,,day,30-11-2017
+weatheronline.co.uk,Rock Springs,sunny ,2,-10,-4.0,15.5,W,,5,,week,06-12-2017
+weather.com,Los Angeles,Sunny,23.333333333333332,11.11111111111111,17.22222222222222,4.82802,WSW,45,0,,day,30-11-2017
+weather.com,Tucson,Cloudy,27.77777777777778,13.333333333333334,20.555555555555557,8.0467,E,25,0,,day,30-11-2017
+weather.com,Los Angeles,Sunny,25.0,11.11111111111111,17.77777777777778,4.82802,N,18,0,,week,06-12-2017
+weather.com,Yuma,Mostly Cloudy,25.555555555555557,15.0,20.0,12.87472,N,23,0,,day,30-11-2017
+weather.com,New York,Partly Cloudy,11.11111111111111,2.2222222222222223,6.666666666666667,6.43736,ESE,65,10,,day,30-11-2017
+weather.com,El Paso,Partly Cloudy,22.77777777777778,7.777777777777778,15.0,14.48406,E,27,0,,day,30-11-2017
+weather.com,Tucson,Sunny,21.666666666666668,7.777777777777778,14.444444444444445,12.87472,ENE,21,0,,week,06-12-2017
+weather.com,Yuma,Sunny,22.77777777777778,10.555555555555555,16.666666666666668,20.92142,N,14,0,,week,06-12-2017
+weather.com,New York,Mostly Sunny,10.555555555555555,7.777777777777778,8.88888888888889,12.87472,WSW,79,60,,week,06-12-2017
+weather.com,El Paso,Sunny,13.88888888888889,2.7777777777777777,8.333333333333334,12.87472,ENE,34,10,,week,06-12-2017
+weather.com,San Antonio,Sunny,25.0,9.444444444444445,17.22222222222222,6.43736,ENE,44,0,,day,30-11-2017
+weather.com,Sanderson,Sunny,23.333333333333332,8.333333333333334,15.555555555555555,12.87472,NNE,34,0,,day,30-11-2017
+weather.com,Houma,Showers,24.444444444444443,16.666666666666668,20.555555555555557,9.65604,N,85,50,,day,30-11-2017
+weather.com,Beaumont,Sunny,24.444444444444443,11.11111111111111,17.77777777777778,11.26538,N,53,0,,day,30-11-2017
+weather.com,Miami,Partly Cloudy,26.666666666666668,22.22222222222222,24.444444444444443,24.1401,NE,74,20,,day,30-11-2017
+weather.com,Pensacola,PM Showers,23.333333333333332,16.11111111111111,19.444444444444443,14.48406,SE,81,50,,day,30-11-2017
+weather.com,San Antonio,Partly Cloudy,15.555555555555555,7.222222222222222,11.11111111111111,19.31208,N,32,20,,week,06-12-2017
+weather.com,Sanderson,Partly Cloudy,11.666666666666666,2.7777777777777777,7.222222222222222,20.92142,N,37,10,,week,06-12-2017
+weather.com,Houma,Mostly Cloudy,17.77777777777778,8.333333333333334,12.777777777777779,17.70274,N,57,10,,week,06-12-2017
+weather.com,Beaumont,Partly Cloudy,17.77777777777778,8.333333333333334,12.777777777777779,16.0934,N,54,20,,week,06-12-2017
+weather.com,Miami,Mostly Cloudy,26.666666666666668,21.11111111111111,23.88888888888889,12.87472,SSE,73,20,,week,06-12-2017
+weather.com,Pensacola,Partly Cloudy,17.77777777777778,12.777777777777779,15.0,16.0934,NW,52,20,,week,06-12-2017
+weather.com,Columbia,Partly Cloudy,21.11111111111111,7.777777777777778,14.444444444444445,4.82802,WNW,70,10,,day,30-11-2017
+weather.com,Valdosta,Sunny,25.0,10.555555555555555,17.77777777777778,4.82802,ENE,67,10,,day,30-11-2017
+weather.com,Atlanta,PM Showers,20.0,10.0,15.0,6.43736,S,78,40,,day,30-11-2017
+weather.com,Columbia,Mostly Sunny,17.22222222222222,11.666666666666666,14.444444444444445,20.92142,WSW,52,20,,week,06-12-2017
+weather.com,Valdosta,Mostly Cloudy,19.444444444444443,12.222222222222221,15.555555555555555,14.48406,W,57,20,,week,06-12-2017
+weather.com,Atlanta,Mostly Sunny,12.777777777777779,6.666666666666667,9.444444444444445,20.92142,W,60,20,,week,06-12-2017
+weather.com,Tuscaloosa,Showers,21.11111111111111,11.666666666666666,16.11111111111111,9.65604,SW,88,60,,day,30-11-2017
+weather.com,Hollandale,Partly Cloudy,20.0,12.222222222222221,16.11111111111111,14.48406,NW,73,20,,day,30-11-2017
+weather.com,Oklahoma City,Mostly Sunny,15.555555555555555,5.0,10.0,17.70274,N,53,10,,day,30-11-2017
+weather.com,Amarillo,Partly Cloudy,13.333333333333334,1.6666666666666667,7.222222222222222,19.31208,ENE,37,0,,day,30-11-2017
+weather.com,Little Rock,Partly Cloudy,18.333333333333332,10.0,13.88888888888889,16.0934,NNW,69,10,,day,30-11-2017
+weather.com,Tuscaloosa,Partly Cloudy,13.88888888888889,6.111111111111111,10.0,12.87472,WNW,65,20,,week,06-12-2017
+weather.com,Hollandale,Mostly Sunny,11.666666666666666,5.555555555555555,8.333333333333334,16.0934,NNW,62,20,,week,06-12-2017
+weather.com,Oklahoma City,Sunny,10.555555555555555,0.0,5.0,25.74944,NNW,37,10,,week,06-12-2017
+weather.com,Amarillo,Sunny,10.0,-3.3333333333333335,3.3333333333333335,27.35878,N,39,10,,week,06-12-2017
+weather.com,Little Rock,Sunny,8.88888888888889,3.3333333333333335,6.111111111111111,17.70274,NNW,56,20,,week,06-12-2017
+weather.com,Albuquerque,Mostly Cloudy,15.555555555555555,4.444444444444445,10.0,9.65604,SE,34,0,,day,30-11-2017
+weather.com,Albuquerque,Sunny,8.88888888888889,-2.2222222222222223,3.3333333333333335,9.65604,N,32,10,,week,06-12-2017
+weather.com,Flagstaff,Cloudy,14.444444444444445,-1.6666666666666667,6.111111111111111,14.48406,SSW,43,0,,day,30-11-2017
+weather.com,Las Vegas,Sunny,21.11111111111111,7.777777777777778,14.444444444444445,3.21868,ESE,24,0,,day,30-11-2017
+weather.com,Flagstaff,Sunny,8.333333333333334,-6.111111111111111,1.1111111111111112,17.70274,ENE,24,0,,week,06-12-2017
+weather.com,Sacramento,Sunny,16.666666666666668,3.888888888888889,10.0,4.82802,NW,71,10,,day,30-11-2017
+weather.com,Fresno,Partly Cloudy,17.22222222222222,4.444444444444445,10.555555555555555,8.0467,NW,68,10,,day,30-11-2017
+weather.com,Las Vegas,Sunny,16.666666666666668,5.555555555555555,11.11111111111111,11.26538,NNE,14,0,,week,06-12-2017
+weather.com,Sacramento,Sunny,15.0,2.7777777777777777,8.88888888888889,9.65604,NNW,58,0,,week,06-12-2017
+weather.com,Fresno,Sunny,17.22222222222222,4.444444444444445,10.555555555555555,8.0467,NW,50,0,,week,06-12-2017
+weather.com,Winnemucca,Partly Cloudy,10.0,-6.111111111111111,1.6666666666666667,9.65604,WNW,59,0,,day,30-11-2017
+weather.com,Salt Lake City,Mostly Sunny,10.0,-0.5555555555555556,4.444444444444445,8.0467,NW,57,0,,day,30-11-2017
+weather.com,Grand Junction,Sunny,13.333333333333334,-1.6666666666666667,5.555555555555555,8.0467,WNW,46,0,,day,30-11-2017
+weather.com,Winnemucca,Sunny,7.222222222222222,-7.222222222222222,0.0,9.65604,NE,39,0,,week,06-12-2017
+weather.com,Salt Lake City,Sunny,5.555555555555555,-3.3333333333333335,1.1111111111111112,9.65604,NNW,52,0,,week,06-12-2017
+weather.com,Grand Junction,Sunny,6.666666666666667,-5.555555555555555,0.5555555555555556,9.65604,NNE,37,10,,week,06-12-2017
+weather.com,Denver,Mostly Sunny,12.777777777777779,-0.5555555555555556,6.111111111111111,8.0467,NNW,38,0,,day,30-11-2017
+weather.com,Denver,Partly Cloudy,6.666666666666667,-3.3333333333333335,1.6666666666666667,11.26538,NW,40,0,,week,06-12-2017
+weather.com,Hays,Sunny,13.333333333333334,-0.5555555555555556,6.111111111111111,12.87472,N,38,0,,day,30-11-2017
+weather.com,Kansas City,Sunny,13.88888888888889,5.0,9.444444444444445,14.48406,NW,43,0,,day,30-11-2017
+weather.com,Saint Louis,Partly Cloudy,13.88888888888889,7.777777777777778,10.555555555555555,16.0934,NW,50,0,,day,30-11-2017
+weather.com,Hays,Partly Cloudy,7.777777777777778,-4.444444444444445,1.6666666666666667,32.1868,NNW,46,0,,week,06-12-2017
+weather.com,Kansas City,Mostly Cloudy,5.0,-1.1111111111111112,1.6666666666666667,20.92142,NW,44,0,,week,06-12-2017
+weather.com,Saint Louis,Partly Cloudy,5.0,-0.5555555555555556,2.2222222222222223,19.31208,WNW,53,0,,week,06-12-2017
+weather.com,Louisville,Showers,13.333333333333334,6.111111111111111,9.444444444444445,9.65604,SW,77,60,,day,30-11-2017
+weather.com,Louisville,Mostly Sunny,5.0,1.6666666666666667,3.3333333333333335,16.0934,WNW,66,20,,week,06-12-2017
+weather.com,Charleston,PM Rain,18.333333333333332,5.555555555555555,11.666666666666666,12.87472,SSW,59,90,,day,30-11-2017
+weather.com,Nashville,Cloudy,19.444444444444443,9.444444444444445,14.444444444444445,11.26538,WSW,71,20,,day,30-11-2017
+weather.com,Knoxville,PM Showers,17.22222222222222,3.888888888888889,10.555555555555555,6.43736,WSW,80,50,,day,30-11-2017
+weather.com,Charleston,Mostly Sunny,8.333333333333334,3.3333333333333335,5.555555555555555,14.48406,W,69,30,,week,06-12-2017
+weather.com,Nashville,Mostly Sunny,7.777777777777778,2.7777777777777777,5.0,14.48406,NW,63,20,,week,06-12-2017
+weather.com,Knoxville,Mostly Sunny,10.0,3.888888888888889,6.666666666666667,12.87472,W,75,20,,week,06-12-2017
+weather.com,Raleigh,Sunny,18.333333333333332,3.888888888888889,11.11111111111111,6.43736,SE,60,10,,day,30-11-2017
+weather.com,Raleigh,Mostly Sunny,16.11111111111111,10.555555555555555,13.333333333333334,16.0934,WSW,60,30,,week,06-12-2017
+weather.com,Dulles,Partly Cloudy,12.222222222222221,1.1111111111111112,6.666666666666667,12.87472,SSE,64,20,,day,30-11-2017
+weather.com,Dulles,Partly Cloudy,11.11111111111111,4.444444444444445,7.777777777777778,16.0934,WNW,67,40,,week,06-12-2017
+weather.com,Cleveland,PM Showers,11.11111111111111,2.2222222222222223,6.666666666666667,22.53076,SSW,66,60,,day,30-11-2017
+weather.com,Cleveland,Mostly Cloudy,4.444444444444445,1.6666666666666667,2.7777777777777777,25.74944,W,55,10,,week,06-12-2017
+weather.com,Rochester,PM Showers,10.555555555555555,-1.6666666666666667,4.444444444444445,19.31208,SSW,67,60,,day,30-11-2017
+weather.com,Bangor,Mostly Sunny,2.7777777777777777,-6.666666666666667,-2.2222222222222223,14.48406,SSW,60,10,,day,30-11-2017
+weather.com,Rochester,Mostly Cloudy,5.0,2.7777777777777777,3.888888888888889,17.70274,W,67,20,,week,06-12-2017
+weather.com,Bangor,Mostly Sunny,6.666666666666667,1.1111111111111112,3.888888888888889,14.48406,SSE,82,60,,week,06-12-2017
+weather.com,Minneapolis,Sunny,6.666666666666667,1.1111111111111112,3.888888888888889,20.92142,WNW,63,0,,day,30-11-2017
+weather.com,Chicago,Mostly Sunny,10.555555555555555,5.0,7.777777777777778,19.31208,W,57,0,,day,30-11-2017
+weather.com,Minneapolis,Mostly Cloudy,-1.1111111111111112,-6.111111111111111,-3.888888888888889,22.53076,NW,53,0,,week,06-12-2017
+weather.com,Chicago,Mostly Cloudy,1.1111111111111112,-1.6666666666666667,-0.5555555555555556,20.92142,W,62,10,,week,06-12-2017
+weather.com,Sioux Falls,Sunny,9.444444444444445,0.0,4.444444444444445,20.92142,WNW,53,0,,day,30-11-2017
+weather.com,Rapid City,Sunny,11.11111111111111,-2.2222222222222223,4.444444444444445,19.31208,SSW,32,0,,day,30-11-2017
+weather.com,Rock Springs,Partly Cloudy,6.111111111111111,-6.111111111111111,0.0,11.26538,WSW,46,0,,day,30-11-2017
+weather.com,Sioux Falls,Partly Cloudy,-0.5555555555555556,-7.777777777777778,-4.444444444444445,30.57746,NW,52,0,,week,06-12-2017
+weather.com,Rapid City,AM Snow Showers/Wind,4.444444444444445,-4.444444444444445,0.0,37.01482,NW,44,10,,week,06-12-2017
+weather.com,Rock Springs,Sunny,2.2222222222222223,-7.777777777777778,-2.7777777777777777,11.26538,WSW,46,0,,week,06-12-2017
+weather.com,Boise,Mostly Cloudy,7.222222222222222,-1.6666666666666667,2.7777777777777777,11.26538,SSE,57,0,,day,30-11-2017
+weather.com,Denio,Mostly Cloudy,8.88888888888889,-6.111111111111111,1.1111111111111112,11.26538,S,57,0,,day,30-11-2017
+weather.com,Boise,Mostly Sunny,3.888888888888889,-3.888888888888889,0.0,9.65604,ESE,54,0,,week,06-12-2017
+weather.com,Denio,Mostly Sunny,7.222222222222222,-5.0,1.1111111111111112,6.43736,E,43,0,,week,06-12-2017
+weather.com,Spokane,PM Showers,3.888888888888889,-1.1111111111111112,1.1111111111111112,11.26538,SE,77,60,,day,30-11-2017
+weather.com,Portland,Rain,7.777777777777778,2.7777777777777777,5.0,14.48406,SSE,89,100,,day,30-11-2017
+weather.com,Spokane,Sunny,0.0,-6.111111111111111,-3.3333333333333335,6.43736,NNE,82,10,,week,06-12-2017
+weather.com,Portland,Mostly Sunny,8.88888888888889,1.6666666666666667,5.0,14.48406,E,64,0,,week,06-12-2017
+weather.com,Sidney,Mostly Sunny,7.777777777777778,-4.444444444444445,1.6666666666666667,17.70274,SW,54,0,,day,30-11-2017
+weather.com,Bismarck,Mostly Sunny,10.0,-2.2222222222222223,3.888888888888889,14.48406,WSW,52,0,,day,30-11-2017
+weather.com,Sidney,Cloudy,3.3333333333333335,-8.333333333333334,-2.7777777777777777,27.35878,WNW,65,20,,week,06-12-2017
+weather.com,Bismarck,AM Clouds/PM Sun,2.2222222222222223,-9.444444444444445,-3.888888888888889,27.35878,NW,64,20,,week,06-12-2017
+weather.com,Choteau,Cloudy,5.555555555555555,-1.6666666666666667,1.6666666666666667,27.35878,SW,40,0,,day,30-11-2017
+weather.com,Bemidji,AM Clouds/PM Sun,1.1111111111111112,-2.2222222222222223,-0.5555555555555556,22.53076,WNW,80,10,,day,30-11-2017
+weather.com,Maastricht,Rain/Snow Showers,0.0,3.888888888888889,1.6666666666666667,16.0934,WSW,93,70,,day,30-11-2017
+weather.com,De Bilt,AM Showers,-0.5555555555555556,5.0,2.2222222222222223,8.0467,WNW,88,40,,day,30-11-2017
+weather.com,Leeuwarden,Showers,0.0,5.0,2.2222222222222223,9.65604,NNW,90,50,,day,30-11-2017
+weather.com,Choteau,Mostly Sunny,4.444444444444445,-2.2222222222222223,1.1111111111111112,19.31208,WSW,40,0,,week,06-12-2017
+weather.com,Bemidji,Cloudy,-7.777777777777778,-12.777777777777779,-10.555555555555555,20.92142,NW,73,10,,week,06-12-2017
+weather.com,Maastricht,Snow to Rain,1.1111111111111112,5.555555555555555,3.3333333333333335,27.35878,W,87,70,,week,06-12-2017
+weather.com,De Bilt,Showers,2.7777777777777777,6.111111111111111,4.444444444444445,19.31208,WNW,82,70,,week,06-12-2017
+weather.com,Leeuwarden,AM Showers,3.3333333333333335,6.111111111111111,4.444444444444445,27.35878,NW,75,50,,week,06-12-2017
+weather.com,Amsterdam Airport Schiphol 10-Day Weather Forecast - The Weather Channel | Weather.com,Showers,0.0,5.0,2.2222222222222223,12.87472,WNW,86,60,,day,30-11-2017
+weather.com,Eindhoven,AM Showers,-2.2222222222222223,5.0,1.1111111111111112,12.87472,W,92,50,,day,30-11-2017
+weather.com,Vlissingen,Rain,1.6666666666666667,4.444444444444445,2.7777777777777777,27.35878,NW,86,90,,day,30-11-2017
+weather.com,Amsterdam Airport Schiphol 10-Day Weather Forecast - The Weather Channel | Weather.com,AM Showers,3.3333333333333335,6.111111111111111,4.444444444444445,28.96812,WNW,78,70,,week,06-12-2017
+weather.com,Eindhoven,Showers,1.6666666666666667,5.555555555555555,3.3333333333333335,24.1401,W,84,70,,week,06-12-2017
+weather.com,Vlissingen,Showers,3.888888888888889,7.222222222222222,5.555555555555555,41.84284,WNW,75,50,,week,06-12-2017
+weather.com,Rotterdam,Showers,0.0,5.0,2.2222222222222223,14.48406,NW,84,70,,day,30-11-2017
+weather.com,Rotterdam,AM Showers,3.888888888888889,6.666666666666667,5.0,30.57746,WNW,77,60,,week,06-12-2017
+accuweather.com,Los Angeles,Mostly sunny and pleasant,24.444444444444443,12.777777777777779,18.61111111111111,4.55190090894,NW,,1.0,0.0,day,30-11-2017
+accuweather.com,Los Angeles,Plenty of sun,21.666666666666668,11.11111111111111,16.38888888888889,6.43736,NNE,,1.5,0.0,week,06-12-2017
+accuweather.com,New York,Mainly cloudy rain possible,10.0,4.444444444444445,7.222222222222222,6.28467360671,NW,,30.0,0.0,week,06-12-2017
+accuweather.com,New York,Times of sun and clouds,10.0,5.555555555555555,7.777777777777778,2.33323759549,S,,30.0,0.7619999999999999,day,30-11-2017
+accuweather.com,Yuma,Mostly sunny,20.555555555555557,8.88888888888889,14.722222222222223,15.28873,N,,3.5,0.0,week,06-12-2017
+accuweather.com,Yuma,Partly sunny,24.444444444444443,13.88888888888889,19.166666666666664,7.89832763193,N,,0.0,0.0,day,30-11-2017
+accuweather.com,Tucson,Very warm with clouds and sun,26.666666666666668,13.88888888888889,20.27777777777778,8.68271265165,E,,2.0,0.0,day,30-11-2017
+accuweather.com,El Paso,Partial sunshine,21.666666666666668,7.777777777777778,14.722222222222223,9.65604,E,,0.5,0.0,day,30-11-2017
+accuweather.com,Tucson,Mostly sunny,19.444444444444443,5.0,12.222222222222221,16.0934,E,,4.5,0.0,week,06-12-2017
+accuweather.com,Sanderson,Sunshine,22.77777777777778,10.0,16.38888888888889,8.92101772111,ENE,,1.0,0.0,day,30-11-2017
+accuweather.com,El Paso,Mostly cloudy and cooler,11.666666666666666,-1.1111111111111112,5.277777777777778,13.4614712049,ENE,,10.0,0.0,week,06-12-2017
+accuweather.com,Sanderson,Some rain and a thunderstorm,12.222222222222221,-1.1111111111111112,5.555555555555555,26.044353338,N,,56.0,3.81,week,06-12-2017
+accuweather.com,San Antonio,Overcast and cooler,14.444444444444445,4.444444444444445,9.444444444444445,22.8875846276,NNE,,52.5,2.1590000000000003,week,06-12-2017
+accuweather.com,San Antonio,Sunny and pleasantly warm,25.0,10.555555555555555,17.77777777777778,8.68271265165,NE,,1.5,0.0,day,30-11-2017
+accuweather.com,Beaumont,A thunderstorm possible,20.555555555555557,6.111111111111111,13.333333333333334,15.28873,ENE,,52.5,5.588,week,06-12-2017
+accuweather.com,Beaumont,Sunny and pleasant,23.88888888888889,10.0,16.944444444444443,9.47050189898,NNW,,4.0,0.0,day,30-11-2017
+accuweather.com,Houma,Cloudy a t-storm possible,22.77777777777778,7.777777777777778,15.277777777777779,9.4093971964,S,,56.0,6.476999999999999,week,06-12-2017
+accuweather.com,Houma,A shower in the morning,24.444444444444443,12.777777777777779,18.61111111111111,5.94734514741,N,,34.0,0.508,day,30-11-2017
+accuweather.com,Pensacola,A p.m. t-storm possible,20.0,11.11111111111111,15.555555555555555,0.80467,S,,55.5,4.3180000000000005,week,06-12-2017
+accuweather.com,Pensacola,A couple of afternoon showers,23.88888888888889,16.11111111111111,20.0,6.28467360671,S,,63.0,2.286,day,30-11-2017
+accuweather.com,Valdosta,Partly sunny and pleasant,25.0,11.11111111111111,18.055555555555557,1.60934,E,,6.0,0.0,day,30-11-2017
+accuweather.com,Columbia,Partly sunny,21.11111111111111,11.11111111111111,16.11111111111111,5.94734514741,S,,37.5,0.889,day,30-11-2017
+accuweather.com,Miami,Periods of sun with a shower,27.22222222222222,16.666666666666668,21.944444444444443,11.0533788285,E,,48.0,0.889,week,06-12-2017
+accuweather.com,Miami,Partly sunny,27.22222222222222,21.11111111111111,24.166666666666664,14.48406,NNE,,14.0,0.0,day,30-11-2017
+accuweather.com,Valdosta,Chance of a p.m. shower,23.333333333333332,8.88888888888889,16.11111111111111,5.63269,S,,17.0,0.0,week,06-12-2017
+accuweather.com,Columbia,A p.m. t-storm possible,20.0,7.777777777777778,13.88888888888889,6.1485068703,NNW,,27.5,0.0,week,06-12-2017
+accuweather.com,Atlanta,Cloudy with rain possible,13.88888888888889,4.444444444444445,9.166666666666668,11.0489188821,WNW,,66.0,11.684,week,06-12-2017
+accuweather.com,Atlanta,An afternoon shower or two,20.555555555555557,12.222222222222221,16.38888888888889,7.43418143426,SSW,,59.0,2.159,day,30-11-2017
+accuweather.com,Tuscaloosa,Mostly cloudy showers around,21.11111111111111,11.11111111111111,16.11111111111111,1.56983329417,WSW,,42.5,1.016,day,30-11-2017
+accuweather.com,Hollandale,Intervals of clouds and sun,21.11111111111111,6.666666666666667,13.88888888888889,10.0458318504,NNW,,10.0,0.0,day,30-11-2017
+accuweather.com,Tuscaloosa,Chance of a little a.m. rain,16.11111111111111,2.7777777777777777,9.444444444444445,10.2609113174,NNE,,55.0,13.334999999999999,week,06-12-2017
+accuweather.com,Hollandale,Chance of a little a.m. rain,11.666666666666666,2.2222222222222223,6.944444444444445,13.67939,NNE,,58.5,11.684,week,06-12-2017
+accuweather.com,Little Rock,Cloudy and cooler,10.555555555555555,2.7777777777777777,6.666666666666666,10.270513677,NNE,,41.5,1.016,week,06-12-2017
+accuweather.com,Little Rock,Mild with some sun returning,18.88888888888889,4.444444444444445,11.666666666666668,9.66934040422,NNW,,7.0,0.0,day,30-11-2017
+accuweather.com,Oklahoma City,Partial sunshine,15.555555555555555,2.7777777777777777,9.166666666666666,10.4804865067,NE,,2.0,0.0,day,30-11-2017
+accuweather.com,Oklahoma City,Clouds breaking for some sun,10.555555555555555,-2.2222222222222223,4.166666666666666,15.28873,NNE,,12.5,0.0,week,06-12-2017
+accuweather.com,Amarillo,Partial sunshine,12.777777777777779,2.7777777777777777,7.777777777777779,10.825727662,SE,,0.0,0.0,day,30-11-2017
+accuweather.com,Amarillo,Clouds and sun,8.88888888888889,-7.222222222222222,0.8333333333333335,14.9957830524,NE,,17.0,0.0,week,06-12-2017
+accuweather.com,Albuquerque,Periods of sun,15.555555555555555,5.0,10.277777777777779,6.69784567506,SE,,8.0,0.0,day,30-11-2017
+accuweather.com,Albuquerque,Partly sunny,5.555555555555555,-3.3333333333333335,1.111111111111111,11.0489188821,NNW,,1.5,0.0,week,06-12-2017
+accuweather.com,Flagstaff,Periods of clouds and sun,12.777777777777779,-1.1111111111111112,5.833333333333334,9.66934040422,SW,,4.5,0.0,day,30-11-2017
+accuweather.com,Flagstaff,Abundant sunshine,5.555555555555555,-7.777777777777778,-1.1111111111111112,18.9514095815,ENE,,1.5,0.0,week,06-12-2017
+accuweather.com,Las Vegas,Plenty of sunshine,15.0,3.888888888888889,9.444444444444445,10.270513677,NNE,,1.0,0.0,week,06-12-2017
+accuweather.com,Las Vegas,Mostly sunny,19.444444444444443,7.222222222222222,13.333333333333332,4.47050699404,NE,,0.0,0.0,day,30-11-2017
+accuweather.com,Fresno,Fog in the morning; sunshine,16.666666666666668,5.0,10.833333333333334,2.49434250486,WSW,,0.0,0.0,day,30-11-2017
+accuweather.com,Sacramento,Clear,15.555555555555555,5.0,10.277777777777779,3.15683396633,ENE,,3.5,0.0,week,06-12-2017
+accuweather.com,Fresno,Plenty of sunshine,16.11111111111111,3.3333333333333335,9.722222222222221,5.15240198014,NW,,2.0,0.0,week,06-12-2017
+accuweather.com,Sacramento,Mainly clear,17.22222222222222,5.0,11.11111111111111,8.0467,NNW,,0.5,0.0,day,30-11-2017
+accuweather.com,Winnemucca,Mostly sunny,10.0,-3.3333333333333335,3.333333333333333,7.10461098609,SSW,,2.0,0.0,day,30-11-2017
+accuweather.com,Winnemucca,Plenty of sunshine,8.333333333333334,-5.0,1.666666666666667,3.46789367771,NE,,0.0,0.0,week,06-12-2017
+accuweather.com,Salt Lake City,A full day of sunshine,8.88888888888889,0.5555555555555556,4.722222222222222,6.31366793266,NNW,,1.5,0.0,day,30-11-2017
+accuweather.com,Salt Lake City,Plenty of sunshine,3.888888888888889,-2.7777777777777777,0.5555555555555556,0.80467,WNW,,2.5,0.0,week,06-12-2017
+accuweather.com,Grand Junction,Plenty of sunshine,6.111111111111111,-6.111111111111111,0.0,5.68987613617,ENE,,1.0,0.0,week,06-12-2017
+accuweather.com,Grand Junction,Plenty of sunshine,12.222222222222221,-1.6666666666666667,5.277777777777778,6.31366793266,NNE,,0.0,0.0,day,30-11-2017
+accuweather.com,Denver,Plenty of sunshine,12.222222222222221,2.2222222222222223,7.222222222222221,7.41869083845,SSE,,0.5,0.0,day,30-11-2017
+accuweather.com,Denver,Mostly sunny,6.666666666666667,-8.333333333333334,-0.8333333333333335,2.41401,W,,7.0,0.0,week,06-12-2017
+accuweather.com,Hays,Mainly clear,12.777777777777779,-1.6666666666666667,5.555555555555556,6.25870979165,ESE,,0.5,0.0,day,30-11-2017
+accuweather.com,Hays,Clear,6.111111111111111,-6.666666666666667,-0.2777777777777781,18.9514095815,NNW,,6.5,0.0,week,06-12-2017
+accuweather.com,Kansas City,Mostly sunny,13.88888888888889,0.0,6.944444444444445,5.09556952286,NNW,,1.0,0.0,day,30-11-2017
+accuweather.com,Kansas City,Mostly sunny,8.88888888888889,-5.0,1.9444444444444446,11.8946902948,WNW,,4.0,0.0,week,06-12-2017
+accuweather.com,Louisville,Cloudy and cooler,7.222222222222222,-1.1111111111111112,3.0555555555555554,8.94225085043,W,,13.0,0.0,week,06-12-2017
+accuweather.com,St. Louis,Partly sunny,8.88888888888889,-2.2222222222222223,3.3333333333333335,11.26538,W,,4.0,0.0,week,06-12-2017
+accuweather.com,St. Louis,Clouds giving way to some sun,14.444444444444445,-0.5555555555555556,6.944444444444445,11.0533788285,NW,,4.5,0.0,day,30-11-2017
+accuweather.com,Louisville,Mostly cloudy a few showers,13.88888888888889,1.6666666666666667,7.777777777777778,5.36460839285,W,,36.5,1.1429999999999998,day,30-11-2017
+accuweather.com,Charleston,A couple of afternoon showers,18.333333333333332,2.7777777777777777,10.555555555555555,5.85004451997,WSW,,69.0,2.7939999999999996,day,30-11-2017
+accuweather.com,Charleston,Chance of a little a.m. rain,10.555555555555555,0.5555555555555556,5.555555555555555,9.66934040422,W,,42.5,0.508,week,06-12-2017
+accuweather.com,Nashville,Mostly cloudy a shower; mild,18.88888888888889,3.3333333333333335,11.11111111111111,5.85004451997,NW,,35.5,0.635,day,30-11-2017
+accuweather.com,Nashville,Mostly cloudy and cooler,10.0,0.5555555555555556,5.277777777777778,6.7500641047,NNW,,41.5,0.7619999999999999,week,06-12-2017
+accuweather.com,Knoxville,A passing afternoon shower,17.22222222222222,7.222222222222222,12.222222222222221,4.07870568145,W,,58.5,1.016,day,30-11-2017
+accuweather.com,Knoxville,Chance of a little a.m. rain,13.333333333333334,1.6666666666666667,7.5,5.54449691203,N,,56.5,5.842,week,06-12-2017
+accuweather.com,Dulles Town Center,Partly sunny,12.777777777777779,6.111111111111111,9.444444444444445,6.82785136341,SSW,,36.0,0.7619999999999999,day,30-11-2017
+accuweather.com,Raleigh,A p.m. t-storm possible,17.22222222222222,-3.888888888888889,6.666666666666666,7.89208491582,WNW,,27.5,0.0,week,06-12-2017
+accuweather.com,Raleigh,More sun than clouds,18.333333333333332,7.777777777777778,13.055555555555555,6.69058652931,S,,21.0,0.127,day,30-11-2017
+accuweather.com,Dulles Town Center,Cloudy with rain possible,10.555555555555555,1.1111111111111112,5.833333333333333,10.4804865067,WNW,,47.5,1.651,week,06-12-2017
+accuweather.com,Rochester,Rain and drizzle possible,5.555555555555555,-1.6666666666666667,1.9444444444444442,22.53076,W,,21.5,0.0,week,06-12-2017
+accuweather.com,Cleveland,A thick cloud cover,5.555555555555555,0.0,2.7777777777777777,18.5880044184,WNW,,19.0,0.0,week,06-12-2017
+accuweather.com,Cleveland,A couple of afternoon showers,11.11111111111111,2.7777777777777777,6.944444444444445,18.1143001699,WSW,,34.0,0.889,day,30-11-2017
+accuweather.com,Rochester,A touch of afternoon rain,10.0,2.7777777777777777,6.388888888888889,11.3827792896,SW,,55.0,0.889,day,30-11-2017
+accuweather.com,Sioux Falls,Mostly sunny,8.88888888888889,-1.1111111111111112,3.8888888888888893,9.38398412245,WSW,,0.5,0.0,day,30-11-2017
+accuweather.com,Bangor,Cloudy with rain possible,5.555555555555555,-4.444444444444445,0.5555555555555554,10.7049384469,W,,18.5,0.0,week,06-12-2017
+accuweather.com,Bangor,Intervals of clouds and sun,3.888888888888889,0.0,1.9444444444444444,9.47050189898,SSW,,29.0,1.1429999999999998,day,30-11-2017
+accuweather.com,Chicago,More clouds than sunshine,2.2222222222222223,-3.888888888888889,-0.8333333333333333,26.048137955,W,,16.0,0.0,week,06-12-2017
+accuweather.com,Chicago,Clouds giving way to some sun,11.11111111111111,1.1111111111111112,6.111111111111111,14.1551217919,WNW,,2.0,0.0,day,30-11-2017
+accuweather.com,Minneapolis,Considerable cloudiness,2.7777777777777777,-8.88888888888889,-3.055555555555556,17.1235546248,WNW,,35.0,0.127,week,06-12-2017
+accuweather.com,Minneapolis,Mostly sunny and mild,6.666666666666667,-3.3333333333333335,1.6666666666666667,8.28458470555,W,,1.0,0.0,day,30-11-2017
+accuweather.com,Rock Springs,Mostly sunny,1.6666666666666667,-10.0,-4.166666666666667,13.417462735,W,,6.5,0.0,week,06-12-2017
+accuweather.com,Sioux Falls,Partly sunny,0.5555555555555556,-11.11111111111111,-5.277777777777778,20.92142,NW,,34.0,0.254,week,06-12-2017
+accuweather.com,Rapid City,Partly cloudy and mild,10.555555555555555,-1.6666666666666667,4.444444444444445,8.70383683448,SSW,,0.0,0.0,day,30-11-2017
+accuweather.com,Rapid City,A chance of snow or flurries,5.0,-8.333333333333334,-1.666666666666667,12.6273358653,WNW,,22.0,0.0,week,06-12-2017
+accuweather.com,Rock Springs,A full day of sunshine,5.555555555555555,-3.3333333333333335,1.111111111111111,11.8391681922,SW,,0.5,0.0,day,30-11-2017
+accuweather.com,Boise,Clear,4.444444444444445,-3.888888888888889,0.2777777777777779,0.80467,NE,,3.0,0.0,week,06-12-2017
+accuweather.com,Boise,Partly cloudy,7.222222222222222,0.0,3.611111111111111,7.37321039551,SE,,13.5,0.0,day,30-11-2017
+accuweather.com,Denio,Sunshine and some clouds,8.333333333333334,-2.2222222222222223,3.055555555555556,8.68271265165,SSW,,6.5,0.0,day,30-11-2017
+accuweather.com,Denio,Plenty of sun,6.111111111111111,-6.111111111111111,0.0,1.57841698316,NNE,,0.5,0.0,week,06-12-2017
+accuweather.com,Portland,Rain and drizzle,8.333333333333334,4.444444444444445,6.388888888888889,8.68271265165,SSE,,47.0,3.0479999999999996,day,30-11-2017
+accuweather.com,Spokane,A brief p.m. shower or two,5.0,1.1111111111111112,3.0555555555555554,4.50282493406,S,,51.0,1.143,day,30-11-2017
+accuweather.com,Portland,Clouds and sunshine,8.333333333333334,1.6666666666666667,5.0,14.48406,ENE,,13.0,0.0,week,06-12-2017
+accuweather.com,Spokane,Clouds breaking for some sun,3.888888888888889,-5.555555555555555,-0.8333333333333333,2.05635834849,ENE,,15.0,0.0,week,06-12-2017
+accuweather.com,Choteau,A couple of flurries possible,4.444444444444445,-9.444444444444445,-2.5,9.47050189898,SW,,15.0,0.0,week,06-12-2017
+accuweather.com,Choteau,Periods of clouds and sun,6.111111111111111,-0.5555555555555556,2.7777777777777777,16.5800682428,WSW,,5.5,0.0,day,30-11-2017
+accuweather.com,Sidney,Partly sunny,7.222222222222222,-4.444444444444445,1.3888888888888888,11.1894718397,SW,,0.5,0.0,day,30-11-2017
+accuweather.com,Bismarck,Some sun,0.0,-13.333333333333334,-6.666666666666667,21.3138329583,WNW,,7.0,0.0,week,06-12-2017
+accuweather.com,Sidney,Snow or flurries possible,0.5555555555555556,-12.222222222222221,-5.833333333333333,22.100068075,NW,,19.0,0.0,week,06-12-2017
+accuweather.com,Bismarck,Mostly sunny and mild,9.444444444444445,-3.3333333333333335,3.0555555555555554,11.1555230208,SW,,0.5,0.0,day,30-11-2017
+accuweather.com,Bemidji,Cloudy,-3.888888888888889,-13.88888888888889,-8.88888888888889,17.8420354422,NNW,,25.0,0.0,week,06-12-2017
+accuweather.com,Leeuwarden,Mostly cloudy showers around,5.0,0.0,2.5,6.69058652931,NNE,,62.0,2.7939999999999996,day,30-11-2017
+accuweather.com,Bemidji,Intervals of clouds and sun,1.1111111111111112,-4.444444444444445,-1.6666666666666667,13.5084748022,WSW,,3.0,0.0,day,30-11-2017
+accuweather.com,De Bilt,A passing shower,6.111111111111111,-2.2222222222222223,1.9444444444444442,21.3092075228,W,,51.5,0.635,week,06-12-2017
+accuweather.com,Maastricht,Mostly cloudy showers around,4.444444444444445,-1.1111111111111112,1.6666666666666667,9.65604,WSW,,64.0,3.4289999999999994,day,30-11-2017
+accuweather.com,De Bilt,Mostly cloudy showers around,5.0,-0.5555555555555556,2.2222222222222223,7.43418143426,NW,,61.0,2.2859999999999996,day,30-11-2017
+accuweather.com,Maastricht,A bit of rain snow mixing in,5.0,1.1111111111111112,3.0555555555555554,20.5218226348,WSW,,57.5,2.032,week,06-12-2017
+accuweather.com,Leeuwarden,Mostly cloudy showers around,5.0,1.1111111111111112,3.0555555555555554,28.4392485304,NW,,61.5,2.2859999999999996,week,06-12-2017
+accuweather.com,Schiphol,Mostly cloudy showers around,5.555555555555555,-0.5555555555555556,2.5,8.07833538449,NW,,62.0,2.7939999999999996,day,30-11-2017
+accuweather.com,Schiphol,Mostly cloudy showers around,7.777777777777778,3.888888888888889,5.833333333333333,22.100068075,NW,,58.0,1.524,week,06-12-2017
+accuweather.com,Eindhoven,Mostly cloudy showers around,5.0,-2.2222222222222223,1.3888888888888888,5.80255788966,WNW,,60.0,1.651,day,30-11-2017
+accuweather.com,Flushing,Rain becoming steadier,6.666666666666667,0.5555555555555556,3.611111111111111,24.5347312386,WNW,,73.0,5.715,week,06-12-2017
+accuweather.com,Flushing,Mostly cloudy showers around,5.555555555555555,2.2222222222222223,3.888888888888889,14.9192957862,N,,62.5,2.921,day,30-11-2017
+accuweather.com,Eindhoven,Rather cloudy a little rain,5.0,-1.6666666666666667,1.6666666666666665,20.5218226348,WSW,,52.5,0.7619999999999999,week,06-12-2017
+accuweather.com,Rotterdam,Mostly cloudy with a shower,5.0,-1.1111111111111112,1.9444444444444444,8.94225085043,NW,,59.5,2.9210000000000003,day,30-11-2017
+accuweather.com,Rotterdam,Mostly cloudy showers around,7.777777777777778,3.888888888888889,5.833333333333333,19.7308367982,NW,,67.5,2.286,week,06-12-2017
+holiday-weather.com,Los Angeles,,24.0,12.0,18.0,10,NNE,,,,day,30-11-2017
+holiday-weather.com,Tucson,,26.0,12.0,19.0,10,E,,,,day,30-11-2017
+holiday-weather.com,Los Angeles,,22.0,11.0,16.5,11,NNE,,,,week,06-12-2017
+holiday-weather.com,Tucson,,19.0,5.0,12.0,12,NW,,,,week,06-12-2017
+holiday-weather.com,Yuma,,23.0,13.0,18.0,14,N,,,,day,30-11-2017
+holiday-weather.com,El Paso,,21.0,7.0,14.0,11,E,,,,day,30-11-2017
+holiday-weather.com,Sanderson,,23.0,10.0,16.5,12,ESE,,,,day,30-11-2017
+holiday-weather.com,Yuma,,21.0,9.0,15.0,20,NNE,,,,week,06-12-2017
+holiday-weather.com,El Paso,,12.0,-1.0,5.5,26,E,,,,week,06-12-2017
+holiday-weather.com,Sanderson,,14.0,-1.0,6.5,21,NNE,,,,week,06-12-2017
+holiday-weather.com,Pensacola,,24.0,16.0,20.0,12,SE,,,,day,30-11-2017
+holiday-weather.com,San Antonio,,25.0,12.0,18.5,10,ENE,,,,day,30-11-2017
+holiday-weather.com,Oklahoma City,,15.0,4.0,9.5,18,NNE,,,,day,30-11-2017
+holiday-weather.com,Miami,,27.0,21.0,24.0,21,NE,,,,day,30-11-2017
+holiday-weather.com,Atlanta,,20.0,12.0,16.0,8,SSE,,,,day,30-11-2017
+holiday-weather.com,Pensacola,,21.0,9.0,15.0,15,N,,,,week,06-12-2017
+holiday-weather.com,San Antonio,,17.0,4.0,10.5,22,NNE,,,,week,06-12-2017
+holiday-weather.com,Oklahoma City,,9.0,-2.0,3.5,9,W,,,,week,06-12-2017
+holiday-weather.com,Miami,,28.0,21.0,24.5,13,NNW,,,,week,06-12-2017
+holiday-weather.com,Atlanta,,18.0,4.0,11.0,19,NW,,,,week,06-12-2017
+holiday-weather.com,Flagstaff,,13.0,-3.0,5.0,12,WSW,,,,day,30-11-2017
+holiday-weather.com,Albuquerque,,15.0,5.0,10.0,13,E,,,,day,30-11-2017
+holiday-weather.com,Las Vegas,,19.0,7.0,13.0,11,NNW,,,,day,30-11-2017
+holiday-weather.com,Flagstaff,,6.0,-8.0,-1.0,11,E,,,,week,06-12-2017
+holiday-weather.com,Albuquerque,,6.0,-4.0,1.0,20,NNW,,,,week,06-12-2017
+holiday-weather.com,Fresno,,17.0,6.0,11.5,9,NW,,,,day,30-11-2017
+holiday-weather.com,Las Vegas,,16.0,4.0,10.0,8,NNW,,,,week,06-12-2017
+holiday-weather.com,Fresno,,15.0,3.0,9.0,7,E,,,,week,06-12-2017
+holiday-weather.com,Sacramento,,17.0,4.0,10.5,10,NNW,,,,day,30-11-2017
+holiday-weather.com,Sacramento,,15.0,5.0,10.0,4,N,,,,week,06-12-2017
+holiday-weather.com,Salt Lake City,,8.0,0.0,4.0,10,NNW,,,,day,30-11-2017
+holiday-weather.com,Denver,,11.0,2.0,6.5,12,SSW,,,,day,30-11-2017
+holiday-weather.com,Salt Lake City,,4.0,-3.0,0.5,10,NW,,,,week,06-12-2017
+holiday-weather.com,Denver,,8.0,-4.0,2.0,6,SW,,,,week,06-12-2017
+holiday-weather.com,Kansas City,,14.0,0.0,7.0,15,NNW,,,,day,30-11-2017
+holiday-weather.com,Nashville,,19.0,5.0,12.0,12,SSE,,,,day,30-11-2017
+holiday-weather.com,Kansas City,,8.0,-2.0,3.0,19,W,,,,week,06-12-2017
+holiday-weather.com,Nashville,,11.0,-1.0,5.0,11,NW,,,,week,06-12-2017
+holiday-weather.com,Knoxville,,17.0,8.0,12.5,9,SW,,,,day,30-11-2017
+holiday-weather.com,Raleigh,,17.0,8.0,12.5,8,NNE,,,,day,30-11-2017
+holiday-weather.com,Knoxville,,12.0,2.0,7.0,10,W,,,,week,06-12-2017
+holiday-weather.com,Raleigh,,21.0,6.0,13.5,19,WNW,,,,week,06-12-2017
+holiday-weather.com,Cleveland,,11.0,3.0,7.0,26,SSE,,,,day,30-11-2017
+holiday-weather.com,Rochester,,9.0,3.0,6.0,17,SSE,,,,day,30-11-2017
+holiday-weather.com,Cleveland,,6.0,0.0,3.0,28,NW,,,,week,06-12-2017
+holiday-weather.com,Rochester,,5.0,-2.0,1.5,28,WNW,,,,week,06-12-2017
+holiday-weather.com,Chicago,,11.0,2.0,6.5,22,WNW,,,,day,30-11-2017
+holiday-weather.com,Chicago,,3.0,-3.0,0.0,21,W,,,,week,06-12-2017
+holiday-weather.com,Minneapolis,,7.0,-2.0,2.5,21,WNW,,,,day,30-11-2017
+holiday-weather.com,Bangor,,4.0,0.0,2.0,15,S,,,,day,30-11-2017
+holiday-weather.com,Minneapolis,,0.0,-8.0,-4.0,22,NW,,,,week,06-12-2017
+holiday-weather.com,Bangor,,6.0,-5.0,0.5,16,WNW,,,,week,06-12-2017
+holiday-weather.com,Portland,,8.0,4.0,6.0,11,SSE,,,,day,30-11-2017
+holiday-weather.com,Maastricht,,4.0,-1.0,1.5,16,WSW,,,,day,30-11-2017
+holiday-weather.com,Boise,,7.0,0.0,3.5,11,ESE,,,,day,30-11-2017
+holiday-weather.com,Choteau,,6.0,0.0,3.0,22,WSW,,,,day,30-11-2017
+holiday-weather.com,Amsterdam,,5.0,0.0,2.5,17,NW,,,,day,30-11-2017
+holiday-weather.com,Portland,,9.0,2.0,5.5,15,ENE,,,,week,06-12-2017
+holiday-weather.com,Maastricht,,6.0,2.0,4.0,21,SSW,,,,week,06-12-2017
+holiday-weather.com,Boise,,5.0,-4.0,0.5,6,NNE,,,,week,06-12-2017
+holiday-weather.com,Choteau,,7.0,-6.0,0.5,11,WSW,,,,week,06-12-2017
+holiday-weather.com,Amsterdam,,8.0,3.0,5.5,26,SSW,,,,week,06-12-2017
+holiday-weather.com,Eindhoven,,4.0,-3.0,0.5,14,W,,,,day,30-11-2017
+holiday-weather.com,Rotterdam,,5.0,-1.0,2.0,13,WNW,,,,day,30-11-2017
+holiday-weather.com,Eindhoven,,7.0,3.0,5.0,20,SSW,,,,week,06-12-2017
+holiday-weather.com,Rotterdam,,8.0,4.0,6.0,23,SSW,,,,week,06-12-2017
+zoover.nl,los angeles,,23,12,,15.5,W,,0,,day,30-11-2017
+zoover.nl,yuma,,26,14,,15.5,N,,0,,day,30-11-2017
+zoover.nl,yuma,,23,10,,15.5,N,,5,,week,06-12-2017
+zoover.nl,los angeles,,21,10,,15.5,W,,0,,week,06-12-2017
+zoover.nl,new york city,,10,3,,8.5,N,,0,,day,30-11-2017
+zoover.nl,tucson,,25,14,,8.5,SE,,5,,day,30-11-2017
+zoover.nl,new york city,,10,6,,15.5,NW,,55,,week,06-12-2017
+zoover.nl,tucson,,19,7,,8.5,SE,,20,,week,06-12-2017
+zoover.nl,el paso,,21,7,,15.5,N,,0,,day,30-11-2017
+zoover.nl,el paso,,13,6,,15.5,NE,,20,,week,06-12-2017
+zoover.nl,houma,,26,16,,8.5,N,,45,,day,30-11-2017
+zoover.nl,houma,,21,13,,24.0,N,,45,,week,06-12-2017
+zoover.nl,san antonio,,25,10,,8.5,NE,,5,,day,30-11-2017
+zoover.nl,san antonio,,17,11,,15.5,NE,,45,,week,06-12-2017
+zoover.nl,pensacola,,24,16,,15.5,SE,,25,,day,30-11-2017
+zoover.nl,pensacola,,21,15,,24.0,NW,,35,,week,06-12-2017
+zoover.nl,valdosta,,26,12,,8.5,E,,0,,day,30-11-2017
+zoover.nl,valdosta,,23,13,,8.5,W,,25,,week,06-12-2017
+zoover.nl,miami,,28,22,,24.0,NE,,20,,day,30-11-2017
+zoover.nl,miami,,28,21,,15.5,SE,,15,,week,06-12-2017
+zoover.nl,atlanta,,23,12,,8.5,SW,,15,,day,30-11-2017
+zoover.nl,atlanta,,17,11,,24.0,W,,45,,week,06-12-2017
+zoover.nl,tuscaloosa,,23,10,,8.5,S,,35,,day,30-11-2017
+zoover.nl,tuscaloosa,,17,10,,15.5,NW,,55,,week,06-12-2017
+zoover.nl,little rock,,20,11,,15.5,NW,,10,,day,30-11-2017
+zoover.nl,little rock,,13,6,,15.5,NW,,50,,week,06-12-2017
+zoover.nl,oklahoma city,,16,6,,24.0,N,,5,,day,30-11-2017
+zoover.nl,oklahoma city,,11,1,,24.0,N,,30,,week,06-12-2017
+zoover.nl,amarillo,,14,2,,24.0,N,,5,,day,30-11-2017
+zoover.nl,amarillo,,9,-2,,24.0,NW,,20,,week,06-12-2017
+zoover.nl,albuquerque,,14,5,,8.5,NE,,25,,day,30-11-2017
+zoover.nl,albuquerque,,9,-1,,15.5,NE,,15,,week,06-12-2017
+zoover.nl,flagstaff,,14,1,,8.5,SW,,15,,day,30-11-2017
+zoover.nl,flagstaff,,7,-5,,15.5,E,,10,,week,06-12-2017
+zoover.nl,las vegas,,21,9,,8.5,SW,,0,,day,30-11-2017
+zoover.nl,las vegas,,16,6,,8.5,NW,,5,,week,06-12-2017
+zoover.nl,fresno,,17,5,,3,NW,,0,,day,30-11-2017
+zoover.nl,fresno,,17,3,,3,NE,,5,,week,06-12-2017
+zoover.nl,sacramento,,17,5,,8.5,NW,,0,,day,30-11-2017
+zoover.nl,sacramento,,16,2,,8.5,N,,5,,week,06-12-2017
+zoover.nl,winnemucca,,10,-8,,8.5,S,,0,,day,30-11-2017
+zoover.nl,winnemucca,,8,-11,,8.5,N,,0,,week,06-12-2017
+zoover.nl,salt lake city,,9,-2,,8.5,NW,,5,,day,30-11-2017
+zoover.nl,salt lake city,,6,-5,,8.5,NW,,5,,week,06-12-2017
+zoover.nl,grand junction,,12,-2,,8.5,E,,0,,day,30-11-2017
+zoover.nl,grand junction,,7,-5,,8.5,E,,15,,week,06-12-2017
+zoover.nl,denver,,12,-4,,15.5,S,,0,,day,30-11-2017
+zoover.nl,denver,,4,-8,,15.5,N,,25,,week,06-12-2017
+zoover.nl,hays,,13,-1,,15.5,N,,5,,day,30-11-2017
+zoover.nl,hays,,8,-6,,24.0,NW,,15,,week,06-12-2017
+zoover.nl,kansas city,,15,4,,15.5,N,,0,,day,30-11-2017
+zoover.nl,kansas city,,6,-1,,15.5,NW,,30,,week,06-12-2017
+zoover.nl,louisville,,15,9,,15.5,W,,85,,day,30-11-2017
+zoover.nl,louisville,,8,4,,24.0,W,,55,,week,06-12-2017
+zoover.nl,charleston,,16,3,,8.5,SW,,10,,day,30-11-2017
+zoover.nl,charleston,,9,4,,15.5,W,,70,,week,06-12-2017
+zoover.nl,nashville,,19,10,,8.5,SW,,60,,day,30-11-2017
+zoover.nl,nashville,,12,6,,15.5,NW,,60,,week,06-12-2017
+zoover.nl,knoxville,,18,7,,15.5,SW,,35,,day,30-11-2017
+zoover.nl,knoxville,,11,7,,15.5,W,,75,,week,06-12-2017
+zoover.nl,raleigh,,18,6,,8.5,E,,0,,day,30-11-2017
+zoover.nl,raleigh,,16,10,,15.5,W,,60,,week,06-12-2017
+zoover.nl,dulles,,13,2,,8.5,S,,0,,day,30-11-2017
+zoover.nl,dulles,,11,5,,24.0,NW,,65,,week,06-12-2017
+zoover.nl,cleveland,,11,3,,24.0,W,,25,,day,30-11-2017
+zoover.nl,cleveland,,6,3,,24.0,W,,60,,week,06-12-2017
+zoover.nl,rochester,,11,-3,,24.0,S,,20,,day,30-11-2017
+zoover.nl,rochester,,6,2,,15.5,W,,65,,week,06-12-2017
+zoover.nl,bangor,,4,-7,,15.5,S,,5,,day,30-11-2017
+zoover.nl,bangor,,4,-1,,15.5,N,,55,,week,06-12-2017
+zoover.nl,chicago,,11,5,,24.0,W,,55,,day,30-11-2017
+zoover.nl,chicago,,3,-1,,24.0,W,,45,,week,06-12-2017
+zoover.nl,minneapolis,,7,1,,24.0,W,,5,,day,30-11-2017
+zoover.nl,minneapolis,,-2,-7,,24.0,NW,,30,,week,06-12-2017
+zoover.nl,sioux falls,,11,0,,24.0,NW,,5,,day,30-11-2017
+zoover.nl,sioux falls,,0,-8,,24.0,NW,,30,,week,06-12-2017
+zoover.nl,rapid city,,11,-4,,15.5,S,,0,,day,30-11-2017
+zoover.nl,rapid city,,4,-8,,24.0,N,,25,,week,06-12-2017
+zoover.nl,rock springs,,6,-7,,8.5,W,,0,,day,30-11-2017
+zoover.nl,rock springs,,1,-10,,15.5,W,,5,,week,06-12-2017
+zoover.nl,boise,,8,-2,,8.5,SE,,10,,day,30-11-2017
+zoover.nl,boise,,4,-5,,8.5,NW,,5,,week,06-12-2017
+zoover.nl,portland,,8,4,,15.5,SE,,95,,day,30-11-2017
+zoover.nl,portland,,8,0,,24.0,E,,15,,week,06-12-2017
+zoover.nl,spokane,,5,0,,8.5,SW,,75,,day,30-11-2017
+zoover.nl,spokane,,2,-5,,3,NE,,10,,week,06-12-2017
+zoover.nl,bismarck,,12,-1,,24.0,NW,,5,,day,30-11-2017
+zoover.nl,bismarck,,0,-9,,24.0,NW,,35,,week,06-12-2017
+zoover.nl,bemidji,,4,-2,,24.0,W,,50,,day,30-11-2017
+zoover.nl,bemidji,,-6,-12,,24.0,NW,,75,,week,06-12-2017
+zoover.nl,leeuwarden,,5,0,,8.5,NW,,95,,day,30-11-2017
+zoover.nl,leeuwarden,,8,4,,24.0,W,,85,,week,06-12-2017
+zoover.nl,de bilt,,5,1,,8.5,W,,95,,day,30-11-2017
+zoover.nl,de bilt,,8,4,,15.5,W,,80,,week,06-12-2017
+zoover.nl,maastricht,,4,1,,15.5,SW,,95,,day,30-11-2017
+zoover.nl,maastricht,,6,3,,24.0,SW,,80,,week,06-12-2017
+zoover.nl,schiphol amsterdam airport,,5,1,,15.5,NW,,95,,day,30-11-2017
+zoover.nl,schiphol amsterdam airport,,8,4,,33.5,W,,85,,week,06-12-2017
+zoover.nl,vlissingen,,6,4,,24.0,NW,,95,,day,30-11-2017
+zoover.nl,vlissingen,,8,6,,33.5,W,,75,,week,06-12-2017
+zoover.nl,eindhoven,,5,1,,8.5,W,,95,,day,30-11-2017
+zoover.nl,eindhoven,,7,4,,24.0,W,,80,,week,06-12-2017
+zoover.nl,rotterdam,,5,1,,8.5,NW,,95,,day,30-11-2017
+zoover.nl,rotterdam,,8,4,,24.0,W,,80,,week,06-12-2017
+weather-forecast.com,yuma,,25,19,,14.2387953251,NNW,15.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,new york,,10,6,,14.0066865974,SSE,68.6666666667,,0.333333333333,day,30-11-2017
+weather-forecast.com,los angeles,,25,18,,4.1169447074,W,20.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,yuma,,23,13,,31.6666666667,N,7.0,,0.0,week,06-12-2017
+weather-forecast.com,new york,,8,-1,,22.3038267738,WNW,62.3333333333,,4.33333333333,week,06-12-2017
+weather-forecast.com,los angeles,,25,17,,16.6666666667,N,4.33333333333,,0.0,week,06-12-2017
+weather-forecast.com,miami,,27,23,,31.6666666667,NE,72.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,miami,,28,20,,19.3279678175,SSW,66.6666666667,,0.666666666667,week,06-12-2017
+weather-forecast.com,pensacola,,22,19,,19.1225673852,SE,88.3333333333,,2.33333333333,day,30-11-2017
+weather-forecast.com,san antonio,,24,14,,6.31833845947,ENE,38.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,valdosta,,24,14,,8.64257783426,SE,67.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,pensacola,,14,4,,37.6319029176,NNW,53.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,san antonio,,15,9,,16.1026508646,NNE,23.0,,0.0,week,06-12-2017
+weather-forecast.com,valdosta,,16,4,,26.2269342352,NW,72.3333333333,,3.0,week,06-12-2017
+weather-forecast.com,houma,,27,16,,11.4196294113,N,81.0,,1.33333333333,day,30-11-2017
+weather-forecast.com,beaumont,,22,12,,21.2727239676,N,63.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,tucson,,24,19,,7.59206404271,ESE,25.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,atlanta,,19,14,,7.97826587864,SW,82.0,,2.66666666667,day,30-11-2017
+weather-forecast.com,columbia,,20,15,,6.57082719194,SSW,69.6666666667,,0.333333333333,day,30-11-2017
+weather-forecast.com,tuscaloosa,,22,13,,3.65877958391,WSW,84.0,,3.0,day,30-11-2017
+weather-forecast.com,houma,,14,4,,40.9706952468,N,45.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,beaumont,,15,5,,26.246425649,N,35.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,tucson,,22,13,,16.6666666667,E,26.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,atlanta,,9,-1,,30.0,NW,49.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,columbia,,15,2,,18.9850604335,NW,58.0,,0.666666666667,week,06-12-2017
+weather-forecast.com,tuscaloosa,,10,-1,,21.6666666667,NW,49.0,,0.0,week,06-12-2017
+weather-forecast.com,el paso,,20,13,,18.0075025892,E,28.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,little rock,,18,7,,17.3760410967,NNW,67.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,oklahoma city,,14,6,,12.4004444424,NNE,47.0,,0.0,day,30-11-2017
+weather-forecast.com,amarillo,,13,6,,15.4414650941,SE,40.0,,0.0,day,30-11-2017
+weather-forecast.com,el paso,,12,5,,16.3980808807,ESE,46.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,little rock,,6,-1,,18.0026602661,NW,33.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,oklahoma city,,8,1,,25.3979922085,NW,36.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,amarillo,,10,1,,22.4543213445,WNW,27.0,,0.0,week,06-12-2017
+weather-forecast.com,fresno,,18,9,,13.1416543839,NW,58.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,las vegas,,19,9,,2.35702260396,ESE,22.0,,0.0,day,30-11-2017
+weather-forecast.com,flagstaff,,11,4,,9.49253021674,SW,54.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,albuquerque,,13,7,,6.48585205128,SE,36.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,fresno,,18,8,,11.6666666667,NW,27.0,,0.0,week,06-12-2017
+weather-forecast.com,las vegas,,15,6,,13.0932962041,NNE,11.0,,0.0,week,06-12-2017
+weather-forecast.com,flagstaff,,7,-3,,14.7153719042,NE,14.0,,0.0,week,06-12-2017
+weather-forecast.com,albuquerque,,8,-1,,4.91469399128,NW,19.0,,0.0,week,06-12-2017
+weather-forecast.com,winnemucca,,8,1,,4.76234781051,WSW,46.0,,0.0,day,30-11-2017
+weather-forecast.com,sacramento,,18,8,,7.9332027737,NNW,49.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,salt lake city,,9,2,,3.26928426801,S,36.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,winnemucca,,5,-1,,3.99908298964,ESE,21.0,,0.0,week,06-12-2017
+weather-forecast.com,sacramento,,16,7,,20.7883810683,N,30.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,salt lake city,,4,-2,,1.90356527334,WNW,34.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,grand junction,,12,2,,2.55122288243,ENE,33.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,grand junction,,5,-4,,2.88675134595,SE,18.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,hays,,12,4,,4.17785631656,SW,33.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,kansas city,,12,4,,10.5541599307,NNW,36.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,hays,,6,-3,,35.0,NW,50.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,kansas city,,1,-4,,21.3718904139,NW,33.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,st louis,,13,4,,16.6666666667,NNW,45.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,louisville,,12,4,,6.701655532,NW,79.6666666667,,1.33333333333,day,30-11-2017
+weather-forecast.com,st louis,,1,-4,,22.8942275064,WNW,34.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,louisville,,1,-4,,22.9679947972,WNW,40.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,charleston,,16,2,,7.03907722651,WSW,77.6666666667,,4.0,day,30-11-2017
+weather-forecast.com,nashville,,17,6,,5.61180787001,NW,74.6666666667,,0.333333333333,day,30-11-2017
+weather-forecast.com,charleston,,4,-5,,22.9679947972,W,60.0,,0.0,week,06-12-2017
+weather-forecast.com,nashville,,3,-2,,16.390979071,NW,46.0,,0.0,week,06-12-2017
+weather-forecast.com,knoxville,,16,8,,6.0757514669,W,80.3333333333,,1.0,day,30-11-2017
+weather-forecast.com,raleigh,,17,12,,7.02324697639,S,70.3333333333,,0.666666666667,day,30-11-2017
+weather-forecast.com,knoxville,,6,-3,,16.4624273423,WNW,56.0,,0.0,week,06-12-2017
+weather-forecast.com,raleigh,,11,0,,21.2727239676,NW,55.3333333333,,2.0,week,06-12-2017
+weather-forecast.com,cleveland,,8,4,,16.7792314633,WSW,71.3333333333,,1.0,day,30-11-2017
+weather-forecast.com,rochester,,10,4,,22.0909412872,SW,64.0,,0.666666666667,day,30-11-2017
+weather-forecast.com,cleveland,,0,-4,,40.9706952468,W,61.0,,0.0,week,06-12-2017
+weather-forecast.com,rochester,,5,-2,,35.968006146,WSW,64.6666666667,,0.333333333333,week,06-12-2017
+weather-forecast.com,bangor,,4,0,,19.6264820584,S,68.6666666667,,3.0,day,30-11-2017
+weather-forecast.com,chicago,,10,3,,14.5596196244,WNW,48.0,,0.0,day,30-11-2017
+weather-forecast.com,bangor,,1,-2,,6.79836601925,N,86.0,,0.0,week,06-12-2017
+weather-forecast.com,chicago,,-3,-7,,23.3333333333,WNW,47.0,,0.0,week,06-12-2017
+weather-forecast.com,minneapolis,,6,0,,18.4089350286,WNW,63.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,sioux falls,,8,2,,17.6112470681,WNW,39.0,,0.0,day,30-11-2017
+weather-forecast.com,minneapolis,,-7,-9,,26.6666666667,NW,60.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,sioux falls,,-4,-9,,28.3333333333,NW,54.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,rapid city,,9,0,,10.6517271002,S,22.6666666667,,0.0,day,30-11-2017
+weather-forecast.com,rock springs,,4,-2,,17.984003073,WSW,39.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,rapid city,,2,-2,,60.0,NW,70.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,rock springs,,0,-6,,18.0544098615,W,38.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,boise,,6,0,,6.66666666667,SE,42.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,portland,,7,5,,9.102324844,SSE,83.3333333333,,4.0,day,30-11-2017
+weather-forecast.com,boise,,4,-3,,3.1043277455,ESE,39.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,portland,,10,3,,13.1416543839,E,59.0,,0.0,week,06-12-2017
+weather-forecast.com,spokane,,3,0,,8.89395863907,SSW,73.3333333333,,0.333333333333,day,30-11-2017
+weather-forecast.com,sidney,,7,0,,23.7313255419,WSW,36.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,spokane,,1,-4,,1.66666666667,ENE,61.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,bismarck,,8,1,,20.437820617,WSW,38.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,leeuwarden,,5,3,,14.1421356237,NNE,75.0,,2.33333333333,day,30-11-2017
+weather-forecast.com,sidney,,-1,-5,,35.0,NW,82.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,bismarck,,-2,-13,,29.4307438084,NW,75.6666666667,,0.0,week,06-12-2017
+weather-forecast.com,leeuwarden,,5,3,,36.6666666667,NW,58.6666666667,,4.0,week,06-12-2017
+weather-forecast.com,bemidji,,1,-2,,22.6665119401,WNW,71.0,,0.0,day,30-11-2017
+weather-forecast.com,de bilt,,5,0,,6.38071187458,WNW,72.0,,1.66666666667,day,30-11-2017
+weather-forecast.com,maastricht,,5,-2,,11.2318680384,WSW,85.3333333333,,1.33333333333,day,30-11-2017
+weather-forecast.com,bemidji,,-11,-14,,26.1865924081,NNW,75.3333333333,,0.0,week,06-12-2017
+weather-forecast.com,de bilt,,6,1,,25.4676776357,NW,59.6666666667,,2.33333333333,week,06-12-2017
+weather-forecast.com,maastricht,,6,-1,,23.1057928939,WNW,79.0,,7.0,week,06-12-2017
+weather-forecast.com,amsterdam airport schiphol,,6,3,,10.7974486118,NNW,62.3333333333,,2.66666666667,day,30-11-2017
+weather-forecast.com,flushing,,7,5,,27.9425736199,NNW,58.0,,7.0,day,30-11-2017
+weather-forecast.com,amsterdam airport schiphol,,6,3,,32.4495455824,NW,56.3333333333,,4.66666666667,week,06-12-2017
+weather-forecast.com,flushing,,8,4,,50.6731310537,NW,57.6666666667,,4.66666666667,week,06-12-2017
+weather-forecast.com,eindhoven,,6,0,,9.57785542096,WNW,76.3333333333,,0.0,day,30-11-2017
+weather-forecast.com,rotterdam,,6,2,,12.8891411799,NNW,62.0,,3.33333333333,day,30-11-2017
+weather-forecast.com,eindhoven,,6,1,,28.7163839483,NW,67.3333333333,,3.66666666667,week,06-12-2017
+weather-forecast.com,rotterdam,,7,3,,38.230229164,NW,57.3333333333,,5.33333333333,week,06-12-2017

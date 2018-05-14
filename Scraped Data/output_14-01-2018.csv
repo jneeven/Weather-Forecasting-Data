@@ -1,0 +1,847 @@
+website,location,type,max_temp,min_temp,avg_temp,wind_speed,wind_direction,humidity_percentage,pop,precipitation_amount,prediction_type,date
+bbc.com,yuma,sunny,25,9,16.875,10,NNW,45.125,,,day,15-01-2018
+bbc.com,yuma,sunny,17,5,,11,NNE,21.0,,,week,21-01-2018
+bbc.com,los angeles,light cloud,21,11,15.5,5,W,72.125,,,day,15-01-2018
+bbc.com,los angeles,sunny,15,6,,8,E,46.0,,,week,21-01-2018
+bbc.com,tucson international airport,sunny,24,9,15.25,8,ESE,48.25,,,day,15-01-2018
+bbc.com,tucson international airport,sunny,15,1,,8,SE,26.0,,,week,21-01-2018
+bbc.com,san antonio,light cloud,19,0,12.375,13,S,75.25,,,day,15-01-2018
+bbc.com,san antonio,sunny,20,5,,21,NW,44.0,,,week,21-01-2018
+bbc.com,beaumont,sunny,16,5,10.375,11,SSE,79.375,,,day,15-01-2018
+bbc.com,beaumont,heavy rain shower,20,7,,21,SW,85.0,,,week,21-01-2018
+bbc.com,houma,sunny,14,4,7.5,5,E,79.125,,,day,15-01-2018
+bbc.com,houma,sunny intervals,23,12,,24,SSE,79.0,,,week,21-01-2018
+bbc.com,pensacola,sunny,11,4,6.625,6,ENE,73.375,,,day,15-01-2018
+bbc.com,pensacola,light cloud,20,14,,23,SE,82.0,,,week,21-01-2018
+bbc.com,valdosta regional airport,sunny,10,0,4.375,10,NNE,70.5,,,day,15-01-2018
+bbc.com,valdosta regional airport,sunny,23,13,,13,SE,66.0,,,week,21-01-2018
+bbc.com,miami,sunny intervals,24,21,,21,E,73.0,,,week,21-01-2018
+bbc.com,miami,light cloud,22,19,19.125,27,NNE,75.125,,,day,15-01-2018
+bbc.com,columbia metropolitan airport,sunny,5,-1,0.5,8,NNE,68.625,,,day,15-01-2018
+bbc.com,columbia metropolitan airport,sunny,19,11,,10,SSE,70.0,,,week,21-01-2018
+bbc.com,atlanta,sunny,18,10,,18,SSE,78.0,,,week,21-01-2018
+bbc.com,atlanta,sunny,8,-1,2.25,10,SSE,76.75,,,day,15-01-2018
+bbc.com,tuscaloosa municipal airport,sunny,9,0,3.625,10,SSW,72.125,,,day,15-01-2018
+bbc.com,tuscaloosa municipal airport,sunny intervals,19,9,,16,SSE,74.0,,,week,21-01-2018
+bbc.com,little rock,sunny intervals,7,-6,0.625,6,W,66.75,,,day,15-01-2018
+bbc.com,little rock,heavy rain shower,15,2,,19,SW,85.0,,,week,21-01-2018
+bbc.com,amarillo,sunny,7,-6,,26,NNW,40.0,,,week,21-01-2018
+bbc.com,albuquerque,sunny intervals,12,-1,3.875,6,NE,62.125,,,day,15-01-2018
+bbc.com,oklahoma city,sunny,9,-2,,19,NW,59.0,,,week,21-01-2018
+bbc.com,amarillo,light snow,1,-11,-3.125,37,NE,58.0,,,day,15-01-2018
+bbc.com,oklahoma city,light cloud,2,-9,-2.375,26,NNE,54.75,,,day,15-01-2018
+bbc.com,albuquerque,sunny,6,-6,,14,NW,27.0,,,week,21-01-2018
+bbc.com,flagstaff,light cloud,11,-1,4.0,6,WNW,68.5,,,day,15-01-2018
+bbc.com,flagstaff,sunny,0,-9,,10,WNW,35.0,,,week,21-01-2018
+bbc.com,las vegas,sunny,9,1,,6,NE,37.0,,,week,21-01-2018
+bbc.com,las vegas,sunny,15,5,10.125,3,ENE,72.625,,,day,15-01-2018
+bbc.com,sacramento,light cloud,13,10,11.0,5,S,92.375,,,day,15-01-2018
+bbc.com,sacramento,light cloud,10,5,,14,ENE,74.0,,,week,21-01-2018
+bbc.com,fresno,light cloud,17,10,12.25,5,S,85.75,,,day,15-01-2018
+bbc.com,fresno,light cloud,12,4,,8,ESE,63.0,,,week,21-01-2018
+bbc.com,salt lake city,sunny intervals,2,-6,,16,S,71.0,,,week,21-01-2018
+bbc.com,salt lake city,sunny,7,-1,2.125,6,NNW,85.75,,,day,15-01-2018
+bbc.com,grand junction regional airport,sunny,0,-10,,5,ENE,39.0,,,week,21-01-2018
+bbc.com,denver,light snow,-2,-11,-7.625,19,NE,57.875,,,day,15-01-2018
+bbc.com,denver,sunny,1,-11,,14,W,34.0,,,week,21-01-2018
+bbc.com,grand junction regional airport,sunny,8,-3,1.375,3,NNW,68.125,,,day,15-01-2018
+bbc.com,kansas city,thick cloud,-6,-17,-11.0,24,NNW,58.625,,,day,15-01-2018
+bbc.com,kansas city,sunny,5,-4,,16,NW,66.0,,,week,21-01-2018
+bbc.com,knoxville,sunny,6,-3,0.75,13,SSW,64.0,,,day,15-01-2018
+bbc.com,knoxville,sunny,15,4,,6,N,71.0,,,week,21-01-2018
+bbc.com,louisville,light cloud,14,4,,19,SSW,81.0,,,week,21-01-2018
+bbc.com,st louis,thick cloud,9,-2,,18,WSW,82.0,,,week,21-01-2018
+bbc.com,st louis,light snow,-1,-15,-8.0,24,WNW,61.125,,,day,15-01-2018
+bbc.com,nashville,light cloud,5,-9,-0.25,18,SW,67.125,,,day,15-01-2018
+bbc.com,louisville,light snow,1,-13,-4.125,19,SSW,78.125,,,day,15-01-2018
+bbc.com,nashville,sunny intervals,15,4,,19,S,79.0,,,week,21-01-2018
+bbc.com,cleveland,light snow,-2,-11,-5.625,16,SSE,86.25,,,day,15-01-2018
+bbc.com,cleveland,light rain,10,2,,23,SSW,81.0,,,week,21-01-2018
+bbc.com,rochester,light cloud,-6,-7,-8.25,14,ESE,82.875,,,day,15-01-2018
+bbc.com,rochester,thick cloud,10,4,,16,SSW,74.0,,,week,21-01-2018
+bbc.com,raleigh east airport,sunny,17,9,,10,SSW,69.0,,,week,21-01-2018
+bbc.com,washington dulles international airport,thick cloud,0,-5,-4.0,6,ENE,67.75,,,day,15-01-2018
+bbc.com,washington dulles international airport,sunny intervals,15,5,,13,S,57.0,,,week,21-01-2018
+bbc.com,raleigh east airport,sunny intervals,2,-3,-1.5,10,N,71.375,,,day,15-01-2018
+bbc.com,chicago,thick cloud,7,-3,,19,WSW,79.0,,,week,21-01-2018
+bbc.com,sioux falls,thick cloud,-19,-25,-21.625,31,NNW,71.0,,,day,15-01-2018
+bbc.com,minneapolis,light cloud,-2,-13,,14,WNW,69.0,,,week,21-01-2018
+bbc.com,sioux falls,light cloud,-1,-12,,21,NW,58.0,,,week,21-01-2018
+bbc.com,bangor,light cloud,-6,-9,-9.375,21,NNE,66.25,,,day,15-01-2018
+bbc.com,bangor,light cloud,7,0,,10,SSW,64.0,,,week,21-01-2018
+bbc.com,chicago,light snow,-3,-10,-7.0,13,S,82.875,,,day,15-01-2018
+bbc.com,minneapolis,light snow,-15,-18,-17.0,21,NNW,82.625,,,day,15-01-2018
+bbc.com,rock springs,sunny,1,-9,-4.5,21,E,66.875,,,day,15-01-2018
+bbc.com,rock springs,sunny,-6,-17,,16,WSW,66.0,,,week,21-01-2018
+bbc.com,rapid city,sunny intervals,-1,-12,,23,N,51.0,,,week,21-01-2018
+bbc.com,rapid city,sunny,-13,-20,-18.0,32,NNW,68.125,,,day,15-01-2018
+bbc.com,boise,light cloud,3,-2,,14,SE,54.0,,,week,21-01-2018
+bbc.com,portland,light rain,7,3,,11,ESE,85.0,,,week,21-01-2018
+bbc.com,boise,light cloud,7,1,3.0,8,SE,80.25,,,day,15-01-2018
+bbc.com,portland,light cloud,11,7,8.875,11,ENE,79.5,,,day,15-01-2018
+bbc.com,new york,sunny intervals,11,3,,13,SSW,64.0,,,week,21-01-2018
+bbc.com,spokane international airport,light snow,1,-6,,11,SSE,79.0,,,week,21-01-2018
+bbc.com,bismarck,sunny,-7,-21,,14,WNW,77.0,,,week,21-01-2018
+bbc.com,bismarck,sunny,-23,-31,-26.125,21,NNW,84.75,,,day,15-01-2018
+bbc.com,leeuwarden,sunny intervals,4,-1,,13,WSW,79.0,,,week,21-01-2018
+bbc.com,leeuwarden,heavy rain,5,3,4.125,31,S,91.375,,,day,15-01-2018
+bbc.com,new york,light cloud,-2,-4,-4.125,14,NE,58.625,,,day,15-01-2018
+bbc.com,spokane international airport,sunny intervals,3,-2,-0.5,13,NE,88.875,,,day,15-01-2018
+bbc.com,amsterdam airport schiphol,heavy rain,7,4,5.25,39,SSW,89.875,,,day,15-01-2018
+bbc.com,maastricht aachen airport,sunny intervals,3,-2,,11,WNW,82.0,,,week,21-01-2018
+bbc.com,maastricht aachen airport,light rain,6,4,5.375,31,SSW,88.375,,,day,15-01-2018
+bbc.com,amsterdam airport schiphol,sunny intervals,5,-1,,14,W,80.0,,,week,21-01-2018
+bbc.com,vlissingen,heavy rain,7,6,6.0,40,SSW,89.625,,,day,15-01-2018
+bbc.com,vlissingen,sunny intervals,5,0,,16,WNW,78.0,,,week,21-01-2018
+bbc.com,de bilt,sunny intervals,4,-2,,11,WNW,83.0,,,week,21-01-2018
+bbc.com,de bilt,heavy rain,6,4,5.375,24,SSW,90.0,,,day,15-01-2018
+bbc.com,eindhoven,light rain,7,4,5.375,29,SSW,91.0,,,day,15-01-2018
+bbc.com,rotterdam,sunny intervals,4,-1,,13,WSW,81.0,,,week,21-01-2018
+bbc.com,eindhoven,sunny intervals,4,-2,,13,WNW,82.0,,,week,21-01-2018
+bbc.com,rotterdam,heavy rain,6,5,5.625,29,SSW,88.5,,,day,15-01-2018
+timeanddate.com,los angeles,Mostly sunny.,23,13,,10,SW,39,6,,day,15-01-2018
+timeanddate.com,yuma marine corps air station,Partly sunny.,26,11,,14,NNW,20,1,,day,15-01-2018
+timeanddate.com,los angeles,Mostly cloudy.,20,12,,4,SE,11,4,,week,21-01-2018
+timeanddate.com,yuma marine corps air station,Partly cloudy.,20,6,,7,NE,10,2,,week,21-01-2018
+timeanddate.com,davis-monthan air force base,Partly sunny.,25,10,,9,ESE,17,0,,day,15-01-2018
+timeanddate.com,davis-monthan air force base,Sunny.,18,3,,13,E,7,2,,week,21-01-2018
+timeanddate.com,el paso international airport,High level clouds.,18,1,,10,ESE,28,0,,day,15-01-2018
+timeanddate.com,pensacola regional airport,Sunny.,14,0,,9,ENE,39,5,,day,15-01-2018
+timeanddate.com,valdosta regional,Mostly sunny.,12,-2,,11,NE,37,5,,day,15-01-2018
+timeanddate.com,el paso international airport,Sunny.,13,2,,7,W,12,1,,week,21-01-2018
+timeanddate.com,pensacola regional airport,Light rain. Cloudy.,22,13,,19,S,74,44,3.0,week,21-01-2018
+timeanddate.com,midland - midland airpark,Partly sunny.,14,-1,,16,S,48,1,,day,15-01-2018
+timeanddate.com,valdosta regional,Sunny.,23,7,,13,S,64,6,,week,21-01-2018
+timeanddate.com,miami international airport,More clouds than sun.,22,16,,30,NE,69,16,,day,15-01-2018
+timeanddate.com,midland - midland airpark,Sunny.,15,5,,26,NW,8,1,,week,21-01-2018
+timeanddate.com,san antonio international airport,Cloudy.,18,7,,16,SE,56,11,,day,15-01-2018
+timeanddate.com,columbia owens downtown airport,Sunny.,9,-3,,7,ENE,24,7,,day,15-01-2018
+timeanddate.com,miami international airport,A few showers. Clearing skies.,25,21,,22,E,71,49,1.3,week,21-01-2018
+timeanddate.com,san antonio international airport,Morning clouds.,19,9,,21,NW,14,4,,week,21-01-2018
+timeanddate.com,jefferson county airport,Mostly sunny.,17,1,,13,SE,49,3,,day,15-01-2018
+timeanddate.com,columbia owens downtown airport,Sprinkles late. Afternoon clouds.,20,3,,11,SSE,47,29,0.2,week,21-01-2018
+timeanddate.com,fulton county airport-brown field,Morning clouds.,8,-3,,11,SSE,42,9,,day,15-01-2018
+timeanddate.com,jefferson county airport,Showers early. Morning clouds.,19,7,,19,WNW,27,57,4.0,week,21-01-2018
+timeanddate.com,lakefront airport,Mostly sunny.,14,2,,11,ENE,59,3,,day,15-01-2018
+timeanddate.com,tuscaloosa municipal airport,Sunny.,12,-6,,9,SSE,39,18,,day,15-01-2018
+timeanddate.com,fulton county airport-brown field,Light rain late. Afternoon clouds.,17,4,,17,S,66,54,4.7,week,21-01-2018
+timeanddate.com,vicksburg municipal,Sunny.,12,-4,,10,SSW,42,10,,day,15-01-2018
+timeanddate.com,lakefront airport,A few showers. Broken clouds.,22,10,,20,WNW,68,47,2.2,week,21-01-2018
+timeanddate.com,tuscaloosa municipal airport,Rain. Mostly cloudy.,19,7,,17,SW,86,55,9.4,week,21-01-2018
+timeanddate.com,vicksburg municipal,Light rain early. Decreasing cloudiness.,18,7,,18,W,36,60,6.5,week,21-01-2018
+timeanddate.com,adams field,Partly sunny.,9,-3,,13,SSW,59,14,1.8,day,15-01-2018
+timeanddate.com,amarillo international airport,Overcast.,2,-6,,24,NE,62,21,,day,15-01-2018
+timeanddate.com,adams field,Light rain early. Clearing skies.,15,4,,27,W,36,50,2.6,week,21-01-2018
+timeanddate.com,amarillo international airport,Decreasing cloudiness.,11,-1,,25,NW,12,6,,week,21-01-2018
+timeanddate.com,albuquerque international airport,Partly sunny.,11,-1,,20,SSE,32,0,,day,15-01-2018
+timeanddate.com,flagstaff pulliam airport,Mostly sunny.,12,-6,,9,W,25,0,,day,15-01-2018
+timeanddate.com,albuquerque international airport,Sunny.,8,-1,,15,NW,22,3,,week,21-01-2018
+timeanddate.com,flagstaff pulliam airport,Afternoon clouds.,5,-12,,11,SSW,24,3,,week,21-01-2018
+timeanddate.com,las vegas  mccarran international airport,High level clouds.,18,9,,7,E,33,1,,day,15-01-2018
+timeanddate.com,fresno air terminal,Haze.,19,9,,7,SW,55,0,,day,15-01-2018
+timeanddate.com,las vegas  mccarran international airport,Afternoon clouds.,15,4,,9,ESE,16,4,,week,21-01-2018
+timeanddate.com,fresno air terminal,Overcast.,13,5,,11,S,35,5,,week,21-01-2018
+timeanddate.com,sacramento executive airport,Low clouds.,15,6,,9,S,81,8,0.0,day,15-01-2018
+timeanddate.com,elko municipal-harris field,Partly sunny.,11,-1,,11,E,51,1,,day,15-01-2018
+timeanddate.com,sacramento executive airport,Heavy rain early. Overcast.,13,8,,19,SSE,48,28,12.8,week,21-01-2018
+timeanddate.com,elko municipal-harris field,Snow showers early. Broken clouds.,7,-6,,18,S,55,26,1.3,week,21-01-2018
+timeanddate.com,salt lake city international airport,Increasing cloudiness.,6,0,,11,E,67,1,,day,15-01-2018
+timeanddate.com,walker field,Mostly sunny.,7,-4,,11,ENE,52,0,,day,15-01-2018
+timeanddate.com,salt lake city international airport,Snow showers early. Partly cloudy.,5,-4,,24,SSE,61,27,1.0,week,21-01-2018
+timeanddate.com,walker field,Mostly sunny.,2,-7,,5,ESE,36,4,,week,21-01-2018
+timeanddate.com,buckley air force base,Scattered flurries. Overcast.,0,-10,,11,ENE,78,34,25.3,day,15-01-2018
+timeanddate.com,hays municipal,Light snow early. Clearing skies.,1,-15,,31,NNW,47,53,25.4,day,15-01-2018
+timeanddate.com,buckley air force base,Snow showers early. Decreasing cloudiness.,6,-5,,15,NW,21,31,2.4,week,21-01-2018
+timeanddate.com,kansas city downtown airport,Flurries early. High level clouds.,-1,-15,,22,NNW,59,38,15.0,day,15-01-2018
+timeanddate.com,hays municipal,Light snow early. Morning clouds.,5,-2,,60,NW,39,47,35.7,week,21-01-2018
+timeanddate.com,lambert-st louis international airport,Flurries early. High level clouds.,-2,-12,,23,WNW,53,43,12.6,day,15-01-2018
+timeanddate.com,kansas city downtown airport,Drizzle. Broken clouds.,13,0,,33,WNW,68,45,1.2,week,21-01-2018
+timeanddate.com,lambert-st louis international airport,Sprinkles. Breaks of sun late.,14,4,,35,SW,48,51,2.9,week,21-01-2018
+timeanddate.com,standiford field,Snow showers. Overcast.,2,-5,,23,SW,74,60,12.5,day,15-01-2018
+timeanddate.com,nashville international airport,High level clouds.,7,-3,,16,SW,52,26,0.6,day,15-01-2018
+timeanddate.com,standiford field,Light rain. Cloudy.,14,5,,23,SSW,89,56,6.1,week,21-01-2018
+timeanddate.com,nashville international airport,Rain. Decreasing cloudiness.,16,5,,20,SW,92,55,6.6,week,21-01-2018
+timeanddate.com,mcghee tyson airport,Partly sunny.,5,-6,,17,SW,57,19,,day,15-01-2018
+timeanddate.com,raleigh-durham international airport,Mostly sunny.,5,-5,,8,NNE,32,6,,day,15-01-2018
+timeanddate.com,mcghee tyson airport,Rain late. Broken clouds.,17,4,,5,SW,84,46,7.4,week,21-01-2018
+timeanddate.com,raleigh-durham international airport,Sunny.,18,3,,13,S,57,5,,week,21-01-2018
+timeanddate.com,reagan national airport,Increasing cloudiness.,-1,-9,,10,NE,58,8,,day,15-01-2018
+timeanddate.com,cleveland-hopkins international airport,Snow showers. Overcast.,-4,-13,,16,SSE,75,54,27.9,day,15-01-2018
+timeanddate.com,reagan national airport,Mostly sunny.,14,5,,8,SSE,65,4,,week,21-01-2018
+timeanddate.com,cleveland-hopkins international airport,Light rain. Overcast.,10,5,,29,S,84,51,9.7,week,21-01-2018
+timeanddate.com,greater rochester international airport,Increasing cloudiness.,-5,-15,,20,SE,66,35,12.2,day,15-01-2018
+timeanddate.com,bangor international airport,High level clouds.,-10,-18,,17,NNE,52,3,,day,15-01-2018
+timeanddate.com,greater rochester international airport,Light rain. Overcast.,7,3,,12,SE,100,48,5.1,week,21-01-2018
+timeanddate.com,bangor international airport,Cloudy.,4,-5,,9,NE,86,6,,week,21-01-2018
+timeanddate.com,chicago midway airport,Snow showers. Overcast.,-4,-13,,22,S,79,91,77.3,day,15-01-2018
+timeanddate.com,st paul international airport,Scattered flurries. Overcast.,-12,-20,,21,NW,69,43,29.5,day,15-01-2018
+timeanddate.com,chicago midway airport,Light rain. Cloudy.,10,2,,28,S,71,50,7.9,week,21-01-2018
+timeanddate.com,st paul international airport,Snow. Overcast.,1,-7,,28,N,92,44,142.2,week,21-01-2018
+timeanddate.com,foss field,Increasing cloudiness.,-14,-22,,32,NNW,66,7,,day,15-01-2018
+timeanddate.com,ellsworth air force base,Sunny.,-10,-20,,23,NNW,45,24,,day,15-01-2018
+timeanddate.com,foss field,Snow. Decreasing cloudiness.,-1,-10,,36,NNW,86,43,200.3,week,21-01-2018
+timeanddate.com,ellsworth air force base,Light snow early. Broken clouds.,2,-8,,6,E,87,30,1.4,week,21-01-2018
+timeanddate.com,rock springs weather reporting station,Mostly sunny.,0,-8,,17,E,57,0,,day,15-01-2018
+timeanddate.com,boise air terminal,Partly sunny.,8,0,,13,ESE,67,0,,day,15-01-2018
+timeanddate.com,rock springs weather reporting station,Mostly sunny.,-1,-12,,23,WSW,52,6,,week,21-01-2018
+timeanddate.com,boise air terminal,Rain late. Overcast.,6,1,,14,SE,65,81,0.0,day,15-01-2018
+timeanddate.com,boise air terminal,Snow changing to rain. Overcast.,5,0,,31,ESE,70,40,17.3,week,21-01-2018
+timeanddate.com,portland international airport,Light rain. High level clouds.,12,7,,19,E,68,51,0.0,day,15-01-2018
+timeanddate.com,boise air terminal,Snow changing to rain. Overcast.,6,1,,15,SE,73,44,9.2,week,21-01-2018
+timeanddate.com,portland international airport,Light rain. Overcast.,9,5,,6,SE,73,58,7.6,week,21-01-2018
+timeanddate.com,felts field,High level clouds.,6,1,,11,ENE,82,1,,day,15-01-2018
+timeanddate.com,great falls international airport,Morning clouds.,-7,-12,,14,NNE,74,27,10.8,day,15-01-2018
+timeanddate.com,felts field,Light snow. Overcast.,4,-1,,8,SSW,98,53,32.1,week,21-01-2018
+timeanddate.com,great falls international airport,Light snow. Overcast.,-2,-9,,14,SSW,75,40,29.7,week,21-01-2018
+timeanddate.com,sidney-richland,Sunny.,-20,-30,,9,NW,69,1,,day,15-01-2018
+timeanddate.com,bismarck municipal airport,Mostly sunny.,-21,-29,,18,NNW,66,1,,day,15-01-2018
+timeanddate.com,sidney-richland,Light snow. Cloudy.,-4,-13,,8,S,85,31,14.2,week,21-01-2018
+timeanddate.com,bismarck municipal airport,Breaks of sun late.,-6,-16,,7,N,91,6,,week,21-01-2018
+timeanddate.com,bemidji-beltrami county airport,Overcast.,-20,-25,,25,NNW,69,22,,day,15-01-2018
+timeanddate.com,new york city - central park,Increasing cloudiness.,-2,-8,,19,NE,60,7,,day,15-01-2018
+timeanddate.com,bemidji-beltrami county airport,Light snow. Overcast.,-5,-15,,22,N,91,39,37.0,week,21-01-2018
+timeanddate.com,new york city - central park,Clearing skies.,11,4,,6,SSE,69,6,,week,21-01-2018
+timeanddate.com,leeuwarden airport,Rain late. Afternoon clouds.,6,0,,38,S,89,74,10.1,day,15-01-2018
+timeanddate.com,amsterdam schiphol airport,Rain late. Afternoon clouds.,6,0,,34,SSW,88,71,9.5,day,15-01-2018
+timeanddate.com,leeuwarden airport,Light rain. Overcast.,6,2,,24,SSE,92,53,6.2,week,21-01-2018
+timeanddate.com,amsterdam schiphol airport,Light rain. Overcast.,7,2,,19,S,88,53,4.2,week,21-01-2018
+timeanddate.com,maastricht airport zuid limburg,Light rain late. Afternoon clouds.,8,3,,41,SSW,78,66,6.8,day,15-01-2018
+timeanddate.com,amsterdam schiphol airport,Rain late. Afternoon clouds.,7,1,,39,SSW,88,70,9.0,day,15-01-2018
+timeanddate.com,maastricht airport zuid limburg,Snow changing to rain. Overcast.,8,1,,22,S,85,55,5.9,week,21-01-2018
+timeanddate.com,amsterdam schiphol airport,Sprinkles. Overcast.,7,3,,22,SSE,87,54,4.5,week,21-01-2018
+timeanddate.com,cadzand wp,Rain. Afternoon clouds.,8,1,,39,SSW,90,74,9.2,day,15-01-2018
+timeanddate.com,cadzand wp,Light rain. Overcast.,9,4,,24,SSW,95,53,4.8,week,21-01-2018
+timeanddate.com,eindhoven airport,Rain late. Afternoon clouds.,7,1,,29,SSW,84,74,9.8,day,15-01-2018
+timeanddate.com,rotterdam zestienhoven airport,Heavy rain late. Afternoon clouds.,7,1,,38,SSW,86,74,9.7,day,15-01-2018
+timeanddate.com,eindhoven airport,Light rain. Overcast.,7,2,,20,S,84,53,4.1,week,21-01-2018
+timeanddate.com,rotterdam zestienhoven airport,Sprinkles. Overcast.,8,2,,20,S,89,55,4.1,week,21-01-2018
+weatheronline.co.uk,New York,various clouds ,-2,-9,-5.5,15.5,NE,,5,,day,15-01-2018
+weatheronline.co.uk,Portland,various clouds  light rain,14,7,10.5,24.0,E,,70,,day,15-01-2018
+weatheronline.co.uk,Yuma,mostly sunny ,28,13,20.5,12.0,N,,5,,day,15-01-2018
+weatheronline.co.uk,Los Angeles,mostly sunny ,22,13,17.5,15.5,W,,5,,day,15-01-2018
+weatheronline.co.uk,Tucson,various clouds ,24,9,16.5,8.5,NW,,5,,day,15-01-2018
+weatheronline.co.uk,New York,various clouds ,8,3,5.5,5.75,SE,,35,,week,21-01-2018
+weatheronline.co.uk,Portland,overcast  light rain,9,4,6.5,15.5,SE,,60,,week,21-01-2018
+weatheronline.co.uk,Yuma,mostly sunny ,21,6,13.5,12.0,NE,,5,,week,21-01-2018
+weatheronline.co.uk,Los Angeles,mostly sunny ,20,9,14.5,15.5,W,,5,,week,21-01-2018
+weatheronline.co.uk,San Antonio,various clouds ,19,8,13.5,15.5,S,,35,,day,15-01-2018
+weatheronline.co.uk,El Paso,mostly sunny ,17,3,10.0,5.75,N,,5,,day,15-01-2018
+weatheronline.co.uk,Tucson,various clouds ,20,0,10.0,19.75,E,,5,,week,21-01-2018
+weatheronline.co.uk,San Antonio,sunny ,20,7,13.5,19.75,N,,5,,week,21-01-2018
+weatheronline.co.uk,El Paso,sunny ,13,-2,5.5,8.5,W,,5,,week,21-01-2018
+weatheronline.co.uk,Valdosta,sunny ,13,-2,5.5,5.75,NE,,5,,day,15-01-2018
+weatheronline.co.uk,Beaumont,sunny ,16,2,9.0,12.0,SE,,5,,day,15-01-2018
+weatheronline.co.uk,Valdosta,various clouds ,22,10,16.0,12.0,S,,25,,week,21-01-2018
+weatheronline.co.uk,Beaumont,sunny ,20,15,17.5,24.0,NW,,30,,week,21-01-2018
+weatheronline.co.uk,Tuscaloosa,mostly sunny ,11,-3,4.0,8.5,SW,,5,,day,15-01-2018
+weatheronline.co.uk,Tuscaloosa,various clouds  rain,18,11,14.5,19.75,SW,,70,,week,21-01-2018
+weatheronline.co.uk,Little Rock,various clouds ,7,-3,2.0,15.5,N,,5,,day,15-01-2018
+weatheronline.co.uk,Miami,various clouds ,22,14,18.0,24.0,N,,30,,day,15-01-2018
+weatheronline.co.uk,Atlanta,mostly sunny ,9,-3,3.0,8.5,SW,,10,,day,15-01-2018
+weatheronline.co.uk,Little Rock,various clouds ,15,10,12.5,33.5,W,,5,,week,21-01-2018
+weatheronline.co.uk,Miami,various clouds ,27,21,24.0,15.5,E,,25,,week,21-01-2018
+weatheronline.co.uk,Oklahoma City,various clouds ,4,-1,1.5,33.5,N,,20,,day,15-01-2018
+weatheronline.co.uk,Atlanta,various clouds  light rain,18,7,12.5,15.5,S,,60,,week,21-01-2018
+weatheronline.co.uk,Albuquerque,various clouds ,10,-1,4.5,28.75,E,,5,,day,15-01-2018
+weatheronline.co.uk,Oklahoma City,mostly sunny ,11,4,7.5,38.5,NW,,10,,week,21-01-2018
+weatheronline.co.uk,Amarillo,various clouds ,2,-2,0.0,33.5,NE,,35,,day,15-01-2018
+weatheronline.co.uk,Albuquerque,mostly sunny ,7,-5,1.0,15.5,NW,,5,,week,21-01-2018
+weatheronline.co.uk,Amarillo,sunny ,11,-2,4.5,28.75,NW,,5,,week,21-01-2018
+weatheronline.co.uk,Fresno,various clouds ,21,10,15.5,8.5,W,,15,,day,15-01-2018
+weatheronline.co.uk,Sacramento,various clouds  light rain,18,9,13.5,8.5,S,,55,,day,15-01-2018
+weatheronline.co.uk,Fresno,various clouds ,19,4,11.5,12.0,SE,,15,,week,21-01-2018
+weatheronline.co.uk,Sacramento,mostly sunny ,16,7,11.5,19.75,S,,20,,week,21-01-2018
+weatheronline.co.uk,Winnemucca,sunny ,16,0,8.0,12.0,E,,10,,day,15-01-2018
+weatheronline.co.uk,Salt Lake City,mostly sunny ,9,-1,4.0,8.5,NW,,5,,day,15-01-2018
+weatheronline.co.uk,Winnemucca,sunny ,9,-4,2.5,19.75,S,,5,,week,21-01-2018
+weatheronline.co.uk,Salt Lake City,various clouds ,5,-5,0.0,19.75,S,,5,,week,21-01-2018
+weatheronline.co.uk,Grand Junction,sunny ,9,-5,2.0,12.0,N,,10,,day,15-01-2018
+weatheronline.co.uk,Denver,various clouds  light snow,-3,-6,-4.5,15.5,NE,,65,,day,15-01-2018
+weatheronline.co.uk,Grand Junction,sunny ,2,-11,-4.5,8.5,SE,,5,,week,21-01-2018
+weatheronline.co.uk,Denver,mostly sunny ,6,-9,-1.5,19.75,NW,,5,,week,21-01-2018
+weatheronline.co.uk,Hays,sunny ,-3,-7,-5.0,28.75,N,,5,,day,15-01-2018
+weatheronline.co.uk,Kansas City,various clouds ,-6,-7,-6.5,19.75,NW,,5,,day,15-01-2018
+weatheronline.co.uk,Hays,sunny ,8,-2,3.0,33.5,NW,,30,,week,21-01-2018
+weatheronline.co.uk,Kansas City,various clouds  light snow,4,3,3.5,24.0,NW,,60,,week,21-01-2018
+weatheronline.co.uk,St. Louis,various clouds ,1,-4,-1.5,24.0,W,,10,,day,15-01-2018
+weatheronline.co.uk,Louisville,cloudy  light snow,1,-7,-3.0,19.75,W,,65,,day,15-01-2018
+weatheronline.co.uk,St. Louis,cloudy  light rain,13,9,11.0,33.5,W,,55,,week,21-01-2018
+weatheronline.co.uk,Louisville,cloudy  rain,15,8,11.5,24.0,SW,,75,,week,21-01-2018
+weatheronline.co.uk,Charleston,sunny ,11,-4,3.5,12.0,N,,5,,day,15-01-2018
+weatheronline.co.uk,Nashville,overcast  light snow,6,-4,1.0,15.5,W,,55,,day,15-01-2018
+weatheronline.co.uk,Charleston,various clouds ,23,7,15.0,15.5,S,,25,,week,21-01-2018
+weatheronline.co.uk,Nashville,cloudy  rain,16,10,13.0,24.0,SW,,70,,week,21-01-2018
+weatheronline.co.uk,Knoxville,cloudy ,-13,-15,-14.0,28.75,NW,,20,,day,15-01-2018
+weatheronline.co.uk,Raleigh,mostly sunny ,5,-9,-2.0,3,N,,5,,day,15-01-2018
+weatheronline.co.uk,Knoxville,cloudy  light snow,5,2,3.5,33.5,NW,,60,,week,21-01-2018
+weatheronline.co.uk,Raleigh,various clouds ,18,3,10.5,15.5,S,,30,,week,21-01-2018
+weatheronline.co.uk,Reston,various clouds ,0,-13,-6.5,8.5,E,,5,,day,15-01-2018
+weatheronline.co.uk,Cleveland,mostly sunny ,9,-3,3.0,12.0,W,,10,,day,15-01-2018
+weatheronline.co.uk,Reston,various clouds ,11,-1,5.0,8.5,S,,35,,week,21-01-2018
+weatheronline.co.uk,Cleveland,mostly sunny ,16,11,13.5,33.5,W,,40,,week,21-01-2018
+weatheronline.co.uk,Bangor,cloudy ,-10,-21,-15.5,19.75,N,,5,,day,15-01-2018
+weatheronline.co.uk,Rochester,various clouds ,-4,-19,-11.5,15.5,SE,,45,,day,15-01-2018
+weatheronline.co.uk,Bangor,overcast ,2,-4,-1.0,8.5,SE,,25,,week,21-01-2018
+weatheronline.co.uk,Rochester,overcast ,8,3,5.5,12.0,S,,40,,week,21-01-2018
+weatheronline.co.uk,Chicago,cloudy  light snow,-5,-9,-7.0,5.75,NW,,65,,day,15-01-2018
+weatheronline.co.uk,Minneapolis,various clouds ,-15,-16,-15.5,24.0,NW,,45,,day,15-01-2018
+weatheronline.co.uk,Chicago,cloudy  light rain,8,3,5.5,15.5,SW,,85,,week,21-01-2018
+weatheronline.co.uk,Minneapolis,cloudy  light snow,-2,-3,-2.5,28.75,NW,,60,,week,21-01-2018
+weatheronline.co.uk,Rapid City,sunny ,-14,-21,-17.5,28.75,N,,5,,day,15-01-2018
+weatheronline.co.uk,Sioux Falls,various clouds ,-19,-20,-19.5,28.75,NW,,10,,day,15-01-2018
+weatheronline.co.uk,Rapid City,sunny ,3,-8,-2.5,19.75,N,,5,,week,21-01-2018
+weatheronline.co.uk,Sioux Falls,various clouds ,-5,-6,-5.5,33.5,NW,,55,,week,21-01-2018
+weatheronline.co.uk,Boise,mostly sunny ,10,0,5.0,19.75,SE,,5,,day,15-01-2018
+weatheronline.co.uk,Rock Springs,mostly sunny ,2,-4,-1.0,24.0,E,,5,,day,15-01-2018
+weatheronline.co.uk,Flagstaff,sunny ,13,-4,4.5,8.5,SW,,5,,day,15-01-2018
+weatheronline.co.uk,Boise,mostly sunny ,11,2,6.5,33.5,SE,,20,,week,21-01-2018
+weatheronline.co.uk,Rock Springs,mostly sunny ,0,-10,-5.0,19.75,W,,5,,week,21-01-2018
+weatheronline.co.uk,Flagstaff,sunny ,5,-13,-4.0,15.5,S,,5,,week,21-01-2018
+weatheronline.co.uk,Spokane,various clouds ,6,0,3.0,8.5,NE,,5,,day,15-01-2018
+weatheronline.co.uk,Sidney,sunny ,-18,-28,-23.0,8.5,SW,,5,,day,15-01-2018
+weatheronline.co.uk,Spokane,cloudy ,3,-1,1.0,15.5,S,,60,,week,21-01-2018
+weatheronline.co.uk,Sidney,mostly sunny ,-7,-14,-10.5,15.5,SW,,10,,week,21-01-2018
+weatheronline.co.uk,Bismarck,sunny ,-22,-26,-24.0,19.75,NW,,5,,day,15-01-2018
+weatheronline.co.uk,Bemidji,various clouds ,-20,-25,-22.5,19.75,NW,,40,,day,15-01-2018
+weatheronline.co.uk,Bismarck,various clouds ,-10,-13,-11.5,15.5,NW,,20,,week,21-01-2018
+weatheronline.co.uk,Bemidji,various clouds ,-13,-14,-13.5,24.0,NW,,40,,week,21-01-2018
+weatheronline.co.uk,Utrecht,cloudy  showers,8,1,4.5,33.5,S,,95,,day,15-01-2018
+weatheronline.co.uk,Leeuwarden,cloudy  showers,6,0,3.0,38.5,S,,95,,day,15-01-2018
+weatheronline.co.uk,Utrecht,various clouds ,4,-1,1.5,12.0,S,,35,,week,21-01-2018
+weatheronline.co.uk,Leeuwarden,various clouds  light rain,3,-1,1.0,15.5,S,,55,,week,21-01-2018
+weatheronline.co.uk,Vlissingen,cloudy  showers,9,3,6.0,49.5,SW,,95,,day,15-01-2018
+weatheronline.co.uk,Amsterdam,cloudy  showers,8,2,5.0,43.5,S,,95,,day,15-01-2018
+weatheronline.co.uk,Maastricht,various clouds  rain,8,1,4.5,33.5,S,,90,,day,15-01-2018
+weatheronline.co.uk,Eindhoven,cloudy  showers,9,1,5.0,33.5,S,,95,,day,15-01-2018
+weatheronline.co.uk,Vlissingen,cloudy ,6,3,4.5,19.75,SW,,55,,week,21-01-2018
+weatheronline.co.uk,Amsterdam,various clouds ,5,0,2.5,15.5,S,,40,,week,21-01-2018
+weatheronline.co.uk,Maastricht,cloudy ,4,0,2.0,12.0,SW,,45,,week,21-01-2018
+weatheronline.co.uk,Eindhoven,various clouds ,5,-1,2.0,12.0,S,,25,,week,21-01-2018
+weatheronline.co.uk,Rotterdam,cloudy  showers,8,2,5.0,43.5,S,,95,,day,15-01-2018
+weatheronline.co.uk,Rotterdam,various clouds ,6,0,3.0,12.0,SW,,45,,week,21-01-2018
+weatheronline.co.uk,Houma,sunny ,16,-2,7.0,8.5,SE,,5,,day,15-01-2018
+weatheronline.co.uk,Houma,mostly sunny ,21,15,18.0,15.5,NW,,55,,week,21-01-2018
+weatheronline.co.uk,Pensacola,mostly sunny ,15,-1,7.0,8.5,SE,,5,,day,15-01-2018
+weatheronline.co.uk,Columbia,mostly sunny ,9,-5,2.0,3,NW,,5,,day,15-01-2018
+weatheronline.co.uk,Pensacola,various clouds ,21,14,17.5,19.75,S,,55,,week,21-01-2018
+weatheronline.co.uk,Columbia,various clouds ,20,7,13.5,12.0,S,,25,,week,21-01-2018
+weatheronline.co.uk,Las Vegas,mostly sunny ,2,-4,-1.0,24.0,SE,,25,,day,15-01-2018
+weatheronline.co.uk,Las Vegas,sunny ,8,-9,-0.5,24.0,NW,,5,,week,21-01-2018
+weather.com,New York,Partly Cloudy,-0.5555555555555556,-8.333333333333334,-4.444444444444445,12.87472,NE,63,0,,day,15-01-2018
+weather.com,Los Angeles,Partly Cloudy,22.77777777777778,11.666666666666666,17.22222222222222,3.21868,SW,52,0,,day,15-01-2018
+weather.com,New York,AM Showers,12.222222222222221,1.6666666666666667,6.666666666666667,8.0467,SSW,73,10,,week,21-01-2018
+weather.com,Los Angeles,Partly Cloudy,17.77777777777778,6.111111111111111,11.666666666666666,3.21868,S,40,0,,week,21-01-2018
+weather.com,Yuma,Mostly Sunny,26.11111111111111,11.666666666666666,18.88888888888889,11.26538,N,31,0,,day,15-01-2018
+weather.com,Tucson,Partly Cloudy,24.444444444444443,8.333333333333334,16.11111111111111,9.65604,NW,25,0,,day,15-01-2018
+weather.com,Yuma,Mostly Sunny,19.444444444444443,5.555555555555555,12.222222222222221,16.0934,N,21,0,,week,21-01-2018
+weather.com,Tucson,Mostly Sunny,15.555555555555555,1.6666666666666667,8.333333333333334,11.26538,N,26,0,,week,21-01-2018
+weather.com,Houma,Sunny,16.11111111111111,-0.5555555555555556,7.777777777777778,6.43736,E,62,0,,day,15-01-2018
+weather.com,El Paso,Partly Cloudy,17.22222222222222,3.3333333333333335,10.0,20.92142,SW,31,0,,day,15-01-2018
+weather.com,Houma,Sunny,22.22222222222222,15.555555555555555,18.88888888888889,24.1401,S,81,40,,week,21-01-2018
+weather.com,El Paso,Mostly Sunny,12.222222222222221,0.0,6.111111111111111,22.53076,WNW,24,0,,week,21-01-2018
+weather.com,Sanderson,Sunny,14.444444444444445,1.6666666666666667,7.777777777777778,17.70274,S,60,10,,day,15-01-2018
+weather.com,Pensacola,Sunny,13.88888888888889,0.5555555555555556,7.222222222222222,8.0467,E,48,0,,day,15-01-2018
+weather.com,San Antonio,Mostly Cloudy,17.77777777777778,6.666666666666667,12.222222222222221,14.48406,SSE,73,10,,day,15-01-2018
+weather.com,Miami,Mostly Cloudy,22.22222222222222,12.777777777777779,17.22222222222222,30.57746,N,76,20,,day,15-01-2018
+weather.com,Valdosta,Sunny,12.222222222222221,-1.6666666666666667,5.0,9.65604,NNE,46,0,,day,15-01-2018
+weather.com,Beaumont,Sunny,17.77777777777778,0.5555555555555556,8.88888888888889,9.65604,SE,62,10,,day,15-01-2018
+weather.com,Sanderson,Mostly Sunny,15.555555555555555,4.444444444444445,10.0,24.1401,WNW,26,0,,week,21-01-2018
+weather.com,Pensacola,AM Showers,21.11111111111111,14.444444444444445,17.77777777777778,24.1401,SE,83,50,,week,21-01-2018
+weather.com,San Antonio,Mostly Sunny,20.0,12.777777777777779,16.11111111111111,20.92142,NW,49,30,,week,21-01-2018
+weather.com,Atlanta,Sunny,7.777777777777778,-3.3333333333333335,2.2222222222222223,8.0467,SSE,51,0,,day,15-01-2018
+weather.com,Columbia,Sunny,8.333333333333334,-4.444444444444445,1.6666666666666667,8.0467,N,35,0,,day,15-01-2018
+weather.com,Miami,Partly Cloudy,25.0,20.0,22.22222222222222,20.92142,E,79,40,,week,21-01-2018
+weather.com,Valdosta,Showers,23.333333333333332,9.444444444444445,16.11111111111111,14.48406,SE,82,10,,week,21-01-2018
+weather.com,Beaumont,Sunny,19.444444444444443,14.444444444444445,16.666666666666668,16.0934,SW,78,60,,week,21-01-2018
+weather.com,Little Rock,Mostly Sunny,8.333333333333334,-3.3333333333333335,2.2222222222222223,22.53076,WNW,62,0,,day,15-01-2018
+weather.com,Atlanta,Showers,16.666666666666668,5.555555555555555,11.11111111111111,16.0934,SE,88,30,,week,21-01-2018
+weather.com,Columbia,PM Showers,20.555555555555557,4.444444444444445,12.222222222222221,9.65604,SE,68,10,,week,21-01-2018
+weather.com,Little Rock,Sunny,13.88888888888889,11.11111111111111,12.222222222222221,19.31208,SSW,94,60,,week,21-01-2018
+weather.com,Oklahoma City,Partly Cloudy/Wind,1.6666666666666667,-0.5555555555555556,0.5555555555555556,33.79614,NNE,54,10,,day,15-01-2018
+weather.com,Tuscaloosa,Sunny,11.11111111111111,-3.3333333333333335,3.888888888888889,9.65604,SSW,48,0,,day,15-01-2018
+weather.com,Hollandale,Sunny,11.11111111111111,-3.3333333333333335,3.888888888888889,12.87472,SSW,58,0,,day,15-01-2018
+weather.com,Amarillo,Mostly Cloudy/Wind,-0.5555555555555556,-2.7777777777777777,-1.6666666666666667,40.2335,NNE,68,20,,day,15-01-2018
+weather.com,Oklahoma City,Sunny,9.444444444444445,3.888888888888889,6.666666666666667,28.96812,NW,62,20,,week,21-01-2018
+weather.com,Tuscaloosa,AM Showers,18.88888888888889,10.555555555555555,14.444444444444445,17.70274,SSE,85,50,,week,21-01-2018
+weather.com,Hollandale,Partly Cloudy,17.77777777777778,12.777777777777779,15.0,27.35878,S,86,60,,week,21-01-2018
+weather.com,Amarillo,Sunny,9.444444444444445,-2.2222222222222223,3.3333333333333335,30.57746,NW,39,0,,week,21-01-2018
+weather.com,Flagstaff,Partly Cloudy,13.333333333333334,-3.888888888888889,4.444444444444445,11.26538,WSW,37,0,,day,15-01-2018
+weather.com,Albuquerque,Mostly Sunny,12.777777777777779,-1.6666666666666667,5.555555555555555,30.57746,ENE,38,0,,day,15-01-2018
+weather.com,Las Vegas,Partly Cloudy,18.88888888888889,7.222222222222222,12.777777777777779,3.21868,ESE,46,0,,day,15-01-2018
+weather.com,Flagstaff,Partly Cloudy,2.2222222222222223,-11.11111111111111,-4.444444444444445,12.87472,NW,39,0,,week,21-01-2018
+weather.com,Albuquerque,Mostly Sunny,6.111111111111111,-4.444444444444445,0.5555555555555556,25.74944,NW,32,0,,week,21-01-2018
+weather.com,Las Vegas,Partly Cloudy,11.666666666666666,1.6666666666666667,6.666666666666667,6.43736,NE,29,0,,week,21-01-2018
+weather.com,Fresno,Cloudy,19.444444444444443,7.222222222222222,13.333333333333334,4.82802,SSE,71,0,,day,15-01-2018
+weather.com,Fresno,Mostly Cloudy,13.333333333333334,2.7777777777777777,7.777777777777778,9.65604,SSE,61,0,,week,21-01-2018
+weather.com,Sacramento,Cloudy,15.555555555555555,6.666666666666667,11.11111111111111,6.43736,S,88,20,,day,15-01-2018
+weather.com,Winnemucca,AM Clouds/PM Sun,13.88888888888889,-2.7777777777777777,5.555555555555555,9.65604,NE,58,0,,day,15-01-2018
+weather.com,Sacramento,AM Showers,11.11111111111111,3.3333333333333335,7.222222222222222,16.0934,SSE,72,20,,week,21-01-2018
+weather.com,Winnemucca,Cloudy,6.111111111111111,-5.0,0.5555555555555556,16.0934,S,54,0,,week,21-01-2018
+weather.com,Grand Junction,Sunny,8.88888888888889,-4.444444444444445,2.2222222222222223,14.48406,ENE,55,0,,day,15-01-2018
+weather.com,Salt Lake City,Partly Cloudy,7.777777777777778,-0.5555555555555556,3.3333333333333335,11.26538,N,68,0,,day,15-01-2018
+weather.com,Denver,AM Snow Showers,-3.3333333333333335,-5.0,-4.444444444444445,17.70274,NE,73,50,,day,15-01-2018
+weather.com,Grand Junction,Partly Cloudy,1.1111111111111112,-10.0,-4.444444444444445,8.0467,WNW,72,10,,week,21-01-2018
+weather.com,Salt Lake City,Mostly Cloudy,0.0,-6.666666666666667,-3.3333333333333335,12.87472,SSW,81,20,,week,21-01-2018
+weather.com,Denver,Mostly Sunny,3.888888888888889,-5.555555555555555,-1.1111111111111112,17.70274,NW,42,0,,week,21-01-2018
+weather.com,Saint Louis,AM Clouds/PM Sun,-1.6666666666666667,-5.0,-3.3333333333333335,28.96812,WNW,64,20,,day,15-01-2018
+weather.com,Hays,AM Clouds/PM Sun/Wind,-7.222222222222222,-8.88888888888889,-8.333333333333334,35.40548,N,56,0,,day,15-01-2018
+weather.com,Kansas City,Partly Cloudy,-7.777777777777778,-10.0,-8.88888888888889,28.96812,NNW,56,0,,day,15-01-2018
+weather.com,Charleston,Cloudy,6.111111111111111,-8.333333333333334,-1.1111111111111112,12.87472,S,52,20,,day,15-01-2018
+weather.com,Louisville,Snow Showers,1.1111111111111112,-6.666666666666667,-2.7777777777777777,19.31208,SSW,70,60,,day,15-01-2018
+weather.com,Saint Louis,AM Snow Showers,8.333333333333334,6.666666666666667,7.222222222222222,20.92142,SW,87,70,,week,21-01-2018
+weather.com,Hays,Sunny,-7.222222222222222,4.444444444444445,-1.6666666666666667,40.2335,NNW,66,10,,week,21-01-2018
+weather.com,Kansas City,Partly Cloudy,-3.888888888888889,3.888888888888889,0.0,24.1401,NW,68,40,,week,21-01-2018
+weather.com,Charleston,Showers,17.77777777777778,4.444444444444445,11.11111111111111,11.26538,S,72,20,,week,21-01-2018
+weather.com,Louisville,AM Showers,14.444444444444445,8.333333333333334,11.11111111111111,22.53076,S,90,60,,week,21-01-2018
+weather.com,Nashville,PM Rain/Snow,8.333333333333334,-3.888888888888889,2.2222222222222223,19.31208,SW,52,40,,day,15-01-2018
+weather.com,Knoxville,Partly Cloudy,6.666666666666667,-6.111111111111111,0.0,16.0934,SSW,56,0,,day,15-01-2018
+weather.com,Nashville,AM Showers,16.666666666666668,9.444444444444445,12.777777777777779,28.96812,S,79,50,,week,21-01-2018
+weather.com,Knoxville,Showers,15.555555555555555,2.2222222222222223,8.88888888888889,9.65604,SSE,87,20,,week,21-01-2018
+weather.com,Raleigh,Partly Cloudy,5.0,-7.777777777777778,-1.6666666666666667,8.0467,N,45,0,,day,15-01-2018
+weather.com,Dulles,Partly Cloudy,1.1111111111111112,-10.555555555555555,-5.0,9.65604,NNE,51,10,,day,15-01-2018
+weather.com,Raleigh,PM Showers,18.333333333333332,1.6666666666666667,10.0,11.26538,S,67,10,,week,21-01-2018
+weather.com,Dulles,Showers,15.0,-1.1111111111111112,6.666666666666667,17.70274,SSW,75,10,,week,21-01-2018
+weather.com,Cleveland,Snow Showers,-2.2222222222222223,-12.777777777777779,-7.777777777777778,17.70274,SSE,68,70,,day,15-01-2018
+weather.com,Cleveland,Rain/Snow Showers/Wind,10.0,5.0,7.222222222222222,27.35878,S,78,60,,week,21-01-2018
+weather.com,Rochester,Mostly Cloudy,-5.0,-16.11111111111111,-10.555555555555555,16.0934,ESE,65,20,,day,15-01-2018
+weather.com,Chicago,Snow Showers,-2.7777777777777777,-7.222222222222222,-5.0,22.53076,SW,76,60,,day,15-01-2018
+weather.com,Rochester,Cloudy,10.555555555555555,3.888888888888889,7.222222222222222,16.0934,SSW,74,40,,week,21-01-2018
+weather.com,Chicago,Wintry Mix/Wind,5.555555555555555,4.444444444444445,5.0,24.1401,SSW,80,60,,week,21-01-2018
+weather.com,Minneapolis,Cloudy,-13.88888888888889,-16.666666666666668,-15.555555555555555,28.96812,NW,72,20,,day,15-01-2018
+weather.com,Sioux Falls,Partly Cloudy/Wind,-3.3333333333333335,-13.88888888888889,-8.88888888888889,37.01482,NNW,68,0,,day,15-01-2018
+weather.com,Bangor,Mostly Cloudy,-15.555555555555555,-8.333333333333334,-12.222222222222221,14.48406,NNE,57,0,,day,15-01-2018
+weather.com,Rapid City,Sunny,-12.222222222222221,-17.77777777777778,-15.0,27.35878,N,54,0,,day,15-01-2018
+weather.com,Rock Springs,Partly Cloudy,0.0,-6.111111111111111,-3.3333333333333335,25.74944,E,61,10,,day,15-01-2018
+weather.com,Minneapolis,Partly Cloudy,-17.77777777777778,-8.333333333333334,-13.333333333333334,19.31208,NNW,79,50,,week,21-01-2018
+weather.com,Sioux Falls,Mostly Sunny,-3.3333333333333335,-13.333333333333334,-8.333333333333334,27.35878,NNW,74,40,,week,21-01-2018
+weather.com,Bangor,PM Showers,2.2222222222222223,7.777777777777778,5.0,9.65604,WSW,69,20,,week,21-01-2018
+weather.com,Rapid City,Partly Cloudy,-7.777777777777778,-1.1111111111111112,-4.444444444444445,20.92142,NNW,64,10,,week,21-01-2018
+weather.com,Rock Springs,Partly Cloudy,-1.6666666666666667,-10.0,-6.111111111111111,27.35878,W,64,10,,week,21-01-2018
+weather.com,Boise,Partly Cloudy,7.777777777777778,0.0,3.888888888888889,11.26538,SSE,69,10,,day,15-01-2018
+weather.com,Denio,Mostly Cloudy,12.222222222222221,-1.1111111111111112,5.555555555555555,9.65604,ESE,63,0,,day,15-01-2018
+weather.com,Boise,Cloudy,3.888888888888889,-3.3333333333333335,0.0,20.92142,SE,65,20,,week,21-01-2018
+weather.com,Denio,Cloudy,3.888888888888889,-3.888888888888889,0.0,25.74944,S,63,10,,week,21-01-2018
+weather.com,Portland,PM Rain,10.555555555555555,6.111111111111111,8.333333333333334,24.1401,E,73,70,,day,15-01-2018
+weather.com,Portland,Showers,7.222222222222222,2.7777777777777777,5.0,14.48406,SE,88,70,,week,21-01-2018
+weather.com,Spokane,Partly Cloudy,5.555555555555555,-0.5555555555555556,2.2222222222222223,9.65604,NE,81,10,,day,15-01-2018
+weather.com,Spokane,Rain/Snow Showers,2.2222222222222223,-2.2222222222222223,0.0,11.26538,SSE,84,40,,week,21-01-2018
+weather.com,Bismarck,Partly Cloudy,-3.888888888888889,-15.0,-9.444444444444445,20.92142,NNW,72,10,,day,15-01-2018
+weather.com,Choteau,AM Clouds/PM Sun,-7.777777777777778,-11.666666666666666,-10.0,11.26538,SSE,85,20,,day,15-01-2018
+weather.com,Sidney,Sunny,-15.555555555555555,-8.88888888888889,-12.222222222222221,9.65604,WNW,71,10,,day,15-01-2018
+weather.com,Bismarck,Partly Cloudy,-11.666666666666666,-13.333333333333334,-12.777777777777779,16.0934,NNW,66,10,,week,21-01-2018
+weather.com,Choteau,Partly Cloudy,-4.444444444444445,-11.11111111111111,-7.777777777777778,17.70274,SW,80,0,,week,21-01-2018
+weather.com,Sidney,Partly Cloudy,-11.11111111111111,-10.0,-10.555555555555555,12.87472,WNW,71,10,,week,21-01-2018
+weather.com,Leeuwarden,Rain/Wind,2.7777777777777777,5.0,3.888888888888889,40.2335,S,93,100,,day,15-01-2018
+weather.com,Bemidji,Cloudy,-5.0,-16.666666666666668,-11.11111111111111,28.96812,NNW,73,10,,day,15-01-2018
+weather.com,Amsterdam Airport Schiphol 10-Day Weather Forecast - The Weather Channel | Weather.com,Rain/Wind,3.888888888888889,7.777777777777778,5.555555555555555,40.2335,SSW,92,100,,day,15-01-2018
+weather.com,Maastricht,PM Rain/Wind,4.444444444444445,7.222222222222222,5.555555555555555,41.84284,SSW,85,100,,day,15-01-2018
+weather.com,De Bilt,Rain/Wind,3.3333333333333335,6.666666666666667,5.0,35.40548,SSW,89,100,,day,15-01-2018
+weather.com,Leeuwarden,AM Clouds/PM Sun,1.1111111111111112,2.7777777777777777,1.6666666666666667,9.65604,SW,93,20,,week,21-01-2018
+weather.com,Bemidji,Partly Cloudy,-11.11111111111111,-11.11111111111111,-11.11111111111111,17.70274,NNW,72,30,,week,21-01-2018
+weather.com,Amsterdam Airport Schiphol 10-Day Weather Forecast - The Weather Channel | Weather.com,Mostly Cloudy,3.3333333333333335,4.444444444444445,3.888888888888889,11.26538,SW,91,20,,week,21-01-2018
+weather.com,Maastricht,Mostly Cloudy,3.888888888888889,5.0,4.444444444444445,14.48406,SW,89,20,,week,21-01-2018
+weather.com,De Bilt,AM Clouds/PM Sun,2.2222222222222223,3.888888888888889,2.7777777777777777,9.65604,SW,93,20,,week,21-01-2018
+weather.com,Eindhoven,PM Rain/Wind,3.888888888888889,6.666666666666667,5.0,35.40548,SSW,86,100,,day,15-01-2018
+weather.com,Eindhoven,Cloudy,3.3333333333333335,4.444444444444445,3.888888888888889,11.26538,SW,91,20,,week,21-01-2018
+weather.com,Vlissingen,Rain/Wind,5.0,8.333333333333334,6.666666666666667,49.88954,SSW,92,100,,day,15-01-2018
+weather.com,Vlissingen,Mostly Cloudy,5.0,6.111111111111111,5.555555555555555,20.92142,SW,92,20,,week,21-01-2018
+weather.com,Rotterdam,Rain/Wind,4.444444444444445,8.333333333333334,6.111111111111111,41.84284,SSW,92,100,,day,15-01-2018
+weather.com,Rotterdam,Mostly Cloudy,4.444444444444445,5.0,4.444444444444445,14.48406,SW,91,20,,week,21-01-2018
+accuweather.com,Los Angeles,Partly sunny,20.0,8.333333333333334,14.166666666666668,1.8380902422,SE,,2.0,0.0,week,21-01-2018
+accuweather.com,Los Angeles,Delightful with clouds and sun,23.333333333333332,12.222222222222221,17.77777777777778,2.2801339674,NW,,0.5,0.0,day,15-01-2018
+accuweather.com,New York,Variable cloudiness,10.555555555555555,3.888888888888889,7.222222222222222,19.805634871,SW,,21.5,0.0,week,21-01-2018
+accuweather.com,New York,Increasing clouds and cold,-2.2222222222222223,-4.444444444444445,-3.3333333333333335,9.49129635351,NE,,9.5,0.0,day,15-01-2018
+accuweather.com,Tucson,Sunny and remaining warm,25.0,8.333333333333334,16.666666666666668,1.56983329417,SSE,,0.0,0.0,day,15-01-2018
+accuweather.com,Yuma,Nice with sun and some clouds,24.444444444444443,10.555555555555555,17.5,7.89832763193,NNE,,0.0,0.0,day,15-01-2018
+accuweather.com,Yuma,Increasing cloudiness,21.666666666666668,7.777777777777778,14.722222222222223,9.47570479075,N,,0.0,0.0,week,21-01-2018
+accuweather.com,El Paso,Mostly sunny,17.22222222222222,-1.1111111111111112,8.055555555555555,8.85137,E,,0.0,0.0,day,15-01-2018
+accuweather.com,Tucson,Sunny,20.0,3.888888888888889,11.944444444444445,5.94734514741,ENE,,0.0,0.0,week,21-01-2018
+accuweather.com,Sanderson,Partly sunny,15.0,-2.7777777777777777,6.111111111111111,10.7957809167,ENE,,32.0,0.889,day,15-01-2018
+accuweather.com,El Paso,Mostly sunny,13.88888888888889,0.0,6.944444444444445,0.80467,WNW,,0.0,0.0,week,21-01-2018
+accuweather.com,Sanderson,Mostly sunny,17.77777777777778,-1.1111111111111112,8.333333333333334,9.47570479075,NW,,0.5,0.0,week,21-01-2018
+accuweather.com,San Antonio,Sunshine and some clouds,20.0,5.555555555555555,12.777777777777779,12.87472,NNW,,12.5,0.0,week,21-01-2018
+accuweather.com,San Antonio,Mostly cloudy,18.88888888888889,0.5555555555555556,9.722222222222223,7.86044884689,E,,41.5,1.27,day,15-01-2018
+accuweather.com,Beaumont,An afternoon t-storm or two,21.666666666666668,8.333333333333334,15.0,11.0667478834,NW,,38.0,5.842,week,21-01-2018
+accuweather.com,Beaumont,Times of clouds and sun,17.22222222222222,5.555555555555555,11.38888888888889,8.92101772111,ESE,,14.5,0.0,day,15-01-2018
+accuweather.com,Houma,A couple of showers possible,21.666666666666668,10.0,15.833333333333334,9.68950990972,SW,,58.5,29.463999999999995,week,21-01-2018
+accuweather.com,Houma,Mostly sunny,15.0,3.888888888888889,9.444444444444445,4.50282493406,E,,6.0,0.0,day,15-01-2018
+accuweather.com,Pensacola,Plenty of sunshine,13.88888888888889,2.2222222222222223,8.055555555555555,7.43418143426,ENE,,6.5,0.0,day,15-01-2018
+accuweather.com,Pensacola,Mostly cloudy,19.444444444444443,8.88888888888889,14.166666666666666,15.4572059404,SSW,,62.0,13.462,week,21-01-2018
+accuweather.com,Valdosta,Turning out cloudy,23.333333333333332,12.777777777777779,18.055555555555557,7.89832763193,SSE,,38.5,0.635,week,21-01-2018
+accuweather.com,Valdosta,Plenty of sun,12.222222222222221,-1.1111111111111112,5.555555555555555,4.62745196214,NNE,,5.5,0.0,day,15-01-2018
+accuweather.com,Miami,Breezy with periods of sun,22.22222222222222,18.333333333333332,20.27777777777778,20.824816765,NNE,,33.0,0.508,day,15-01-2018
+accuweather.com,Miami,Clouds and sunshine,26.666666666666668,19.444444444444443,23.055555555555557,24.94477,ESE,,13.5,0.0,week,21-01-2018
+accuweather.com,Columbia,Plenty of sun,9.444444444444445,-3.888888888888889,2.7777777777777777,1.61833095073,WNW,,6.0,0.0,day,15-01-2018
+accuweather.com,Columbia,Times of clouds and sun,20.555555555555557,8.88888888888889,14.722222222222223,15.7598872692,SSE,,24.5,0.0,week,21-01-2018
+accuweather.com,Atlanta,Low clouds,16.666666666666668,6.666666666666667,11.666666666666668,14.1140957946,S,,40.5,1.27,week,21-01-2018
+accuweather.com,Atlanta,Mostly sunny and chilly,7.777777777777778,-1.6666666666666667,3.0555555555555554,7.37321039551,S,,3.5,0.0,day,15-01-2018
+accuweather.com,Tuscaloosa,Chance of a little p.m. rain,21.11111111111111,7.777777777777778,14.444444444444445,9.33295038195,SSW,,64.5,14.731999999999998,week,21-01-2018
+accuweather.com,Tuscaloosa,Sunny much of the time,11.666666666666666,-2.2222222222222223,4.722222222222221,5.15240198014,SE,,11.0,0.0,day,15-01-2018
+accuweather.com,Hollandale,Cloudy chance for rain,17.77777777777778,3.3333333333333335,10.555555555555555,8.28458470555,SW,,55.5,5.206999999999999,week,21-01-2018
+accuweather.com,Hollandale,Times of clouds and sun,11.11111111111111,-5.0,3.0555555555555554,4.9464785962,NNW,,34.5,1.5239999999999998,day,15-01-2018
+accuweather.com,Little Rock,Cloudy chance for rain,15.0,0.5555555555555556,7.777777777777778,9.66934040422,WNW,,18.0,0.0,week,21-01-2018
+accuweather.com,Little Rock,Partial sunshine,8.88888888888889,-7.777777777777778,0.5555555555555558,10.1250961571,NNW,,44.0,1.016,day,15-01-2018
+accuweather.com,Oklahoma City,Some sun then clouds; breezy,2.2222222222222223,-12.222222222222221,-5.0,24.4659668778,NNE,,9.5,0.0,day,15-01-2018
+accuweather.com,Oklahoma City,Cloudy most of the time,10.555555555555555,-2.2222222222222223,4.166666666666666,8.92101772111,WNW,,4.5,0.0,week,21-01-2018
+accuweather.com,Amarillo,Partly sunny,10.555555555555555,-6.111111111111111,2.2222222222222223,8.94225085043,W,,4.5,0.0,week,21-01-2018
+accuweather.com,Amarillo,Much colder,0.5555555555555556,-11.11111111111111,-5.277777777777778,17.70274,NE,,13.0,0.0,day,15-01-2018
+accuweather.com,Albuquerque,Sunny,7.777777777777778,-3.3333333333333335,2.2222222222222223,8.70924374601,NNW,,1.0,0.0,week,21-01-2018
+accuweather.com,Albuquerque,Sunny to partly cloudy,10.555555555555555,-3.888888888888889,3.333333333333333,12.9749138846,ENE,,2.0,0.0,day,15-01-2018
+accuweather.com,Flagstaff,Partial sunshine,12.777777777777779,-5.555555555555555,3.6111111111111116,5.80255788966,NW,,1.0,0.0,day,15-01-2018
+accuweather.com,Flagstaff,Not as cold with sunshine,6.666666666666667,-8.88888888888889,-1.1111111111111112,2.05635834849,S,,1.0,0.0,week,21-01-2018
+accuweather.com,Las Vegas,Mainly cloudy,12.777777777777779,1.6666666666666667,7.222222222222222,0.9190451211,E,,1.5,0.0,week,21-01-2018
+accuweather.com,Las Vegas,Partly sunny,18.88888888888889,8.88888888888889,13.88888888888889,6.28467360671,NE,,0.5,0.0,day,15-01-2018
+accuweather.com,Fresno,Clouds and sun,13.88888888888889,5.555555555555555,9.722222222222221,8.68271265165,SE,,7.5,0.0,week,21-01-2018
+accuweather.com,Fresno,Dense fog in the morning,15.0,10.0,12.5,4.02335,E,,14.5,0.0,day,15-01-2018
+accuweather.com,Sacramento,Dense fog in the morning,13.333333333333334,10.555555555555555,11.944444444444445,8.85137,SSE,,48.0,3.175,day,15-01-2018
+accuweather.com,Sacramento,Cloudy with rain possible,12.222222222222221,5.0,8.61111111111111,23.6762547475,SSE,,55.0,2.413,week,21-01-2018
+accuweather.com,Winnemucca,Mainly cloudy,6.666666666666667,-3.3333333333333335,1.6666666666666667,11.1555230208,SE,,15.0,0.0,week,21-01-2018
+accuweather.com,Winnemucca,Times of clouds and sun,14.444444444444445,2.2222222222222223,8.333333333333334,4.96286340225,SSW,,20.5,0.127,day,15-01-2018
+accuweather.com,Salt Lake City,Still cloudy,4.444444444444445,-3.3333333333333335,0.5555555555555556,12.07005,SE,,14.5,0.0,week,21-01-2018
+accuweather.com,Salt Lake City,Partly sunny,6.666666666666667,-2.2222222222222223,2.2222222222222223,5.68987613617,NNE,,0.5,0.0,day,15-01-2018
+accuweather.com,Grand Junction,Partial sunshine,3.888888888888889,-8.333333333333334,-2.2222222222222223,8.18339526883,NNE,,11.0,0.0,week,21-01-2018
+accuweather.com,Grand Junction,Mostly sunny,7.777777777777778,-8.333333333333334,-0.2777777777777781,6.69058652931,NNE,,0.0,0.0,day,15-01-2018
+accuweather.com,Denver,A little snow at times,-2.7777777777777777,-12.222222222222221,-7.5,9.47050189898,ENE,,34.5,0.889,day,15-01-2018
+accuweather.com,Denver,Mostly sunny and not as cold,7.222222222222222,-7.222222222222222,0.0,6.28467360671,WSW,,6.0,0.0,week,21-01-2018
+accuweather.com,Hays,A bit of snow in the morning,-7.777777777777778,-20.0,-13.88888888888889,22.53076,N,,31.0,0.127,day,15-01-2018
+accuweather.com,Hays,Mostly sunny and cooler,7.222222222222222,-11.11111111111111,-1.9444444444444442,22.1067576571,NW,,34.0,0.127,week,21-01-2018
+accuweather.com,Kansas City,Mostly cloudy and breezy,-6.111111111111111,-17.22222222222222,-11.666666666666666,20.5218226348,NNW,,2.0,0.0,day,15-01-2018
+accuweather.com,Kansas City,Cooler with some sun,5.0,-5.0,0.0,14.1283009155,WNW,,24.5,0.0,week,21-01-2018
+accuweather.com,Louisville,Cloudy chance for rain,12.777777777777779,1.1111111111111112,6.944444444444445,12.0430557528,SSW,,67.0,18.415,week,21-01-2018
+accuweather.com,Louisville,A bit of afternoon snow,1.6666666666666667,-14.444444444444445,-6.388888888888889,14.9192957862,WSW,,62.5,0.254,day,15-01-2018
+accuweather.com,St. Louis,A little morning snow; cloudy,-1.6666666666666667,-15.555555555555555,-8.61111111111111,20.92142,WNW,,29.5,0.254,day,15-01-2018
+accuweather.com,St. Louis,Mostly cloudy,8.88888888888889,-4.444444444444445,2.2222222222222223,11.26538,WSW,,13.0,0.0,week,21-01-2018
+accuweather.com,Charleston,Not as cold,6.111111111111111,-3.3333333333333335,1.3888888888888886,8.18339526883,SSW,,42.0,0.38099999999999995,day,15-01-2018
+accuweather.com,Charleston,Chance of a little p.m. rain,17.22222222222222,4.444444444444445,10.833333333333332,17.70274,S,,52.5,3.0479999999999996,week,21-01-2018
+accuweather.com,Knoxville,Partly sunny and chilly,6.666666666666667,-2.2222222222222223,2.2222222222222223,10.46071,SW,,36.5,0.0,day,15-01-2018
+accuweather.com,Knoxville,Chance of a little p.m. rain,13.333333333333334,2.7777777777777777,8.055555555555555,6.20922477341,SSW,,47.5,3.8099999999999996,week,21-01-2018
+accuweather.com,Nashville,Chance for afternoon rain,16.11111111111111,1.1111111111111112,8.61111111111111,14.2269240999,SSW,,56.5,12.191999999999998,week,21-01-2018
+accuweather.com,Nashville,Clouds and sun; not as cold,7.222222222222222,-9.444444444444445,-1.1111111111111112,7.15281119046,W,,46.5,0.254,day,15-01-2018
+accuweather.com,Dulles Town Center,Some sun then clouds,12.777777777777779,3.888888888888889,8.333333333333334,16.0934,S,,25.0,0.0,week,21-01-2018
+accuweather.com,Raleigh,Mostly sunny and chilly,5.555555555555555,-6.666666666666667,-0.5555555555555558,3.86153053113,NNE,,5.5,0.0,day,15-01-2018
+accuweather.com,Raleigh,Partly sunny,17.22222222222222,8.333333333333334,12.777777777777779,15.28873,S,,13.5,0.0,week,21-01-2018
+accuweather.com,Dulles Town Center,Clouds and sunshine,-1.1111111111111112,-4.444444444444445,-2.7777777777777777,4.47050699404,E,,16.0,0.0,day,15-01-2018
+accuweather.com,Cleveland,Cloudy with a bit of snow,-2.7777777777777777,-8.333333333333334,-5.555555555555555,16.3667905377,S,,70.0,1.016,day,15-01-2018
+accuweather.com,Cleveland,Cloudy chance for rain,8.88888888888889,0.0,4.444444444444445,25.2566232756,S,,67.0,11.937999999999999,week,21-01-2018
+accuweather.com,Rochester,Low clouds,8.333333333333334,3.3333333333333335,5.833333333333334,19.7607900022,S,,61.5,5.715,week,21-01-2018
+accuweather.com,Rochester,Cold with considerable clouds,-5.555555555555555,-6.666666666666667,-6.111111111111111,11.910623422,SE,,49.0,1.016,day,15-01-2018
+accuweather.com,Minneapolis,Cloudy with a chance for snow,-3.888888888888889,-16.11111111111111,-10.0,18.1687579924,W,,48.5,0.254,week,21-01-2018
+accuweather.com,Bangor,Partly sunny and cold,-9.444444444444445,-15.555555555555555,-12.5,12.6312385029,NNE,,7.5,0.0,day,15-01-2018
+accuweather.com,Bangor,Rather cloudy,5.0,-0.5555555555555556,2.2222222222222223,10.2609113174,E,,48.5,2.413,week,21-01-2018
+accuweather.com,Chicago,Rain and snow possible,6.111111111111111,-3.888888888888889,1.111111111111111,21.3369450954,SW,,21.0,0.0,week,21-01-2018
+accuweather.com,Chicago,Periods of snow tapering off,-3.3333333333333335,-12.222222222222221,-7.777777777777778,16.0822808831,WSW,,72.0,2.032,day,15-01-2018
+accuweather.com,Minneapolis,Times of clouds and sun,-15.0,-20.0,-17.5,16.89807,NW,,33.0,0.127,day,15-01-2018
+accuweather.com,Rock Springs,An a.m. flurry; partly sunny,-1.6666666666666667,-10.555555555555555,-6.111111111111111,20.92142,WSW,,35.0,0.127,week,21-01-2018
+accuweather.com,Rock Springs,Clouds and sunshine,0.0,-12.777777777777779,-6.388888888888889,17.70274,E,,0.0,0.0,day,15-01-2018
+accuweather.com,Rapid City,Considerable cloudiness,-1.1111111111111112,-14.444444444444445,-7.777777777777778,15.7966552639,WNW,,15.5,0.0,week,21-01-2018
+accuweather.com,Sioux Falls,Mostly sunny and breezy,-18.88888888888889,-23.88888888888889,-21.38888888888889,26.849614997,NNW,,3.0,0.0,day,15-01-2018
+accuweather.com,Sioux Falls,A thick cloud cover,-3.888888888888889,-15.555555555555555,-9.722222222222221,21.3092075228,NW,,40.0,0.127,week,21-01-2018
+accuweather.com,Rapid City,Mostly sunny and much colder,-11.666666666666666,-20.555555555555557,-16.11111111111111,7.8302016442,NNW,,0.0,0.0,day,15-01-2018
+accuweather.com,Denio,Mostly cloudy,11.11111111111111,3.888888888888889,7.5,10.46071,SSE,,31.0,0.635,day,15-01-2018
+accuweather.com,Boise,Clouds and sun,6.111111111111111,-1.6666666666666667,2.222222222222222,16.89807,ESE,,21.5,0.0,week,21-01-2018
+accuweather.com,Boise,Fog in the morning; some sun,8.333333333333334,1.1111111111111112,4.722222222222222,9.47050189898,ESE,,12.0,0.0,day,15-01-2018
+accuweather.com,Denio,Mostly cloudy and milder,7.222222222222222,-5.0,1.1111111111111112,12.87472,SSE,,14.0,0.0,week,21-01-2018
+accuweather.com,Portland,A little afternoon rain,11.666666666666666,7.222222222222222,9.444444444444445,10.7049384469,E,,61.0,2.9209999999999994,day,15-01-2018
+accuweather.com,Portland,Rain and drizzle possible,8.333333333333334,3.888888888888889,6.111111111111112,15.28873,E,,48.0,1.397,week,21-01-2018
+accuweather.com,Spokane,Areas of morning fog,6.111111111111111,-0.5555555555555556,2.7777777777777777,3.97404642286,NE,,11.0,0.0,day,15-01-2018
+accuweather.com,Spokane,Snow or flurries possible,3.3333333333333335,-0.5555555555555556,1.3888888888888888,4.74564817675,NNE,,25.5,0.0,week,21-01-2018
+accuweather.com,Choteau,Times of clouds and sun,-5.555555555555555,-11.11111111111111,-8.333333333333332,11.8391681922,SSE,,0.5,0.0,day,15-01-2018
+accuweather.com,Choteau,Times of clouds and sun,-1.6666666666666667,-12.777777777777779,-7.222222222222222,14.2611575616,WSW,,12.5,0.0,week,21-01-2018
+accuweather.com,Sidney,Sunny and much colder,-19.444444444444443,-28.88888888888889,-24.166666666666664,4.96286340225,WSW,,0.0,0.0,day,15-01-2018
+accuweather.com,De Bilt,Rain; breezy in the afternoon,6.111111111111111,3.3333333333333335,4.722222222222222,17.9374431441,SW,,63.5,5.460999999999999,day,15-01-2018
+accuweather.com,Sidney,Sun through high clouds,-8.333333333333334,-20.555555555555557,-14.444444444444446,3.46789367771,WNW,,13.0,0.0,week,21-01-2018
+accuweather.com,Bismarck,Times of clouds and sun,-8.333333333333334,-21.666666666666668,-15.0,17.3739379863,NW,,6.0,0.0,week,21-01-2018
+accuweather.com,Bismarck,Sunny and much colder,-20.555555555555557,-31.666666666666668,-26.111111111111114,12.6429391878,NW,,1.0,0.0,day,15-01-2018
+accuweather.com,Bemidji,Mostly cloudy,-8.88888888888889,-22.77777777777778,-15.833333333333334,14.2092219722,NNE,,13.0,0.0,week,21-01-2018
+accuweather.com,Bemidji,Breezy with clouds and sun,-21.11111111111111,-30.0,-25.555555555555557,17.70274,NNW,,7.0,0.0,day,15-01-2018
+accuweather.com,Leeuwarden,Times of sun and clouds,3.888888888888889,0.0,1.9444444444444444,0.80467,SE,,37.5,0.127,week,21-01-2018
+accuweather.com,Leeuwarden,Occasional rain,6.111111111111111,3.3333333333333335,4.722222222222222,20.1512580799,SW,,65.0,6.730999999999999,day,15-01-2018
+accuweather.com,Maastricht,Mostly cloudy a little rain,3.3333333333333335,0.0,1.6666666666666667,6.34481701984,WNW,,55.0,0.762,week,21-01-2018
+accuweather.com,Flushing,Occasional rain,8.333333333333334,5.0,6.666666666666667,22.1196311865,SW,,64.0,5.207,day,15-01-2018
+accuweather.com,Schiphol,Breezy with occasional rain,7.777777777777778,3.888888888888889,5.833333333333333,29.7940681241,SW,,64.0,5.842,day,15-01-2018
+accuweather.com,Schiphol,Low clouds,5.0,3.3333333333333335,4.166666666666667,0.80467,WSW,,18.5,0.0,week,21-01-2018
+accuweather.com,De Bilt,Low clouds,3.888888888888889,-3.3333333333333335,0.2777777777777777,7.24203,WNW,,15.5,0.0,week,21-01-2018
+accuweather.com,Maastricht,Rain; breezy in the afternoon,7.222222222222222,5.555555555555555,6.388888888888889,26.0651489233,SW,,64.5,5.715,day,15-01-2018
+accuweather.com,Rotterdam,Rain; breezy in the afternoon,7.777777777777778,3.888888888888889,5.833333333333333,26.7913827002,SW,,63.5,5.3340000000000005,day,15-01-2018
+accuweather.com,Eindhoven,Occasional rain,7.222222222222222,4.444444444444445,5.833333333333334,18.5880044184,SW,,63.5,5.207,day,15-01-2018
+accuweather.com,Eindhoven,Low clouds,3.3333333333333335,0.0,1.6666666666666667,6.43736,WNW,,15.0,0.0,week,21-01-2018
+accuweather.com,Flushing,Times of sun and clouds,4.444444444444445,-1.6666666666666667,1.3888888888888888,3.10167296747,NNW,,39.5,0.38099999999999995,week,21-01-2018
+accuweather.com,Rotterdam,Low clouds,5.555555555555555,3.3333333333333335,4.444444444444445,5.14640068521,SSE,,17.5,0.0,week,21-01-2018
+holiday-weather.com,Los Angeles,,23.0,13.0,18.0,9,N,,,,day,15-01-2018
+holiday-weather.com,Tucson,,24.0,9.0,16.5,10,E,,,,day,15-01-2018
+holiday-weather.com,Los Angeles,,18.0,9.0,13.5,15,WSW,,,,week,21-01-2018
+holiday-weather.com,Tucson,,18.0,4.0,11.0,7,ESE,,,,week,21-01-2018
+holiday-weather.com,Yuma,,24.0,11.0,17.5,11,N,,,,day,15-01-2018
+holiday-weather.com,El Paso,,18.0,-1.0,8.5,11,ESE,,,,day,15-01-2018
+holiday-weather.com,Sanderson,,15.0,-3.0,6.0,14,S,,,,day,15-01-2018
+holiday-weather.com,Yuma,,20.0,8.0,14.0,15,S,,,,week,21-01-2018
+holiday-weather.com,El Paso,,14.0,0.0,7.0,16,WNW,,,,week,21-01-2018
+holiday-weather.com,Sanderson,,17.0,-2.0,7.5,26,WNW,,,,week,21-01-2018
+holiday-weather.com,Pensacola,,14.0,3.0,8.5,10,NE,,,,day,15-01-2018
+holiday-weather.com,San Antonio,,18.0,2.0,10.0,13,S,,,,day,15-01-2018
+holiday-weather.com,Oklahoma City,,4.0,-12.0,-4.0,33,NNE,,,,day,15-01-2018
+holiday-weather.com,Miami,,22.0,18.0,20.0,28,NNE,,,,day,15-01-2018
+holiday-weather.com,Atlanta,,8.0,-2.0,3.0,10,S,,,,day,15-01-2018
+holiday-weather.com,Pensacola,,20.0,10.0,15.0,25,SE,,,,week,21-01-2018
+holiday-weather.com,San Antonio,,20.0,5.0,12.5,17,NNW,,,,week,21-01-2018
+holiday-weather.com,Oklahoma City,,12.0,0.0,6.0,17,NW,,,,week,21-01-2018
+holiday-weather.com,Miami,,28.0,19.0,23.5,27,E,,,,week,21-01-2018
+holiday-weather.com,Atlanta,,17.0,8.0,12.5,13,SE,,,,week,21-01-2018
+holiday-weather.com,Flagstaff,,14.0,-4.0,5.0,10,WNW,,,,day,15-01-2018
+holiday-weather.com,Albuquerque,,12.0,-4.0,4.0,28,NNE,,,,day,15-01-2018
+holiday-weather.com,Las Vegas,,18.0,9.0,13.5,11,NNW,,,,day,15-01-2018
+holiday-weather.com,Flagstaff,,6.0,-8.0,-1.0,21,SW,,,,week,21-01-2018
+holiday-weather.com,Albuquerque,,8.0,-5.0,1.5,13,WNW,,,,week,21-01-2018
+holiday-weather.com,Las Vegas,,13.0,2.0,7.5,20,SSW,,,,week,21-01-2018
+holiday-weather.com,Fresno,,15.0,10.0,12.5,9,E,,,,day,15-01-2018
+holiday-weather.com,Sacramento,,13.0,10.0,11.5,9,SSE,,,,day,15-01-2018
+holiday-weather.com,Fresno,,14.0,6.0,10.0,15,ESE,,,,week,21-01-2018
+holiday-weather.com,Salt Lake City,,7.0,-2.0,2.5,10,NW,,,,day,15-01-2018
+holiday-weather.com,Sacramento,,11.0,5.0,8.0,27,SSE,,,,week,21-01-2018
+holiday-weather.com,Denver,,-2.0,-12.0,-7.0,10,ENE,,,,day,15-01-2018
+holiday-weather.com,Salt Lake City,,4.0,-5.0,-0.5,16,SSE,,,,week,21-01-2018
+holiday-weather.com,Kansas City,,-5.0,-17.0,-11.0,28,NNW,,,,day,15-01-2018
+holiday-weather.com,Denver,,8.0,-8.0,0.0,13,SSW,,,,week,21-01-2018
+holiday-weather.com,Nashville,,8.0,-10.0,-1.0,16,S,,,,day,15-01-2018
+holiday-weather.com,Kansas City,,7.0,-4.0,1.5,21,W,,,,week,21-01-2018
+holiday-weather.com,Nashville,,14.0,2.0,8.0,24,SSE,,,,week,21-01-2018
+holiday-weather.com,Knoxville,,6.0,-2.0,2.0,15,SW,,,,day,15-01-2018
+holiday-weather.com,Raleigh,,6.0,-5.0,0.5,9,NNE,,,,day,15-01-2018
+holiday-weather.com,Knoxville,,14.0,3.0,8.5,7,W,,,,week,21-01-2018
+holiday-weather.com,Raleigh,,20.0,7.0,13.5,14,SSE,,,,week,21-01-2018
+holiday-weather.com,Cleveland,,-2.0,-10.0,-6.0,36,SSE,,,,day,15-01-2018
+holiday-weather.com,Rochester,,-5.0,-7.0,-6.0,17,SE,,,,day,15-01-2018
+holiday-weather.com,Cleveland,,7.0,0.0,3.5,29,S,,,,week,21-01-2018
+holiday-weather.com,Rochester,,8.0,3.0,5.5,24,S,,,,week,21-01-2018
+holiday-weather.com,Bangor,,-10.0,-16.0,-13.0,15,N,,,,day,15-01-2018
+holiday-weather.com,Chicago,,-4.0,-15.0,-9.5,29,W,,,,day,15-01-2018
+holiday-weather.com,Bangor,,4.0,-1.0,1.5,14,SW,,,,week,21-01-2018
+holiday-weather.com,Chicago,,5.0,-4.0,0.5,28,SSW,,,,week,21-01-2018
+holiday-weather.com,Minneapolis,,-18.0,-24.0,-21.0,29,NW,,,,day,15-01-2018
+holiday-weather.com,Boise,,9.0,2.0,5.5,12,SE,,,,day,15-01-2018
+holiday-weather.com,Minneapolis,,-3.0,-13.0,-8.0,9,WNW,,,,week,21-01-2018
+holiday-weather.com,Boise,,4.0,-3.0,0.5,17,SE,,,,week,21-01-2018
+holiday-weather.com,Portland,,11.0,7.0,9.0,15,E,,,,day,15-01-2018
+holiday-weather.com,Maastricht,,7.0,5.0,6.0,42,SSW,,,,day,15-01-2018
+holiday-weather.com,Amsterdam,,8.0,4.0,6.0,39,SSW,,,,day,15-01-2018
+holiday-weather.com,Portland,,8.0,4.0,6.0,19,S,,,,week,21-01-2018
+holiday-weather.com,Maastricht,,3.0,0.0,1.5,17,WSW,,,,week,21-01-2018
+holiday-weather.com,Amsterdam,,5.0,1.0,3.0,17,N,,,,week,21-01-2018
+holiday-weather.com,Eindhoven,,8.0,3.0,5.5,36,SSW,,,,day,15-01-2018
+holiday-weather.com,Rotterdam,,8.0,4.0,6.0,38,SSW,,,,day,15-01-2018
+holiday-weather.com,Eindhoven,,4.0,1.0,2.5,14,SW,,,,week,21-01-2018
+holiday-weather.com,Rotterdam,,5.0,1.0,3.0,15,NNW,,,,week,21-01-2018
+holiday-weather.com,Choteau,,-7.0,-12.0,-9.5,16,SSE,,,,day,15-01-2018
+holiday-weather.com,Choteau,,1.0,-12.0,-5.5,31,W,,,,week,21-01-2018
+zoover.nl,los angeles,,23,15,,15.5,W,,0,,day,15-01-2018
+zoover.nl,yuma,,27,11,,8.5,N,,0,,day,15-01-2018
+zoover.nl,los angeles,,17,8,,15.5,W,,5,,week,21-01-2018
+zoover.nl,new york city,,-3,-9,,15.5,NE,,5,,day,15-01-2018
+zoover.nl,yuma,,20,6,,15.5,N,,0,,week,21-01-2018
+zoover.nl,tucson,,23,8,,15.5,SE,,0,,day,15-01-2018
+zoover.nl,new york city,,10,3,,8.5,W,,20,,week,21-01-2018
+zoover.nl,tucson,,17,3,,15.5,N,,0,,week,21-01-2018
+zoover.nl,el paso,,18,2,,15.5,NE,,0,,day,15-01-2018
+zoover.nl,el paso,,13,1,,15.5,W,,5,,week,21-01-2018
+zoover.nl,houma,,16,2,,8.5,NE,,0,,day,15-01-2018
+zoover.nl,houma,,23,14,,24.0,S,,25,,week,21-01-2018
+zoover.nl,san antonio,,19,5,,15.5,E,,10,,day,15-01-2018
+zoover.nl,san antonio,,20,10,,24.0,NW,,25,,week,21-01-2018
+zoover.nl,pensacola,,13,1,,8.5,SE,,0,,day,15-01-2018
+zoover.nl,pensacola,,20,11,,24.0,SE,,25,,week,21-01-2018
+zoover.nl,valdosta,,14,-2,,8.5,NE,,0,,day,15-01-2018
+zoover.nl,valdosta,,23,7,,15.5,S,,15,,week,21-01-2018
+zoover.nl,miami,,22,13,,24.0,N,,25,,day,15-01-2018
+zoover.nl,miami,,26,19,,24.0,E,,25,,week,21-01-2018
+zoover.nl,atlanta,,10,-1,,8.5,S,,20,,day,15-01-2018
+zoover.nl,atlanta,,17,6,,15.5,S,,55,,week,21-01-2018
+zoover.nl,tuscaloosa,,12,-4,,8.5,S,,15,,day,15-01-2018
+zoover.nl,tuscaloosa,,18,9,,15.5,S,,40,,week,21-01-2018
+zoover.nl,little rock,,9,-3,,24.0,N,,5,,day,15-01-2018
+zoover.nl,little rock,,18,8,,24.0,SW,,45,,week,21-01-2018
+zoover.nl,oklahoma city,,5,-3,,43.5,N,,5,,day,15-01-2018
+zoover.nl,oklahoma city,,13,3,,33.5,NW,,20,,week,21-01-2018
+zoover.nl,amarillo,,4,-4,,33.5,NE,,25,,day,15-01-2018
+zoover.nl,amarillo,,10,-2,,33.5,NW,,10,,week,21-01-2018
+zoover.nl,albuquerque,,10,-1,,33.5,E,,5,,day,15-01-2018
+zoover.nl,albuquerque,,7,-4,,15.5,NW,,15,,week,21-01-2018
+zoover.nl,flagstaff,,13,-5,,8.5,SW,,0,,day,15-01-2018
+zoover.nl,flagstaff,,4,-10,,15.5,W,,0,,week,21-01-2018
+zoover.nl,las vegas,,20,10,,8.5,SW,,0,,day,15-01-2018
+zoover.nl,las vegas,,13,4,,15.5,W,,5,,week,21-01-2018
+zoover.nl,fresno,,16,8,,3,E,,0,,day,15-01-2018
+zoover.nl,sacramento,,16,8,,8.5,S,,30,,day,15-01-2018
+zoover.nl,sacramento,,13,5,,15.5,S,,55,,week,21-01-2018
+zoover.nl,fresno,,14,4,,8.5,SE,,20,,week,21-01-2018
+zoover.nl,winnemucca,,15,0,,8.5,E,,0,,day,15-01-2018
+zoover.nl,winnemucca,,5,-6,,24.0,S,,30,,week,21-01-2018
+zoover.nl,salt lake city,,8,-1,,8.5,NW,,10,,day,15-01-2018
+zoover.nl,salt lake city,,4,-3,,15.5,S,,25,,week,21-01-2018
+zoover.nl,grand junction,,9,-5,,8.5,E,,0,,day,15-01-2018
+zoover.nl,grand junction,,3,-7,,8.5,E,,20,,week,21-01-2018
+zoover.nl,denver,,0,-8,,24.0,NE,,80,,day,15-01-2018
+zoover.nl,denver,,3,-7,,24.0,NW,,25,,week,21-01-2018
+zoover.nl,hays,,0,-12,,24.0,N,,80,,day,15-01-2018
+zoover.nl,hays,,4,-3,,33.5,NW,,30,,week,21-01-2018
+zoover.nl,kansas city,,-1,-11,,24.0,NW,,70,,day,15-01-2018
+zoover.nl,kansas city,,7,1,,24.0,W,,35,,week,21-01-2018
+zoover.nl,louisville,,2,-7,,24.0,SW,,90,,day,15-01-2018
+zoover.nl,louisville,,15,5,,24.0,S,,60,,week,21-01-2018
+zoover.nl,charleston,,3,-11,,15.5,S,,75,,day,15-01-2018
+zoover.nl,charleston,,16,2,,15.5,S,,35,,week,21-01-2018
+zoover.nl,nashville,,7,-4,,15.5,SW,,70,,day,15-01-2018
+zoover.nl,nashville,,16,7,,24.0,S,,50,,week,21-01-2018
+zoover.nl,knoxville,,7,-5,,24.0,SW,,65,,day,15-01-2018
+zoover.nl,knoxville,,15,4,,15.5,SW,,40,,week,21-01-2018
+zoover.nl,raleigh,,3,-6,,8.5,NE,,0,,day,15-01-2018
+zoover.nl,raleigh,,16,3,,15.5,SW,,20,,week,21-01-2018
+zoover.nl,dulles,,-3,-10,,8.5,N,,5,,day,15-01-2018
+zoover.nl,dulles,,12,-1,,15.5,SW,,20,,week,21-01-2018
+zoover.nl,cleveland,,-2,-12,,24.0,SW,,80,,day,15-01-2018
+zoover.nl,cleveland,,10,1,,24.0,S,,45,,week,21-01-2018
+zoover.nl,rochester,,-6,-20,,15.5,E,,25,,day,15-01-2018
+zoover.nl,rochester,,7,-1,,15.5,SW,,50,,week,21-01-2018
+zoover.nl,bangor,,-10,-22,,15.5,N,,10,,day,15-01-2018
+zoover.nl,bangor,,2,-6,,15.5,W,,40,,week,21-01-2018
+zoover.nl,chicago,,-5,-8,,24.0,SW,,85,,day,15-01-2018
+zoover.nl,chicago,,7,1,,24.0,S,,50,,week,21-01-2018
+zoover.nl,minneapolis,,-13,-21,,24.0,NW,,90,,day,15-01-2018
+zoover.nl,minneapolis,,-3,-7,,24.0,N,,65,,week,21-01-2018
+zoover.nl,sioux falls,,-14,-23,,33.5,NW,,55,,day,15-01-2018
+zoover.nl,sioux falls,,-5,-11,,24.0,N,,75,,week,21-01-2018
+zoover.nl,rapid city,,-11,-20,,33.5,N,,5,,day,15-01-2018
+zoover.nl,rapid city,,-1,-9,,24.0,N,,25,,week,21-01-2018
+zoover.nl,rock springs,,2,-7,,15.5,E,,10,,day,15-01-2018
+zoover.nl,rock springs,,-2,-10,,24.0,W,,25,,week,21-01-2018
+zoover.nl,boise,,9,0,,15.5,SE,,0,,day,15-01-2018
+zoover.nl,boise,,5,-2,,24.0,SE,,45,,week,21-01-2018
+zoover.nl,portland,,12,6,,24.0,E,,70,,day,15-01-2018
+zoover.nl,spokane,,6,0,,8.5,E,,5,,day,15-01-2018
+zoover.nl,spokane,,4,-1,,8.5,S,,60,,week,21-01-2018
+zoover.nl,portland,,8,3,,15.5,SE,,85,,week,21-01-2018
+zoover.nl,bemidji,,-21,-29,,24.0,NW,,80,,day,15-01-2018
+zoover.nl,bemidji,,-8,-16,,15.5,N,,70,,week,21-01-2018
+zoover.nl,leeuwarden,,7,0,,33.5,S,,95,,day,15-01-2018
+zoover.nl,leeuwarden,,5,0,,15.5,W,,70,,week,21-01-2018
+zoover.nl,bismarck,,-20,-27,,24.0,NW,,10,,day,15-01-2018
+zoover.nl,bismarck,,-6,-12,,15.5,NW,,55,,week,21-01-2018
+zoover.nl,de bilt,,8,1,,33.5,S,,95,,day,15-01-2018
+zoover.nl,de bilt,,5,0,,15.5,W,,65,,week,21-01-2018
+zoover.nl,maastricht,,8,1,,43.5,S,,95,,day,15-01-2018
+zoover.nl,maastricht,,5,0,,15.5,SW,,60,,week,21-01-2018
+zoover.nl,schiphol amsterdam airport,,8,1,,33.5,S,,95,,day,15-01-2018
+zoover.nl,schiphol amsterdam airport,,5,0,,24.0,W,,70,,week,21-01-2018
+zoover.nl,vlissingen,,9,3,,55.5,S,,95,,day,15-01-2018
+zoover.nl,vlissingen,,6,3,,24.0,W,,55,,week,21-01-2018
+zoover.nl,eindhoven,,9,1,,33.5,S,,95,,day,15-01-2018
+zoover.nl,eindhoven,,5,-1,,15.5,W,,55,,week,21-01-2018
+zoover.nl,rotterdam,,9,2,,33.5,S,,95,,day,15-01-2018
+zoover.nl,rotterdam,,6,0,,15.5,SW,,55,,week,21-01-2018
+weather-forecast.com,los angeles,,24,18,,4.62598320054,SW,23.0,,0.0,day,15-01-2018
+weather-forecast.com,new york,,-2,-5,,31.1007217432,ENE,67.0,,0.0,day,15-01-2018
+weather-forecast.com,tucson,,21,14,,0.690355937288,ESE,19.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,yuma,,25,15,,7.97826587864,NNW,20.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,los angeles,,18,13,,4.66322108655,ENE,13.3333333333,,0.0,week,21-01-2018
+weather-forecast.com,new york,,9,4,,20.6517271002,S,81.6666666667,,0.0,week,21-01-2018
+weather-forecast.com,tucson,,16,6,,15.0,E,9.0,,0.0,week,21-01-2018
+weather-forecast.com,yuma,,18,7,,10.7974486118,N,12.0,,0.0,week,21-01-2018
+weather-forecast.com,el paso,,15,3,,23.3333333333,E,43.0,,0.0,day,15-01-2018
+weather-forecast.com,valdosta,,11,2,,17.0455256223,ENE,44.0,,0.0,day,15-01-2018
+weather-forecast.com,el paso,,9,2,,5.80293242008,SE,15.6666666667,,0.0,week,21-01-2018
+weather-forecast.com,valdosta,,23,7,,11.1592390558,SW,74.0,,0.0,week,21-01-2018
+weather-forecast.com,pensacola,,13,6,,10.7024761528,E,43.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,san antonio,,17,2,,12.7776501453,SE,79.0,,1.0,day,15-01-2018
+weather-forecast.com,houma,,16,7,,8.17967575935,ENE,49.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,miami,,20,18,,44.383052642,NNE,79.3333333333,,0.666666666667,day,15-01-2018
+weather-forecast.com,pensacola,,22,7,,8.34802081198,W,73.6666666667,,2.33333333333,week,21-01-2018
+weather-forecast.com,san antonio,,17,9,,16.3593515187,NW,20.0,,0.0,week,21-01-2018
+weather-forecast.com,houma,,22,5,,25.1645435787,WNW,55.0,,1.0,week,21-01-2018
+weather-forecast.com,miami,,26,21,,20.691085442,ESE,77.6666666667,,0.0,week,21-01-2018
+weather-forecast.com,beaumont,,16,8,,18.0075025892,SSE,59.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,atlanta,,8,0,,5.56895771232,SSW,49.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,columbia,,7,1,,3.82683432365,ESE,32.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,oklahoma city,,2,-10,,33.2238557586,NNE,52.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,little rock,,8,-7,,16.0462860806,N,62.0,,0.0,day,15-01-2018
+weather-forecast.com,beaumont,,17,6,,31.7328110948,NW,31.0,,0.0,week,21-01-2018
+weather-forecast.com,atlanta,,13,2,,10.6594435922,SSW,83.6666666667,,3.66666666667,week,21-01-2018
+weather-forecast.com,columbia,,18,5,,23.1057928939,S,81.6666666667,,1.33333333333,week,21-01-2018
+weather-forecast.com,oklahoma city,,10,3,,35.3793008008,NW,31.6666666667,,0.0,week,21-01-2018
+weather-forecast.com,little rock,,10,2,,31.1957589065,W,44.0,,0.0,week,21-01-2018
+weather-forecast.com,tuscaloosa,,10,-2,,3.33333333333,SSW,49.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,amarillo,,1,-9,,36.6666666667,NE,68.0,,0.0,day,15-01-2018
+weather-forecast.com,flagstaff,,11,1,,4.66322108655,NW,37.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,albuquerque,,9,-2,,12.9684245916,ESE,46.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,tuscaloosa,,16,2,,13.2356551869,WSW,74.3333333333,,3.0,week,21-01-2018
+weather-forecast.com,amarillo,,10,1,,33.1031332583,WNW,21.6666666667,,0.0,week,21-01-2018
+weather-forecast.com,flagstaff,,4,-7,,9.49253021674,SW,14.3333333333,,0.0,week,21-01-2018
+weather-forecast.com,albuquerque,,4,-3,,5.84429935782,WNW,19.0,,0.0,week,21-01-2018
+weather-forecast.com,las vegas,,18,10,,3.26928426801,ENE,29.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,sacramento,,17,13,,11.6835753213,SE,75.0,,4.66666666667,day,15-01-2018
+weather-forecast.com,fresno,,20,14,,6.38071187458,WNW,45.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,las vegas,,9,3,,6.57082719194,SE,22.3333333333,,0.0,week,21-01-2018
+weather-forecast.com,sacramento,,13,7,,52.5666175355,SSE,62.0,,19.0,week,21-01-2018
+weather-forecast.com,fresno,,15,8,,19.6587759651,SSE,39.0,,0.0,week,21-01-2018
+weather-forecast.com,winnemucca,,11,5,,8.17967575935,SE,37.6666666667,,0.666666666667,day,15-01-2018
+weather-forecast.com,salt lake city,,7,2,,6.9905096755,E,50.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,winnemucca,,5,-2,,21.707628607,S,33.3333333333,,0.0,week,21-01-2018
+weather-forecast.com,salt lake city,,1,-7,,26.6666666667,SSE,49.0,,0.0,week,21-01-2018
+weather-forecast.com,grand junction,,8,-1,,6.53856853602,ENE,36.0,,0.0,day,15-01-2018
+weather-forecast.com,grand junction,,1,-6,,6.87184270936,ESE,34.3333333333,,0.0,week,21-01-2018
+weather-forecast.com,hays,,-7,-16,,32.7187030374,NNW,52.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,st louis,,-5,-15,,32.7509997692,WNW,65.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,kansas city,,-11,-18,,24.5734699564,NW,69.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,hays,,6,-1,,40.3573652619,NW,45.6666666667,,0.0,week,21-01-2018
+weather-forecast.com,st louis,,12,-3,,34.2380251531,W,56.0,,0.666666666667,week,21-01-2018
+weather-forecast.com,kansas city,,0,-4,,37.766513115,WNW,62.0,,0.0,week,21-01-2018
+weather-forecast.com,charleston,,3,-7,,8.38545508256,SW,65.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,louisville,,-1,-16,,17.3134251253,WSW,83.0,,0.0,day,15-01-2018
+weather-forecast.com,nashville,,5,-8,,9.90961317697,W,68.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,charleston,,12,0,,17.2556534018,SSW,78.0,,3.33333333333,week,21-01-2018
+weather-forecast.com,louisville,,14,-3,,30.2711366847,SW,78.3333333333,,7.33333333333,week,21-01-2018
+weather-forecast.com,nashville,,15,1,,27.0130335916,SW,67.6666666667,,5.66666666667,week,21-01-2018
+weather-forecast.com,knoxville,,5,-2,,11.4839973986,SW,59.0,,0.0,day,15-01-2018
+weather-forecast.com,raleigh,,3,-2,,6.82340837666,N,24.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,knoxville,,13,-1,,18.2669284421,SSW,79.0,,3.66666666667,week,21-01-2018
+weather-forecast.com,raleigh,,16,9,,21.6666666667,S,77.0,,1.33333333333,week,21-01-2018
+weather-forecast.com,cleveland,,-3,-13,,13.981019351,S,88.0,,0.0,day,15-01-2018
+weather-forecast.com,rochester,,-5,-12,,21.8942244093,SE,81.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,cleveland,,8,-2,,35.5586725185,SSW,85.3333333333,,3.66666666667,week,21-01-2018
+weather-forecast.com,rochester,,6,2,,22.4543213445,S,93.3333333333,,5.0,week,21-01-2018
+weather-forecast.com,bangor,,-10,-13,,30.0,NNE,83.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,chicago,,-5,-10,,4.81408401075,SW,91.0,,0.0,day,15-01-2018
+weather-forecast.com,bangor,,4,1,,13.5176145447,SSE,90.0,,0.333333333333,week,21-01-2018
+weather-forecast.com,chicago,,10,-8,,28.4050958084,SW,73.6666666667,,5.66666666667,week,21-01-2018
+weather-forecast.com,minneapolis,,-16,-21,,22.9679947972,NNW,89.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,sioux falls,,-21,-25,,28.3333333333,NNW,84.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,minneapolis,,-7,-22,,33.9052896585,NNW,90.0,,0.0,week,21-01-2018
+weather-forecast.com,rapid city,,-13,-18,,16.8056414375,NNW,52.6666666667,,0.0,day,15-01-2018
+weather-forecast.com,sioux falls,,-15,-24,,50.9080780526,NNW,82.6666666667,,0.0,week,21-01-2018
+weather-forecast.com,rock springs,,-1,-5,,13.2218583178,E,63.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,rapid city,,-1,-9,,19.5828641583,NW,66.3333333333,,0.0,week,21-01-2018
+weather-forecast.com,rock springs,,-4,-11,,20.0275483619,WSW,62.0,,0.0,week,21-01-2018
+weather-forecast.com,boise,,8,1,,25.0,SE,52.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,portland,,14,8,,10.4177591544,E,71.3333333333,,5.0,day,15-01-2018
+weather-forecast.com,boise,,3,0,,34.4519921957,SE,59.3333333333,,1.0,week,21-01-2018
+weather-forecast.com,portland,,8,4,,7.43174611399,SE,81.0,,3.33333333333,week,21-01-2018
+weather-forecast.com,spokane,,4,0,,8.83637651487,ESE,75.3333333333,,0.333333333333,day,15-01-2018
+weather-forecast.com,sidney,,-22,-28,,4.66322108655,S,68.0,,0.0,day,15-01-2018
+weather-forecast.com,spokane,,1,-3,,8.66062022299,SSE,93.3333333333,,0.0,week,21-01-2018
+weather-forecast.com,sidney,,-16,-21,,13.2476467571,E,93.3333333333,,0.0,week,21-01-2018
+weather-forecast.com,bismarck,,-23,-29,,16.6666666667,NNW,77.0,,0.0,day,15-01-2018
+weather-forecast.com,leeuwarden,,6,4,,37.7047666088,SW,81.3333333333,,4.66666666667,day,15-01-2018
+weather-forecast.com,bemidji,,-21,-27,,20.0,NNW,94.3333333333,,0.0,day,15-01-2018
+weather-forecast.com,de bilt,,7,4,,33.0881434366,SSW,83.3333333333,,7.0,day,15-01-2018
+weather-forecast.com,bismarck,,-20,-26,,21.2528351528,N,84.6666666667,,0.0,week,21-01-2018
+weather-forecast.com,leeuwarden,,10,0,,19.6264820584,SSE,90.0,,3.66666666667,week,21-01-2018
+weather-forecast.com,bemidji,,-18,-27,,34.9138330702,N,92.0,,0.0,week,21-01-2018
+weather-forecast.com,de bilt,,11,1,,14.8475911305,SSW,91.3333333333,,1.66666666667,week,21-01-2018
+weather-forecast.com,maastricht,,7,5,,37.5015338176,SW,79.0,,3.66666666667,day,15-01-2018
+weather-forecast.com,amsterdam airport schiphol,,7,5,,31.8623436317,SW,79.3333333333,,7.33333333333,day,15-01-2018
+weather-forecast.com,maastricht,,11,3,,12.3955310606,SW,90.6666666667,,1.0,week,21-01-2018
+weather-forecast.com,amsterdam airport schiphol,,11,2,,16.2956179856,SSW,88.3333333333,,1.33333333333,week,21-01-2018
+weather-forecast.com,flushing,,9,5,,42.7396085459,SW,80.3333333333,,9.0,day,15-01-2018
+weather-forecast.com,eindhoven,,8,5,,36.1036233701,SW,80.6666666667,,6.33333333333,day,15-01-2018
+weather-forecast.com,flushing,,11,4,,22.7259610618,SW,90.3333333333,,0.666666666667,week,21-01-2018
+weather-forecast.com,eindhoven,,11,2,,13.7727639339,S,89.0,,1.0,week,21-01-2018
+weather-forecast.com,rotterdam,,8,5,,34.5236898095,SW,78.6666666667,,7.66666666667,day,15-01-2018
+weather-forecast.com,rotterdam,,11,2,,14.8191762501,SW,89.0,,0.666666666667,week,21-01-2018

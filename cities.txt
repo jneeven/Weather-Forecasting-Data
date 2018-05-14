@@ -1,0 +1,63 @@
+USA---------------------
+Los Angeles (CA)
+New York City (NY)
+Yuma (AZ)
+Tucson (AZ)
+El Paso (TX) --> Cant be found on bbc.com
+Sanderson (TX) --> Not on bbc.com
+San Antonio (TX)
+Beaumont (TX)
+Houma (LA)
+Pensacola (FL)
+Valdosta (GA)
+Miami (FL)
+Columbia (SC)
+Atlanta (GA)
+Tuscaloosa (AL)
+Hollandale (MS) --> Not on bbc.com
+Little Rock (AR)
+Oklahoma City (OK)
+Amarillo (TX)
+Albuquerque (NM)
+Flagstaff (AZ)
+Las Vegas (NV)
+Fresno (CA)
+Sacramento (CA)
+Winnemucca (NV) --> Not on bbc.com
+Salt Lake City (UT)
+Grand Junction (CO)
+Denver (CO)
+Hays (KS) --> Not on bbc.com
+Kansas City (MO)
+St Louis (MO)
+Louisville (KY)
+Charleston (WV)
+Nashville (TN)
+Knoxville (TN)
+Raleigh (NC)
+Dulles (VA)
+Cleveland (OH)
+Rochester (NY)
+Bangor (ME)
+Chicago (IL)
+Minneapolis (MN)
+Sioux Falls (SD)
+Rapid city (SD)
+Rock Springs (WY)
+Boise (ID)
+Denio (NV) --> not on bbc.com
+Portland (OR)
+Spokane (WA)
+Choteau (MT) --> not on bbc.com
+Sidney (MT) --> not on bbc.com
+Bismarck (ND)
+Bemidji (MN) --> not on bbc.com
+----------------------------------
+The Netherlands:
+Leeuwarden (FR)
+de Bilt (UT)
+Maastricht (LB)
+Schiphol (NH)
+Vlissingen (ZL)
+Eindhoven (NB)
+Rotterdam (ZH)
